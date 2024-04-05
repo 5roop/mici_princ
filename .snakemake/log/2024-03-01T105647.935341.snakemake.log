@@ -1,0 +1,32 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+Check             17              1              1
+DoJSON            17              1              1
+GatherJsons        1              1              1
+total             35              1              1
+
+Select jobs to execute...
+
+[Fri Mar  1 10:56:48 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_10.exb, /home/nikola/transfer/mici_princ/MP_10.txt.txt, /home/nikola/transfer/mici_princ/MP_10.txt.json
+    output: inspected_exbs_fixed/MP_10.exb
+    jobid: 18
+    reason: Code has changed since last execution
+    wildcards: file=MP_10
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 10:56:48 2024]
+Error in rule Check:
+    jobid: 18
+    input: /home/nikola/transfer/mici_princ/MP_10.exb, /home/nikola/transfer/mici_princ/MP_10.txt.txt, /home/nikola/transfer/mici_princ/MP_10.txt.json
+    output: inspected_exbs_fixed/MP_10.exb
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-03-01T105647.935341.snakemake.log

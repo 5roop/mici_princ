@@ -1,0 +1,215 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 10
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+DoJSON            15              1              1
+GatherJsons        1              1              1
+total             16              1              1
+
+Select jobs to execute...
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_04.exb, /home/nikola/transfer/mici_princ/MP_04.txt.txt, /home/nikola/transfer/mici_princ/MP_04.txt, /home/nikola/transfer/mici_princ/MP_04.txt.json
+    output: aligned_jsons/MP_04.json
+    jobid: 21
+    reason: Code has changed since last execution
+    wildcards: file=MP_04
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_01.exb, /home/nikola/transfer/mici_princ/MP_01.txt.txt, /home/nikola/transfer/mici_princ/MP_01.txt, /home/nikola/transfer/mici_princ/MP_01.txt.json
+    output: aligned_jsons/MP_01.json
+    jobid: 23
+    reason: Code has changed since last execution
+    wildcards: file=MP_01
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_07.exb, /home/nikola/transfer/mici_princ/MP_07.txt.txt, /home/nikola/transfer/mici_princ/MP_07.txt, /home/nikola/transfer/mici_princ/MP_07.txt.json
+    output: aligned_jsons/MP_07.json
+    jobid: 25
+    reason: Code has changed since last execution
+    wildcards: file=MP_07
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_02.exb, /home/nikola/transfer/mici_princ/MP_02.txt.txt, /home/nikola/transfer/mici_princ/MP_02.txt, /home/nikola/transfer/mici_princ/MP_02.txt.json
+    output: aligned_jsons/MP_02.json
+    jobid: 31
+    reason: Code has changed since last execution
+    wildcards: file=MP_02
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_15.exb, /home/nikola/transfer/mici_princ/MP_15.txt.txt, /home/nikola/transfer/mici_princ/MP_15.txt, /home/nikola/transfer/mici_princ/MP_15.txt.json
+    output: aligned_jsons/MP_15.json
+    jobid: 5
+    reason: Code has changed since last execution
+    wildcards: file=MP_15
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_08.exb, /home/nikola/transfer/mici_princ/MP_08.txt.txt, /home/nikola/transfer/mici_princ/MP_08.txt, /home/nikola/transfer/mici_princ/MP_08.txt.json
+    output: aligned_jsons/MP_08.json
+    jobid: 7
+    reason: Code has changed since last execution
+    wildcards: file=MP_08
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_13.exb, /home/nikola/transfer/mici_princ/MP_13.txt.txt, /home/nikola/transfer/mici_princ/MP_13.txt, /home/nikola/transfer/mici_princ/MP_13.txt.json
+    output: aligned_jsons/MP_13.json
+    jobid: 9
+    reason: Code has changed since last execution
+    wildcards: file=MP_13
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_05.exb, /home/nikola/transfer/mici_princ/MP_05.txt.txt, /home/nikola/transfer/mici_princ/MP_05.txt, /home/nikola/transfer/mici_princ/MP_05.txt.json
+    output: aligned_jsons/MP_05.json
+    jobid: 13
+    reason: Code has changed since last execution
+    wildcards: file=MP_05
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_10.exb, /home/nikola/transfer/mici_princ/MP_10.txt.txt, /home/nikola/transfer/mici_princ/MP_10.txt, /home/nikola/transfer/mici_princ/MP_10.txt.json
+    output: aligned_jsons/MP_10.json
+    jobid: 17
+    reason: Code has changed since last execution
+    wildcards: file=MP_10
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:01 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_14.exb, /home/nikola/transfer/mici_princ/MP_14.txt.txt, /home/nikola/transfer/mici_princ/MP_14.txt, /home/nikola/transfer/mici_princ/MP_14.txt.json
+    output: aligned_jsons/MP_14.json
+    jobid: 19
+    reason: Code has changed since last execution
+    wildcards: file=MP_14
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:02 2024]
+Finished job 19.
+1 of 16 steps (6%) done
+Select jobs to execute...
+
+[Fri Mar  1 12:49:02 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_09.exb, /home/nikola/transfer/mici_princ/MP_09.txt.txt, /home/nikola/transfer/mici_princ/MP_09.txt, /home/nikola/transfer/mici_princ/MP_09.txt.json
+    output: aligned_jsons/MP_09.json
+    jobid: 27
+    reason: Code has changed since last execution
+    wildcards: file=MP_09
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:02 2024]
+Finished job 13.
+2 of 16 steps (12%) done
+Select jobs to execute...
+
+[Fri Mar  1 12:49:02 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_00.exb, /home/nikola/transfer/mici_princ/MP_00.txt.txt, /home/nikola/transfer/mici_princ/MP_00.txt, /home/nikola/transfer/mici_princ/MP_00.txt.json
+    output: aligned_jsons/MP_00.json
+    jobid: 15
+    reason: Code has changed since last execution
+    wildcards: file=MP_00
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:02 2024]
+Finished job 23.
+3 of 16 steps (19%) done
+Select jobs to execute...
+
+[Fri Mar  1 12:49:02 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_06.exb, /home/nikola/transfer/mici_princ/MP_06.txt.txt, /home/nikola/transfer/mici_princ/MP_06.txt, /home/nikola/transfer/mici_princ/MP_06.txt.json
+    output: aligned_jsons/MP_06.json
+    jobid: 11
+    reason: Code has changed since last execution
+    wildcards: file=MP_06
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:02 2024]
+Finished job 9.
+4 of 16 steps (25%) done
+Select jobs to execute...
+
+[Fri Mar  1 12:49:02 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_11.exb, /home/nikola/transfer/mici_princ/MP_11.txt.txt, /home/nikola/transfer/mici_princ/MP_11.txt, /home/nikola/transfer/mici_princ/MP_11.txt.json
+    output: aligned_jsons/MP_11.json
+    jobid: 29
+    reason: Code has changed since last execution
+    wildcards: file=MP_11
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:02 2024]
+Finished job 17.
+5 of 16 steps (31%) done
+[Fri Mar  1 12:49:02 2024]
+Finished job 21.
+6 of 16 steps (38%) done
+Select jobs to execute...
+
+[Fri Mar  1 12:49:02 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_12.exb, /home/nikola/transfer/mici_princ/MP_12.txt.txt, /home/nikola/transfer/mici_princ/MP_12.txt, /home/nikola/transfer/mici_princ/MP_12.txt.json
+    output: aligned_jsons/MP_12.json
+    jobid: 3
+    reason: Code has changed since last execution
+    wildcards: file=MP_12
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 12:49:02 2024]
+Finished job 31.
+7 of 16 steps (44%) done
+[Fri Mar  1 12:49:02 2024]
+Finished job 5.
+8 of 16 steps (50%) done
+[Fri Mar  1 12:49:02 2024]
+Finished job 25.
+9 of 16 steps (56%) done
+[Fri Mar  1 12:49:02 2024]
+Finished job 7.
+10 of 16 steps (62%) done
+[Fri Mar  1 12:49:02 2024]
+Finished job 3.
+11 of 16 steps (69%) done
+[Fri Mar  1 12:49:02 2024]
+Finished job 29.
+12 of 16 steps (75%) done
+[Fri Mar  1 12:49:02 2024]
+Finished job 11.
+13 of 16 steps (81%) done
+[Fri Mar  1 12:49:02 2024]
+Finished job 27.
+14 of 16 steps (88%) done
+[Fri Mar  1 12:49:02 2024]
+Finished job 15.
+15 of 16 steps (94%) done
+Select jobs to execute...
+
+[Fri Mar  1 12:49:02 2024]
+rule GatherJsons:
+    input: aligned_jsons/MP_03.json, aligned_jsons/MP_12.json, aligned_jsons/MP_15.json, aligned_jsons/MP_08.json, aligned_jsons/MP_13.json, aligned_jsons/MP_06.json, aligned_jsons/MP_05.json, aligned_jsons/MP_00.json, aligned_jsons/MP_10.json, aligned_jsons/MP_14.json, aligned_jsons/MP_04.json, aligned_jsons/MP_01.json, aligned_jsons/MP_07.json, aligned_jsons/MP_09.json, aligned_jsons/MP_11.json, aligned_jsons/MP_02.json
+    jobid: 0
+    reason: Input files updated by another job: aligned_jsons/MP_13.json, aligned_jsons/MP_07.json, aligned_jsons/MP_06.json, aligned_jsons/MP_05.json, aligned_jsons/MP_12.json, aligned_jsons/MP_01.json, aligned_jsons/MP_15.json, aligned_jsons/MP_08.json, aligned_jsons/MP_10.json, aligned_jsons/MP_14.json, aligned_jsons/MP_02.json, aligned_jsons/MP_04.json, aligned_jsons/MP_00.json, aligned_jsons/MP_09.json, aligned_jsons/MP_11.json
+    resources: tmpdir=/tmp
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-03-01T124901.179128.snakemake.log

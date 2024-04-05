@@ -1,0 +1,620 @@
+,gold_text,char_s,char_e,text,time_s,time_e,speaker,time_s_float,speaker_changed_now,speaker_will_change,original_text
+0,šesti,0,5,šesti,60.526666666666664,60.95333333333333,Pisac [v],60.526666666666664,True,False,Šesti
+1,planet,6,12,planet,60.95333333333333,61.43333333333333,Pisac [v],60.95333333333333,False,False,planet
+2,je,13,15,je,61.43333333333333,61.57,Pisac [v],61.43333333333333,False,False,je
+3,biv,16,19,biv,61.58,61.89,Pisac [v],61.58,False,False,biv
+4,deset,20,25,deset,62.28,62.68,Pisac [v],62.28,False,False,deset
+5,put,26,29,put,62.69,62.94,Pisac [v],62.69,False,False,put
+6,veći,30,34,veći,62.95,63.15,Pisac [v],62.95,False,False,veći
+7,na,36,38,na,63.63,63.74,Pisac [v],63.63,False,False,Na
+8,njin,39,43,njin,63.74,64.0,Pisac [v],63.74,False,False,njin
+9,je,44,46,je,64.0,64.14,Pisac [v],64.0,False,False,je
+10,bivav,47,52,bivav,64.14,64.6,Pisac [v],64.14,False,False,bivav
+11,niki,53,57,niki,64.64,64.93,Pisac [v],64.64,False,False,niki
+12,stari,58,63,stari,64.94,65.36,Pisac [v],64.94,False,False,stari
+13,čovik,64,69,čovik,65.36,65.79,Pisac [v],65.36,False,False,čovik
+14,ki,70,72,ki,66.03,66.22,Pisac [v],66.03,False,False,ki
+15,je,73,75,je,66.22,66.32,Pisac [v],66.22,False,False,je
+16,pisav,76,81,pisav,66.33,66.88,Pisac [v],66.33,False,False,pisav
+17,vele,82,86,vele,66.94,67.26,Pisac [v],66.94,False,False,vele
+18,knjige,87,93,knjige,67.27,67.71,Pisac [v],67.27,False,True,knjige
+104,su,575,577,oho,68.5,69.25,Geograf [v],68.5,True,False,Su
+105,na,578,580,evo,69.58,69.94,Geograf [v],69.58,False,False,na
+106,njin,581,585,meni,69.94,70.36,Geograf [v],69.94,False,False,njin
+107,oceani,586,592,jednoga,70.36,70.92,Geograf [v],70.36,False,False,oceani
+108,e,596,597,istraživača,71.08,72.45,Geograf [v],71.08,False,True,E
+19,oho,97,100,mići,72.88,73.16,Pisac [v],72.88,True,False,Oho
+20,evo,102,105,princ,73.16,73.56,Pisac [v],73.16,False,False,Evo
+21,meni,106,110,side,73.56,73.9,Pisac [v],73.56,False,False,meni
+22,jednoga,111,118,na,73.91,74.02,Pisac [v],73.91,False,False,jednoga
+23,istraživača,119,130,stov,74.03,74.49,Pisac [v],74.03,False,False,istraživača
+24,mići,132,136,malo,74.56,74.91,Pisac [v],74.56,False,False,Mići
+25,princ,137,142,zapuhan,74.91,75.67,Pisac [v],74.91,False,False,Princ
+26,side,143,147,biv,75.83,76.08,Pisac [v],75.83,False,False,side
+27,na,148,150,je,76.08,76.18,Pisac [v],76.08,False,False,na
+28,stov,151,155,prepasav,76.19,76.84,Pisac [v],76.19,False,False,stov
+29,malo,156,160,već,76.84,77.16,Pisac [v],76.84,False,False,malo
+30,zapuhan,161,168,tulik,77.16,77.63,Pisac [v],77.16,False,False,zapuhan
+31,biv,170,173,put,77.63,77.94,Pisac [v],77.63,False,True,Biv
+109,to,598,600,a,78.52,78.93,Geograf [v],78.52,True,False,to
+110,ti,601,603,odokli,79.11,79.68,Geograf [v],79.11,False,False,ti
+111,ja,604,606,si,79.69,79.87,Geograf [v],79.69,False,False,ja
+112,ne,607,609,ti,79.88,80.32,Geograf [v],79.88,False,True,ne
+467,dogodit,2549,2556,kakova,80.52,80.99,Mići Princ [v],80.52,True,False,dogodit
+468,da,2557,2559,je,81.0,81.18,Mići Princ [v],81.0,False,False,da
+469,jedna,2560,2565,to,81.19,81.43,Mići Princ [v],81.19,False,False,jedna
+470,planina,2566,2573,debela,81.44,82.0,Mići Princ [v],81.44,False,False,planina
+471,promini,2574,2581,knjiga,82.06,82.77,Mići Princ [v],82.06,False,False,promini
+472,mesto,2582,2587,ča,83.03,83.22,Mići Princ [v],83.03,False,False,mesto
+473,ili,2588,2591,vi,83.22,83.41,Mići Princ [v],83.22,False,False,ili
+474,da,2592,2594,ovdi,83.41,83.71,Mići Princ [v],83.41,False,False,da
+475,va,2595,2597,dilate,83.72,84.36,Mići Princ [v],83.72,False,True,va
+113,moren,610,615,ja,84.61,84.97,Geograf [v],84.61,True,False,moren
+114,znat,616,620,san,84.97,85.24,Geograf [v],84.97,False,False,znat
+115,ah,624,626,ti,85.25,85.72,Geograf [v],85.25,False,False,Ah
+116,a,628,629,geograf,85.94,86.6,Geograf [v],85.94,False,True,a
+476,oceanu,2598,2604,ča,86.81,86.93,Mići Princ [v],86.81,True,False,oceanu
+477,nestane,2605,2612,je,87.03,87.09,Mići Princ [v],87.03,False,False,nestane
+478,mora,2613,2617,to,87.09,87.25,Mići Princ [v],87.09,False,False,mora
+479,mi,2619,2621,geograf,87.25,87.96,Mići Princ [v],87.25,False,True,Mi
+117,planine,630,637,to,88.31,88.73,Geograf [v],88.31,True,False,planine
+118,ni,641,643,je,88.73,89.1,Geograf [v],88.73,False,False,Ni
+119,to,644,646,učeni,89.16,89.79,Geograf [v],89.16,False,False,to
+120,ti,647,649,čovik,89.8,90.33,Geograf [v],89.8,False,False,ti
+121,ne,650,652,ki,90.34,90.52,Geograf [v],90.34,False,False,ne
+122,moren,653,658,zna,90.53,90.88,Geograf [v],90.53,False,False,moren
+123,znat,659,663,kadi,90.88,91.28,Geograf [v],90.88,False,False,znat
+124,a,667,668,su,91.28,91.5,Geograf [v],91.28,False,False,A
+125,gradi,669,674,mora,91.5,92.15,Geograf [v],91.5,False,False,gradi
+126,rike,676,680,rike,92.45,93.3,Geograf [v],92.45,False,False,rike
+127,ili,681,684,veli,93.59,93.93,Geograf [v],93.59,False,False,ili
+128,pustinje,685,693,gradi,93.94,94.59,Geograf [v],93.94,False,False,pustinje
+129,ne,697,699,planine,94.84,95.6,Geograf [v],94.84,False,False,Ne
+130,ni,701,703,i,95.88,96.09,Geograf [v],95.88,False,False,ni
+131,to,704,706,pustinje,96.09,96.91,Geograf [v],96.09,False,True,to
+480,pišemo,2622,2628,to,97.59,97.72,Mići Princ [v],97.59,True,False,pišemo
+481,ono,2629,2632,je,97.72,97.8,Mići Princ [v],97.72,False,False,ono
+482,ča,2633,2635,zanimjivo,97.81,98.56,Mići Princ [v],97.81,False,False,ča
+483,je,2636,2638,viš,99.0,99.4,Mići Princ [v],99.0,False,False,je
+484,vično,2639,2644,na,99.59,99.77,Mići Princ [v],99.59,False,False,vično
+485,ča,2646,2648,kraju,99.78,100.16,Mići Princ [v],99.78,False,False,ča
+486,za,2649,2651,jeniga,100.2,100.48,Mići Princ [v],100.2,False,False,za
+487,vajk,2652,2656,od,100.48,100.61,Mići Princ [v],100.48,False,False,vajk
+488,ostaje,2657,2663,praviga,100.62,101.02,Mići Princ [v],100.62,False,False,ostaje
+489,i,2664,2665,zanimanja,101.03,101.61,Mići Princ [v],101.03,False,True,i
+32,je,174,176,i,102.12,102.18,Pisac [v],102.12,True,False,je
+33,prepasav,177,185,obazre,102.19,102.64,Pisac [v],102.19,False,False,prepasav
+34,već,186,189,se,102.65,102.82,Pisac [v],102.65,False,False,već
+35,tulik,190,195,malo,102.83,103.17,Pisac [v],102.83,False,False,tulik
+36,put,196,199,okoli,103.2,103.61,Pisac [v],103.2,False,False,put
+37,a,203,204,sebe,103.62,104.05,Pisac [v],103.62,False,False,A
+38,odokli,205,211,po,104.19,104.34,Pisac [v],104.19,False,False,odokli
+39,si,212,214,geografovin,104.34,105.3,Pisac [v],104.34,False,False,si
+40,ti,215,217,planetu,105.31,105.92,Pisac [v],105.31,False,False,ti
+41,kakova,221,227,nigdar,106.0,106.47,Pisac [v],106.0,False,False,Kakova
+42,je,228,230,ni,106.47,106.62,Pisac [v],106.47,False,False,je
+43,to,231,233,još,106.62,106.92,Pisac [v],106.62,False,False,to
+44,debela,234,240,videv,106.92,107.3,Pisac [v],106.92,False,False,debela
+45,knjiga,241,247,takov,107.31,107.77,Pisac [v],107.31,False,False,knjiga
+46,ča,249,251,veličanstven,107.78,108.42,Pisac [v],107.78,False,False,Ča
+47,vi,252,254,planet,108.42,108.81,Pisac [v],108.42,False,True,vi
+490,vridi,2666,2671,vaš,109.42,109.64,Mići Princ [v],109.42,True,False,vridi
+491,ma,2675,2677,je,109.65,109.74,Mići Princ [v],109.65,False,False,Ma
+492,zagašeni,2678,2686,planet,109.75,110.12,Mići Princ [v],109.75,False,False,zagašeni
+493,vulkani,2687,2694,jako,110.12,110.39,Mići Princ [v],110.12,False,False,vulkani
+494,se,2695,2697,lip,110.4,110.72,Mići Princ [v],110.4,False,False,se
+495,moru,2698,2702,su,111.34,111.52,Mići Princ [v],111.34,False,False,moru
+496,zbudit,2703,2709,na,111.67,111.73,Mići Princ [v],111.67,False,False,zbudit
+497,ča,2711,2713,njin,111.73,111.95,Mići Princ [v],111.73,False,False,Ča
+498,bi,2714,2716,oceani,111.95,112.63,Mići Princ [v],111.95,False,True,bi
+132,ti,707,709,e,113.16,113.28,Geograf [v],113.16,True,False,ti
+133,ne,710,712,to,113.56,113.88,Geograf [v],113.56,False,False,ne
+134,moren,713,718,ti,113.88,114.09,Geograf [v],113.88,False,False,moren
+135,znat,719,723,ja,114.09,114.28,Geograf [v],114.09,False,False,znat
+136,ma,727,729,ne,114.28,114.41,Geograf [v],114.28,False,False,Ma
+137,vi,730,732,moren,114.41,114.82,Geograf [v],114.41,False,False,vi
+138,ste,733,736,znat,114.83,115.12,Geograf [v],114.83,False,True,ste
+499,reć,2717,2720,ah,115.42,115.87,Mići Princ [v],115.42,True,False,reć
+500,kratkotrajno,2722,2734,a,116.4,116.51,Mići Princ [v],116.4,False,False,kratkotrajno
+501,to,2739,2741,planine,116.52,116.96,Mići Princ [v],116.52,False,True,To
+139,geograf,737,744,ni,117.4,117.7,Geograf [v],117.4,True,False,geograf
+140,je,748,750,to,117.7,117.97,Geograf [v],117.7,False,False,Je
+141,to,752,754,ti,117.97,118.36,Geograf [v],117.97,False,False,to
+142,je,755,757,ne,118.52,118.72,Geograf [v],118.52,False,False,je
+143,istina,758,764,moren,118.72,119.12,Geograf [v],118.72,False,False,istina
+144,ali,766,769,znat,119.12,119.45,Geograf [v],119.12,False,True,ali
+502,ča,2742,2744,a,119.6,119.79,Mići Princ [v],119.6,True,False,ča
+503,su,2745,2747,gradi,119.8,120.43,Mići Princ [v],119.8,False,False,su
+504,vulkani,2748,2755,rike,120.67,121.0,Mići Princ [v],120.67,False,False,vulkani
+505,ogašeni,2756,2763,ili,121.0,121.15,Mići Princ [v],121.0,False,False,ogašeni
+506,ili,2764,2767,pustinje,121.16,121.71,Mići Princ [v],121.16,False,True,ili
+145,nisan,770,775,ne,121.78,122.25,Geograf [v],121.78,True,False,nisan
+146,ja,776,778,ni,122.45,122.76,Geograf [v],122.45,False,False,ja
+147,istraživač,779,789,to,122.77,123.23,Geograf [v],122.77,False,False,istraživač
+148,i,791,792,ti,123.33,123.53,Geograf [v],123.33,False,False,I
+149,meni,793,797,ne,123.53,123.68,Geograf [v],123.53,False,False,meni
+150,istraživači,798,809,moren,123.69,124.07,Geograf [v],123.69,False,False,istraživači
+151,jako,810,814,znat,124.08,124.31,Geograf [v],124.08,False,True,jako
+507,su,2768,2770,ma,124.47,124.58,Mići Princ [v],124.47,True,False,su
+508,nanovo,2771,2777,vi,124.59,124.68,Mići Princ [v],124.59,False,False,nanovo
+509,oživili,2778,2785,ste,124.69,124.85,Mići Princ [v],124.69,False,False,oživili
+510,to,2787,2789,geograf,124.85,125.38,Mići Princ [v],124.85,False,True,to
+152,falu,815,819,je,125.41,125.86,Geograf [v],125.41,True,False,falu
+153,geograf,821,828,to,126.25,126.64,Geograf [v],126.25,False,False,Geograf
+154,neće,829,833,je,126.65,126.98,Geograf [v],126.65,False,False,neće
+155,brojit,834,840,istina,126.99,127.6,Geograf [v],126.99,False,False,brojit
+156,gradi,841,846,ali,127.94,127.99,Geograf [v],127.94,False,False,gradi
+157,rike,848,852,nisan,128.56,129.06,Geograf [v],128.56,False,False,rike
+158,planine,854,861,ja,129.06,129.39,Geograf [v],129.06,False,False,planine
+159,mora,863,867,istraživač,129.43,130.48,Geograf [v],129.43,False,False,mora
+160,veli,869,873,i,130.94,131.09,Geograf [v],130.94,False,False,veli
+161,oceani,874,880,meni,131.09,131.56,Geograf [v],131.09,False,False,oceani
+162,i,881,882,istraživači,131.59,132.61,Geograf [v],131.59,False,False,i
+163,pustinje,883,891,jako,132.62,133.0,Geograf [v],132.62,False,False,pustinje
+164,geograf,893,900,falu,133.0,133.51,Geograf [v],133.0,False,False,Geograf
+165,je,901,903,geograf,133.84,134.54,Geograf [v],133.84,False,False,je
+166,jako,904,908,neće,134.69,135.27,Geograf [v],134.69,False,False,jako
+167,važan,909,914,brojit,135.28,135.63,Geograf [v],135.28,False,False,važan
+168,da,915,917,gradi,135.63,136.16,Geograf [v],135.63,False,False,da
+169,bi,918,920,rike,136.56,137.22,Geograf [v],136.56,False,False,bi
+170,samo,921,925,planine,137.22,137.98,Geograf [v],137.22,False,False,samo
+171,tako,926,930,mora,138.03,138.66,Geograf [v],138.03,False,False,tako
+172,okolo,933,938,veli,138.78,139.02,Geograf [v],138.78,False,False,okolo
+173,tekal,939,944,oceani,139.03,139.88,Geograf [v],139.03,False,False,tekal
+174,i,945,946,i,140.16,140.36,Geograf [v],140.16,False,False,i
+175,lutal,947,952,pustinje,140.37,141.09,Geograf [v],140.37,False,False,lutal
+176,un,954,956,geograf,141.5,142.13,Geograf [v],141.5,False,False,Un
+177,je,957,959,je,142.13,142.45,Geograf [v],142.13,False,False,je
+178,duron,960,965,jako,142.5,143.18,Geograf [v],142.5,False,False,duron
+179,va,966,968,važan,143.19,143.66,Geograf [v],143.19,False,False,va
+180,svojoj,969,975,da,143.66,143.78,Geograf [v],143.66,False,False,svojoj
+181,sobi,976,980,bi,143.78,143.92,Geograf [v],143.78,False,False,sobi
+182,na,981,983,samo,143.93,144.36,Geograf [v],143.93,False,False,na
+183,poslu,984,989,tako,144.37,144.76,Geograf [v],144.37,False,False,poslu
+184,ma,991,993,okolo,144.79,145.25,Geograf [v],144.79,False,False,Ma
+185,zato,994,998,tekal,145.25,145.75,Geograf [v],145.25,False,False,zato
+186,un,999,1001,i,146.04,146.24,Geograf [v],146.04,False,False,un
+187,rado,1002,1006,lutal,146.25,146.84,Geograf [v],146.25,False,False,rado
+188,dočekuje,1007,1015,un,147.31,147.55,Geograf [v],147.31,False,False,dočekuje
+189,sve,1016,1019,je,147.56,147.7,Geograf [v],147.56,False,False,sve
+190,istraživače,1020,1031,duron,147.71,148.33,Geograf [v],147.71,False,False,istraživače
+191,un,1033,1035,va,148.37,148.55,Geograf [v],148.37,False,False,Un
+192,ih,1036,1038,svojoj,148.56,148.96,Geograf [v],148.56,False,False,ih
+193,ispićuje,1039,1047,sobi,148.97,149.5,Geograf [v],148.97,False,False,ispićuje
+194,i,1048,1049,na,149.78,150.02,Geograf [v],149.78,False,False,i
+195,zapisuje,1050,1058,poslu,150.03,150.64,Geograf [v],150.03,False,False,zapisuje
+196,njihove,1059,1066,ma,151.03,151.22,Geograf [v],151.03,False,False,njihove
+197,uspomene,1067,1075,zato,151.22,151.64,Geograf [v],151.22,False,False,uspomene
+198,pa,1077,1079,un,151.65,151.88,Geograf [v],151.65,False,False,Pa
+199,ako,1080,1083,rado,151.88,152.31,Geograf [v],151.88,False,False,ako
+200,mu,1084,1086,dočekuje,152.31,153.05,Geograf [v],152.31,False,False,mu
+201,se,1087,1089,sve,153.06,153.54,Geograf [v],153.06,False,False,se
+202,od,1090,1092,istraživače,153.59,154.77,Geograf [v],153.59,False,False,od
+203,toga,1093,1097,un,155.24,155.57,Geograf [v],155.24,False,False,toga
+204,ča,1098,1100,ih,155.57,155.86,Geograf [v],155.57,False,False,ča
+205,to,1101,1103,ispićuje,155.9,156.86,Geograf [v],155.9,False,False,to
+206,učini,1104,1109,i,156.87,156.92,Geograf [v],156.87,False,False,učini
+207,važnin,1110,1116,zapisuje,156.93,157.73,Geograf [v],156.93,False,False,važnin
+208,unda,1118,1122,njihove,158.03,158.59,Geograf [v],158.03,False,False,unda
+209,geograf,1123,1130,uspomene,158.62,159.45,Geograf [v],158.62,False,False,geograf
+210,naredi,1131,1137,pa,159.76,159.91,Geograf [v],159.76,False,False,naredi
+211,da,1138,1140,ako,159.91,160.28,Geograf [v],159.91,False,False,da
+212,se,1141,1143,mu,160.28,160.47,Geograf [v],160.28,False,False,se
+213,ispita,1144,1150,se,160.47,160.61,Geograf [v],160.47,False,False,ispita
+214,i,1151,1152,od,160.62,160.78,Geograf [v],160.62,False,False,i
+215,poštenje,1153,1161,toga,160.78,161.15,Geograf [v],160.78,False,False,poštenje
+216,istraživača,1162,1173,ča,161.16,161.46,Geograf [v],161.16,False,False,istraživača
+217,zača,1177,1181,to,161.47,161.64,Geograf [v],161.47,False,False,Zača
+218,to,1182,1184,učini,161.65,162.08,Geograf [v],161.65,False,False,to
+219,zato,1188,1192,važnin,162.09,162.66,Geograf [v],162.09,False,False,Zato
+220,boj,1194,1197,unda,163.0,163.42,Geograf [v],163.0,False,False,boj
+221,bi,1198,1200,geograf,163.43,164.08,Geograf [v],163.43,False,False,bi
+222,istraživač,1201,1211,naredi,164.09,164.8,Geograf [v],164.09,False,False,istraživač
+223,ki,1212,1214,da,164.97,165.13,Geograf [v],164.97,False,False,ki
+224,laže,1215,1219,se,165.13,165.3,Geograf [v],165.13,False,False,laže
+225,učinil,1220,1226,ispita,165.31,166.11,Geograf [v],165.31,False,False,učinil
+226,veli,1227,1231,i,166.31,166.5,Geograf [v],166.31,False,False,veli
+227,konfužijun,1232,1242,poštenje,166.5,167.38,Geograf [v],166.5,False,False,konfužijun
+228,va,1243,1245,istraživača,167.53,168.8,Geograf [v],167.53,False,True,va
+511,je,2790,2792,zača,169.31,169.64,Mići Princ [v],169.31,True,False,je
+512,namin,2793,2798,to,169.65,169.95,Mići Princ [v],169.65,False,True,namin
+229,knjigamin,1246,1255,zato,170.38,171.04,Geograf [v],170.38,True,False,knjigamin
+230,od,1256,1258,boj,171.04,171.3,Geograf [v],171.04,False,False,od
+231,geografije,1259,1269,bi,171.31,171.49,Geograf [v],171.31,False,False,geografije
+232,to,1271,1273,istraživač,171.5,172.35,Geograf [v],171.5,False,False,To
+233,se,1274,1276,ki,172.35,172.67,Geograf [v],172.35,False,False,se
+234,na,1277,1279,laže,172.68,173.19,Geograf [v],172.68,False,False,na
+235,isti,1280,1284,učinil,173.44,174.11,Geograf [v],173.44,False,False,isti
+236,mod,1285,1288,veli,174.15,174.49,Geograf [v],174.15,False,False,mod
+237,more,1289,1293,konfužijun,174.5,175.57,Geograf [v],174.5,False,False,more
+238,reć,1294,1297,va,175.81,175.98,Geograf [v],175.81,False,False,reć
+239,i,1298,1299,knjigamin,175.99,176.7,Geograf [v],175.99,False,False,i
+240,za,1300,1302,od,176.75,176.9,Geograf [v],176.75,False,False,za
+241,istraživača,1303,1314,geografije,176.91,177.75,Geograf [v],176.91,False,False,istraživača
+242,ki,1315,1317,to,178.07,178.43,Geograf [v],178.07,False,False,ki
+243,malo,1318,1322,se,178.44,178.67,Geograf [v],178.44,False,False,malo
+244,priko,1323,1328,na,178.68,178.92,Geograf [v],178.68,False,False,priko
+245,mere,1329,1333,isti,178.93,179.44,Geograf [v],178.93,False,False,mere
+246,i,1334,1335,mod,179.44,179.81,Geograf [v],179.44,False,False,i
+247,popije,1336,1342,more,179.81,180.28,Geograf [v],179.81,False,False,popije
+248,a,1346,1347,reć,180.28,180.5,Geograf [v],180.28,False,False,A
+249,zač,1348,1351,i,180.75,180.95,Geograf [v],180.75,False,False,zač
+250,zato,1355,1359,za,180.96,181.18,Geograf [v],180.96,False,False,Zato
+251,boj,1361,1364,istraživača,181.28,182.44,Geograf [v],181.28,False,False,boj
+252,pijani,1365,1371,ki,182.72,182.94,Geograf [v],182.72,False,False,pijani
+253,ljudi,1372,1377,malo,182.94,183.37,Geograf [v],182.94,False,False,ljudi
+254,vidu,1378,1382,priko,183.41,183.82,Geograf [v],183.41,False,False,vidu
+255,sve,1383,1386,mere,183.82,184.22,Geograf [v],183.82,False,False,sve
+256,na,1387,1389,i,184.22,184.3,Geograf [v],184.22,False,False,na
+257,duplo,1390,1395,popije,184.31,184.96,Geograf [v],184.31,False,True,duplo
+513,geografima,2799,2809,a,185.19,185.32,Mići Princ [v],185.19,True,False,geografima
+514,svejedno,2810,2818,zač,185.32,185.65,Mići Princ [v],185.32,False,True,svejedno
+258,pa,1397,1399,zato,186.13,186.78,Geograf [v],186.13,True,False,pa
+259,bi,1400,1402,boj,187.03,187.24,Geograf [v],187.03,False,False,bi
+260,tako,1403,1407,pijani,187.25,187.83,Geograf [v],187.25,False,False,tako
+261,geograf,1408,1415,ljudi,187.84,188.42,Geograf [v],187.84,False,False,geograf
+262,va,1416,1418,vidu,188.54,188.86,Geograf [v],188.54,False,False,va
+263,libar,1419,1424,sve,188.87,189.17,Geograf [v],188.87,False,False,libar
+264,sinjal,1425,1431,na,189.18,189.47,Geograf [v],189.18,False,False,sinjal
+265,dvi,1432,1435,duplo,189.5,190.01,Geograf [v],189.5,False,False,dvi
+266,planine,1436,1443,pa,190.3,190.46,Geograf [v],190.3,False,False,planine
+267,i,1444,1445,bi,190.47,190.62,Geograf [v],190.47,False,False,i
+268,tamo,1446,1450,tako,190.62,191.03,Geograf [v],190.62,False,False,tamo
+269,kadi,1451,1455,geograf,191.03,191.63,Geograf [v],191.03,False,False,kadi
+270,nisu,1456,1460,va,191.8,191.99,Geograf [v],191.8,False,False,nisu
+271,dvi,1461,1464,libar,192.0,192.51,Geograf [v],192.0,False,False,dvi
+272,nego,1465,1469,sinjal,192.52,193.06,Geograf [v],192.52,False,False,nego
+273,je,1470,1472,dvi,193.3,193.71,Geograf [v],193.3,False,False,je
+274,samo,1473,1477,planine,193.72,194.41,Geograf [v],193.72,False,False,samo
+275,jedna,1478,1483,i,194.53,194.77,Geograf [v],194.53,False,False,jedna
+276,poznan,1487,1493,tamo,194.78,195.25,Geograf [v],194.78,False,False,Poznan
+277,nikiga,1494,1500,kadi,195.46,195.76,Geograf [v],195.46,False,False,nikiga
+278,ki,1501,1503,nisu,195.77,196.15,Geograf [v],195.77,False,False,ki
+279,bi,1504,1506,dvi,196.16,196.55,Geograf [v],196.16,False,False,bi
+280,biv,1507,1510,nego,196.81,197.04,Geograf [v],196.81,False,False,biv
+281,jako,1511,1515,je,197.05,197.13,Geograf [v],197.05,False,False,jako
+282,loš,1516,1519,samo,197.14,197.64,Geograf [v],197.14,False,False,loš
+283,istraživač,1520,1530,jedna,197.94,198.46,Geograf [v],197.94,False,True,istraživač
+515,za,2820,2822,poznan,198.72,199.06,Mići Princ [v],198.72,True,False,Za
+516,nas,2823,2826,nikiga,199.06,199.45,Mići Princ [v],199.06,False,False,nas
+517,je,2827,2829,ki,199.46,199.64,Mići Princ [v],199.46,False,False,je
+518,samo,2830,2834,bi,199.65,199.76,Mići Princ [v],199.65,False,False,samo
+519,važan,2835,2840,biv,199.77,199.99,Mići Princ [v],199.77,False,False,važan
+520,brig,2841,2845,jako,200.0,200.33,Mići Princ [v],200.0,False,False,brig
+521,planina,2847,2854,loš,200.34,200.55,Mići Princ [v],200.34,False,False,planina
+522,a,2856,2857,istraživač,200.56,201.29,Mići Princ [v],200.56,False,True,A
+284,moguće,1534,1540,moguće,201.53,202.35,Geograf [v],201.53,True,False,Moguće
+285,je,1541,1543,je,202.36,202.79,Geograf [v],202.36,False,False,je
+286,to,1545,1547,to,203.0,203.36,Geograf [v],203.0,False,False,To
+287,pari,1548,1552,pari,203.37,203.95,Geograf [v],203.37,False,False,pari
+288,da,1554,1556,da,204.22,204.37,Geograf [v],204.22,False,False,da
+289,kad,1557,1560,kad,204.38,204.68,Geograf [v],204.38,False,False,kad
+290,je,1561,1563,je,204.69,204.8,Geograf [v],204.69,False,False,je
+291,moral,1564,1569,moral,204.81,205.28,Geograf [v],204.81,False,False,moral
+292,istraživača,1570,1581,istraživača,205.28,206.18,Geograf [v],205.28,False,False,istraživača
+293,dobar,1582,1587,dobar,206.31,206.79,Geograf [v],206.31,False,False,dobar
+294,unda,1589,1593,unda,207.21,207.52,Geograf [v],207.21,False,False,unda
+295,se,1594,1596,se,207.53,207.71,Geograf [v],207.53,False,False,se
+296,i,1597,1598,i,207.72,207.75,Geograf [v],207.72,False,False,i
+297,njigovo,1599,1606,njigovo,207.75,208.18,Geograf [v],207.75,False,False,njigovo
+298,otkriće,1607,1614,otkriće,208.19,208.96,Geograf [v],208.19,False,False,otkriće
+299,istražuje,1615,1624,istražuje,209.14,210.02,Geograf [v],209.14,False,True,istražuje
+523,ona,2858,2861,gre,210.12,210.34,Mići Princ [v],210.12,True,False,ona
+524,se,2862,2864,se,210.34,210.53,Mići Princ [v],210.34,False,False,se
+525,ne,2865,2867,na,210.53,210.7,Mići Princ [v],210.53,False,False,ne
+526,minja,2868,2873,lice,210.71,211.08,Mići Princ [v],210.71,False,False,minja
+527,pak,2877,2880,mista,211.09,211.68,Mići Princ [v],211.09,False,True,Pak
+300,gre,1628,1631,ne,211.91,212.32,Geograf [v],211.91,True,False,Gre
+301,se,1632,1634,to,212.62,212.94,Geograf [v],212.62,False,False,se
+302,na,1635,1637,je,212.94,213.11,Geograf [v],212.94,False,False,na
+303,lice,1638,1642,teško,213.12,213.62,Geograf [v],213.12,False,False,lice
+304,mista,1643,1648,ma,214.06,214.27,Geograf [v],214.06,False,False,mista
+305,ne,1652,1654,se,214.28,214.5,Geograf [v],214.28,False,False,Ne
+306,to,1656,1658,zato,214.5,215.01,Geograf [v],214.5,False,False,To
+307,je,1659,1661,od,215.05,215.29,Geograf [v],215.05,False,False,je
+308,teško,1662,1667,istraživača,215.33,216.37,Geograf [v],215.33,False,False,teško
+309,ma,1669,1671,išće,216.38,216.75,Geograf [v],216.38,False,False,Ma
+310,se,1672,1674,da,216.75,216.93,Geograf [v],216.75,False,False,se
+311,zato,1675,1679,pokaže,216.94,217.67,Geograf [v],216.94,False,False,zato
+312,od,1680,1682,i,217.94,218.15,Geograf [v],217.94,False,False,od
+313,istraživača,1683,1694,dokazi,218.16,218.89,Geograf [v],218.16,False,False,istraživača
+314,išće,1695,1699,za,219.37,219.56,Geograf [v],219.37,False,False,išće
+315,da,1700,1702,jedan,219.56,219.91,Geograf [v],219.56,False,False,da
+316,pokaže,1703,1709,primjer,219.92,220.44,Geograf [v],219.92,False,False,pokaže
+317,i,1710,1711,ako,220.52,220.96,Geograf [v],220.52,False,False,i
+318,dokazi,1712,1718,ki,220.97,221.21,Geograf [v],220.97,False,False,dokazi
+319,za,1720,1722,riče,221.22,221.75,Geograf [v],221.22,False,False,Za
+320,jedan,1723,1728,da,222.0,222.21,Geograf [v],222.0,False,False,jedan
+321,primjer,1729,1736,je,222.22,222.38,Geograf [v],222.22,False,False,primjer
+322,ako,1738,1741,otkril,222.42,223.06,Geograf [v],222.42,False,False,ako
+323,ki,1742,1744,jednu,223.06,223.45,Geograf [v],223.06,False,False,ki
+324,riče,1745,1749,velu,223.52,223.82,Geograf [v],223.52,False,False,riče
+325,da,1750,1752,planinu,223.83,224.44,Geograf [v],223.83,False,False,da
+326,je,1753,1755,unda,224.81,225.13,Geograf [v],224.81,False,False,je
+327,otkril,1756,1762,se,225.14,225.3,Geograf [v],225.14,False,False,otkril
+328,jednu,1763,1768,od,225.31,225.47,Geograf [v],225.31,False,False,jednu
+329,velu,1769,1773,njega,225.47,225.85,Geograf [v],225.47,False,False,velu
+330,planinu,1774,1781,išće,225.86,226.28,Geograf [v],225.86,False,False,planinu
+331,unda,1783,1787,da,226.28,226.41,Geograf [v],226.28,False,False,unda
+332,se,1788,1790,donese,226.42,226.96,Geograf [v],226.42,False,False,se
+333,od,1791,1793,i,226.97,227.05,Geograf [v],226.97,False,False,od
+334,njega,1794,1799,prezenta,227.06,227.6,Geograf [v],227.06,False,False,njega
+335,išće,1800,1804,i,228.05,228.24,Geograf [v],228.05,False,False,išće
+336,da,1805,1807,velo,228.25,228.56,Geograf [v],228.25,False,False,da
+337,donese,1808,1814,stenje,228.56,229.27,Geograf [v],228.56,False,False,donese
+338,i,1815,1816,od,229.31,229.53,Geograf [v],229.31,False,False,i
+339,prezenta,1817,1825,te,229.53,229.77,Geograf [v],229.53,False,False,prezenta
+340,i,1826,1827,planine,229.78,230.39,Geograf [v],229.78,False,True,i
+48,ovdi,255,259,geograf,230.71,231.24,Pisac [v],230.71,True,False,ovdi
+49,dilate,260,266,se,231.25,231.5,Pisac [v],231.25,False,False,dilate
+50,ja,270,272,najedanput,231.59,232.25,Pisac [v],231.59,False,False,Ja
+51,san,273,276,znemiri,232.28,233.01,Pisac [v],232.28,False,True,san
+341,velo,1828,1832,pa,233.22,233.65,Geograf [v],233.22,True,False,velo
+342,stenje,1833,1839,ti,233.69,233.91,Geograf [v],233.69,False,False,stenje
+343,od,1840,1842,si,233.92,234.09,Geograf [v],233.92,False,False,od
+344,te,1843,1845,došal,234.09,234.63,Geograf [v],234.09,False,False,te
+345,planine,1846,1853,od,234.67,234.85,Geograf [v],234.67,False,False,planine
+346,geograf,1855,1862,daleka,234.86,235.49,Geograf [v],234.86,False,False,Geograf
+347,se,1863,1865,ti,235.78,236.07,Geograf [v],235.78,False,False,se
+348,najedanput,1866,1876,si,236.08,236.51,Geograf [v],236.08,False,False,najedanput
+349,znemiri,1877,1884,istraživač,236.55,237.57,Geograf [v],236.55,False,False,znemiri
+350,pa,1888,1890,opiši,238.09,238.76,Geograf [v],238.09,False,False,Pa
+351,ti,1891,1893,mi,238.77,239.19,Geograf [v],238.77,False,False,ti
+352,si,1894,1896,svoju,239.22,239.74,Geograf [v],239.22,False,False,si
+353,došal,1897,1902,planetu,239.75,240.46,Geograf [v],239.75,False,True,došal
+52,ti,277,279,i,240.72,240.87,Pisac [v],240.72,True,False,ti
+53,geograf,280,287,geograf,240.88,241.57,Pisac [v],240.88,False,False,geograf
+54,ča,291,293,otpre,241.58,241.98,Pisac [v],241.58,False,False,Ča
+55,je,294,296,svoj,241.99,242.27,Pisac [v],241.99,False,False,je
+56,to,297,299,debeli,242.28,242.7,Pisac [v],242.28,False,False,to
+57,geograf,300,307,zapisnik,242.71,243.51,Pisac [v],242.71,False,False,geograf
+58,to,311,313,pa,243.66,243.79,Pisac [v],243.66,False,False,To
+59,je,314,316,našpiči,243.8,244.37,Pisac [v],243.8,False,False,je
+60,učeni,317,322,lapiš,244.38,244.95,Pisac [v],244.38,False,False,učeni
+61,čovik,323,328,pripovidanje,245.12,246.01,Pisac [v],245.12,False,False,čovik
+62,ki,329,331,istraživača,246.08,247.03,Pisac [v],246.08,False,False,ki
+63,zna,332,335,senjiva,247.08,247.67,Pisac [v],247.08,False,False,zna
+64,kadi,336,340,se,247.68,247.88,Pisac [v],247.68,False,False,kadi
+65,su,341,343,prvo,247.89,248.33,Pisac [v],247.89,False,False,su
+66,mora,344,348,z,248.38,248.51,Pisac [v],248.38,False,False,mora
+67,rike,350,354,lapišon,248.52,249.01,Pisac [v],248.52,False,False,rike
+68,veli,356,360,da,249.41,249.56,Pisac [v],249.41,False,False,veli
+69,gradi,361,366,bi,249.56,249.66,Pisac [v],249.56,False,False,gradi
+70,planine,368,375,se,249.67,249.85,Pisac [v],249.67,False,False,planine
+71,i,376,377,pokle,249.86,250.32,Pisac [v],249.86,False,False,i
+72,pustinje,378,386,zapisalo,250.4,251.02,Pisac [v],250.4,False,False,pustinje
+73,to,390,392,s,251.03,251.11,Pisac [v],251.03,False,False,To
+74,je,393,395,tintu,251.12,251.62,Pisac [v],251.12,False,False,je
+75,zanimjivo,396,405,čeka,251.66,251.99,Pisac [v],251.66,False,False,zanimjivo
+76,viš,407,410,se,252.0,252.28,Pisac [v],252.0,False,False,Viš
+77,na,412,414,da,252.31,252.48,Pisac [v],252.31,False,False,na
+78,kraju,415,420,istraživač,252.49,253.18,Pisac [v],252.49,False,False,kraju
+79,jeniga,421,427,prnese,253.22,253.74,Pisac [v],253.22,False,False,jeniga
+80,od,428,430,dokaze,253.75,254.31,Pisac [v],253.75,False,True,od
+354,od,1903,1905,unda,254.65,255.32,Geograf [v],254.65,True,True,od
+528,ča,2881,2883,oh,255.44,255.73,Mići Princ [v],255.44,True,False,ča
+529,bi,2884,2886,puli,256.11,256.36,Mići Princ [v],256.11,False,False,bi
+530,to,2887,2889,mene,256.37,256.69,Mići Princ [v],256.37,False,False,to
+531,reć,2890,2893,ni,256.69,256.85,Mići Princ [v],256.69,False,False,reć
+532,kratkotrajno,2895,2907,baš,256.86,257.07,Mići Princ [v],256.86,False,False,kratkotrajno
+533,kratkotrajno,2912,2924,zanimjivo,257.07,257.69,Mići Princ [v],257.07,False,False,Kratkotrajno
+534,to,2926,2928,se,258.02,258.23,Mići Princ [v],258.02,False,False,to
+535,ti,2929,2931,je,258.24,258.34,Mići Princ [v],258.24,False,False,ti
+536,znači,2932,2937,tako,258.34,258.69,Mići Princ [v],258.34,False,False,znači
+537,ono,2938,2941,majhano,258.72,259.3,Mići Princ [v],258.72,False,False,ono
+538,čemu,2942,2946,man,259.86,260.13,Mići Princ [v],259.86,False,False,čemu
+539,jednoga,2947,2954,tri,260.13,260.38,Mići Princ [v],260.13,False,False,jednoga
+540,dana,2955,2959,vulkana,260.38,261.13,Mići Princ [v],260.38,False,False,dana
+541,i,2960,2961,dva,261.33,261.6,Mići Princ [v],261.33,False,False,i
+542,to,2962,2964,živa,261.61,262.1,Mići Princ [v],261.61,False,False,to
+543,skoro,2965,2970,i,262.19,262.32,Mići Princ [v],262.19,False,False,skoro
+544,će,2971,2973,jedan,262.32,262.59,Mići Princ [v],262.32,False,False,će
+545,priti,2974,2979,zagašen,262.59,263.24,Mići Princ [v],262.59,False,False,priti
+546,nestanak,2980,2988,ma,264.07,264.21,Mići Princ [v],264.07,False,False,nestanak
+547,ča,2992,2994,nigdar,264.21,264.51,Mići Princ [v],264.21,False,False,Ča
+548,će,2995,2997,se,264.51,264.7,Mići Princ [v],264.51,False,False,će
+549,moj,2998,3001,ne,264.7,264.81,Mići Princ [v],264.7,False,False,moj
+550,šipak,3002,3007,zna,264.81,265.14,Mići Princ [v],264.81,False,True,šipak
+355,daleka,1906,1912,nikad,265.63,266.26,Geograf [v],265.63,True,False,daleka
+356,ti,1914,1916,se,266.26,266.57,Geograf [v],266.26,False,False,Ti
+357,si,1917,1919,ne,266.57,266.86,Geograf [v],266.57,False,False,si
+358,istraživač,1920,1930,zna,266.87,267.28,Geograf [v],266.87,False,True,istraživač
+551,vaje,3008,3012,man,267.4,267.58,Mići Princ [v],267.4,True,False,vaje
+552,nestat,3013,3019,i,267.58,267.68,Mići Princ [v],267.58,False,False,nestat
+553,da,3023,3025,jedan,267.69,267.88,Mići Princ [v],267.69,False,False,Da
+554,svakako,3027,3034,šipak,267.88,268.38,Mići Princ [v],267.88,False,True,svakako
+359,opiši,1932,1937,ne,268.44,268.89,Geograf [v],268.44,True,False,Opiši
+360,mi,1938,1940,cveće,269.17,269.83,Geograf [v],269.17,False,False,mi
+361,svoju,1941,1946,ne,270.21,270.42,Geograf [v],270.21,False,False,svoju
+362,planetu,1947,1954,bilježimo,270.43,271.22,Geograf [v],270.43,False,True,planetu
+555,moj,3038,3041,pak,271.38,271.57,Mići Princ [v],271.38,True,False,Moj
+556,šipak,3042,3047,zač,271.57,271.79,Mići Princ [v],271.57,False,False,šipak
+557,će,3048,3050,ne,271.93,272.1,Mići Princ [v],271.93,False,False,će
+558,vaje,3051,3055,to,272.51,272.62,Mići Princ [v],272.51,False,False,vaje
+559,nestat,3056,3062,je,272.62,272.79,Mići Princ [v],272.62,False,False,nestat
+560,on,3064,3066,jušto,272.8,273.07,Mići Princ [v],272.8,False,False,On
+561,ma,3067,3069,najlipje,273.07,273.73,Mići Princ [v],273.07,False,True,ma
+363,i,1956,1957,zato,274.19,274.84,Geograf [v],274.19,True,False,I
+364,geograf,1958,1965,boj,274.84,275.12,Geograf [v],274.84,False,False,geograf
+365,otpre,1966,1971,cveće,275.12,275.74,Geograf [v],275.12,False,False,otpre
+366,svoj,1972,1976,malo,275.75,276.3,Geograf [v],275.75,False,False,svoj
+367,debeli,1977,1983,traje,276.31,276.84,Geograf [v],276.31,False,False,debeli
+368,zapisnik,1984,1992,kratkotrajno,277.08,278.26,Geograf [v],277.08,False,False,zapisnik
+369,pa,1993,1995,je,278.26,278.63,Geograf [v],278.26,False,True,pa
+562,samo,3070,3074,ča,278.69,278.8,Mići Princ [v],278.69,True,False,samo
+563,četiri,3075,3081,bi,278.88,278.98,Mići Princ [v],278.88,False,False,četiri
+564,trna,3082,3086,to,278.99,279.29,Mići Princ [v],278.99,False,False,trna
+565,da,3087,3089,reć,279.3,279.63,Mići Princ [v],279.3,False,False,da
+566,se,3090,3092,kratkotrajno,279.67,280.75,Mići Princ [v],279.67,False,True,se
+370,našpiči,1996,2003,geografija,281.31,282.46666666666664,Geograf [v],281.31,True,False,našpiči
+371,lapiš,2004,2009,to,282.74,282.97,Geograf [v],282.74,False,False,lapiš
+372,pripovidanje,2011,2023,su,282.97,283.2,Geograf [v],282.97,False,False,Pripovidanje
+373,istraživača,2024,2035,najvridnije,283.2,284.14,Geograf [v],283.2,False,False,istraživača
+374,senjiva,2036,2043,knjige,284.14,284.84,Geograf [v],284.14,False,False,senjiva
+375,se,2044,2046,zlatni,285.13,285.82,Geograf [v],285.13,False,False,se
+376,prvo,2047,2051,su,285.82,286.07,Geograf [v],285.82,False,False,prvo
+377,z,2052,2053,to,286.07,286.26,Geograf [v],286.07,False,False,z
+378,lapišon,2054,2061,libri,286.26,286.81,Geograf [v],286.26,False,False,lapišon
+379,da,2063,2065,oni,287.31,287.77,Geograf [v],287.31,False,False,Da
+380,bi,2066,2068,nkad,287.77,288.08,Geograf [v],287.77,False,False,bi
+381,se,2069,2071,ne,288.08,288.21,Geograf [v],288.08,False,False,se
+382,pokle,2072,2077,moru,288.21,288.56,Geograf [v],288.21,False,False,pokle
+383,zapisalo,2078,2086,poć,288.56,288.96,Geograf [v],288.56,False,False,zapisalo
+384,s,2087,2088,zvan,288.96,289.48,Geograf [v],288.96,False,False,s
+385,tintu,2089,2094,mode,289.49,290.03,Geograf [v],289.49,False,False,tintu
+386,čeka,2096,2100,jako,290.43,290.97,Geograf [v],290.43,False,False,čeka
+387,se,2101,2103,se,290.97,291.17,Geograf [v],290.97,False,False,se
+388,da,2104,2106,retko,291.18,291.59,Geograf [v],291.18,False,False,da
+389,istraživač,2107,2117,more,291.59,291.92,Geograf [v],291.59,False,False,istraživač
+390,prnese,2118,2124,dogodit,291.93,292.54,Geograf [v],291.93,False,False,prnese
+391,dokaze,2125,2131,da,292.78,292.96,Geograf [v],292.78,False,False,dokaze
+392,unda,2135,2139,jedna,292.96,293.32,Geograf [v],292.96,False,False,Unda
+393,oh,2143,2145,planina,293.32,294.09,Geograf [v],293.32,False,False,Oh
+394,puli,2147,2151,promini,294.12,294.7,Geograf [v],294.12,False,False,Puli
+395,mene,2152,2156,mesto,294.7,295.33,Geograf [v],294.7,False,False,mene
+396,ni,2157,2159,ili,295.58,295.84,Geograf [v],295.58,False,False,ni
+397,baš,2160,2163,da,295.84,296.21,Geograf [v],295.84,False,False,baš
+398,zanimjivo,2164,2173,va,296.28,296.5,Geograf [v],296.28,False,False,zanimjivo
+399,se,2175,2177,oceanu,296.53,297.41,Geograf [v],296.53,False,False,se
+400,je,2178,2180,nestane,297.51,298.07,Geograf [v],297.51,False,False,je
+401,tako,2181,2185,mora,298.07,298.64,Geograf [v],298.07,False,False,tako
+402,majhano,2186,2193,mi,299.08,299.43,Geograf [v],299.08,False,False,majhano
+403,man,2195,2198,pišemo,299.49,300.2,Geograf [v],299.49,False,False,Man
+404,tri,2199,2202,ono,300.2,300.58,Geograf [v],300.2,False,False,tri
+405,vulkana,2203,2210,ča,300.81,301.0,Geograf [v],300.81,False,False,vulkana
+406,dva,2212,2215,je,301.0,301.2,Geograf [v],301.0,False,False,Dva
+407,živa,2216,2220,vično,301.2,301.82,Geograf [v],301.2,False,False,živa
+408,i,2221,2222,ča,302.05,302.22,Geograf [v],302.05,False,False,i
+409,jedan,2223,2228,za,302.22,302.35,Geograf [v],302.22,False,False,jedan
+410,zagašen,2229,2236,vajk,302.52,302.87,Geograf [v],302.52,False,False,zagašen
+411,ma,2238,2240,ostaje,303.27,304.08,Geograf [v],303.27,False,False,Ma
+412,nigdar,2241,2247,i,304.38,304.56,Geograf [v],304.38,False,False,nigdar
+413,se,2248,2250,vridi,304.56,305.04,Geograf [v],304.56,False,True,se
+567,brani,3093,3098,ma,305.3,305.43,Mići Princ [v],305.3,True,False,brani
+568,od,3099,3101,zagašeni,305.44,306.06,Mići Princ [v],305.44,False,False,od
+569,svita,3102,3107,vulkani,306.06,306.52,Mići Princ [v],306.06,False,False,svita
+570,a,3109,3110,se,306.52,306.7,Mići Princ [v],306.52,False,False,a
+571,ja,3111,3113,moru,306.7,306.99,Mići Princ [v],306.7,False,False,ja
+572,san,3114,3117,zbudit,307.0,307.79,Mići Princ [v],307.0,False,False,san
+573,ga,3118,3120,ča,308.5,308.65,Mići Princ [v],308.5,False,False,ga
+574,pustiv,3121,3127,bi,308.65,308.73,Mići Princ [v],308.65,False,False,pustiv
+575,doma,3128,3132,reć,308.74,309.04,Mići Princ [v],308.74,False,False,doma
+576,skrozi,3133,3139,kratkotrajno,309.19,310.18,Mići Princ [v],309.19,False,True,skrozi
+414,ne,2251,2253,to,311.14,311.31,Geograf [v],311.14,True,False,ne
+415,zna,2254,2257,ča,311.81,312.01,Geograf [v],311.81,False,False,zna
+416,nikad,2261,2266,su,312.01,312.22,Geograf [v],312.01,False,False,Nikad
+417,se,2267,2269,vulkani,312.22,312.86,Geograf [v],312.22,False,False,se
+418,ne,2270,2272,ogašeni,312.87,313.85,Geograf [v],312.87,False,False,ne
+419,zna,2273,2276,ili,314.01,314.31,Geograf [v],314.01,False,False,zna
+420,man,2280,2283,su,314.31,314.49,Geograf [v],314.31,False,False,Man
+421,i,2284,2285,nanovo,314.5,315.06,Geograf [v],314.5,False,False,i
+422,jedan,2286,2291,oživili,315.09,315.86,Geograf [v],315.09,False,False,jedan
+423,šipak,2292,2297,to,316.06,316.38,Geograf [v],316.06,False,False,šipak
+424,ne,2301,2303,je,316.38,316.56,Geograf [v],316.38,False,False,Ne
+425,cveće,2305,2310,namin,316.56,317.04,Geograf [v],316.56,False,False,cveće
+426,ne,2311,2313,geografima,317.05,317.86,Geograf [v],317.05,False,False,ne
+427,bilježimo,2314,2323,svejedno,317.87,318.48,Geograf [v],317.87,False,False,bilježimo
+428,pak,2327,2330,za,319.0,319.25,Geograf [v],319.0,False,False,Pak
+429,zač,2331,2334,nas,319.25,319.54,Geograf [v],319.25,False,False,zač
+430,ne,2335,2337,je,319.55,319.72,Geograf [v],319.55,False,False,ne
+431,to,2339,2341,samo,319.73,320.07,Geograf [v],319.73,False,False,To
+432,je,2342,2344,važan,320.07,320.64,Geograf [v],320.07,False,False,je
+433,jušto,2345,2350,brig,320.64,321.12,Geograf [v],320.64,False,False,jušto
+434,najlipje,2351,2359,planina,321.42,322.02,Geograf [v],321.42,False,False,najlipje
+435,zato,2363,2367,a,322.32,322.6,Geograf [v],322.32,False,False,Zato
+436,boj,2368,2371,ona,322.61,322.9,Geograf [v],322.61,False,False,boj
+437,cveće,2372,2377,se,322.91,323.3,Geograf [v],322.91,False,False,cveće
+438,malo,2378,2382,ne,323.56,323.79,Geograf [v],323.56,False,False,malo
+439,traje,2383,2388,minja,323.8,324.42,Geograf [v],323.8,False,True,traje
+577,samiga,3140,3146,pak,324.62,324.92,Mići Princ [v],324.62,True,False,samiga
+578,to,3148,3150,ča,324.93,325.08,Mići Princ [v],324.93,False,False,To
+579,je,3151,3153,bi,325.18,325.29,Mići Princ [v],325.18,False,False,je
+580,bilo,3154,3158,to,325.3,325.46,Mići Princ [v],325.3,False,False,bilo
+581,prvi,3159,3163,reć,325.47,325.75,Mići Princ [v],325.47,False,False,prvi
+582,put,3164,3167,kratkotrajno,325.75,327.02,Mići Princ [v],325.75,False,True,put
+440,kratkotrajno,2390,2402,kratkotrajno,327.37,328.6,Geograf [v],327.37,True,False,Kratkotrajno
+441,je,2403,2405,to,328.61,329.04,Geograf [v],328.61,False,False,je
+442,ča,2409,2411,ti,329.05,329.21,Geograf [v],329.05,False,False,Ča
+443,bi,2412,2414,znači,329.22,329.81,Geograf [v],329.22,False,False,bi
+444,to,2415,2417,ono,329.81,330.24,Geograf [v],329.81,False,False,to
+445,reć,2418,2421,čemu,330.51,330.84,Geograf [v],330.51,False,False,reć
+446,kratkotrajno,2423,2435,jednoga,330.85,331.42,Geograf [v],330.85,False,False,kratkotrajno
+447,geografija,2440,2450,dana,331.43,331.98,Geograf [v],331.43,False,False,Geografija
+448,to,2452,2454,i,331.99,332.1,Geograf [v],331.99,False,False,to
+449,su,2455,2457,to,332.11,332.3,Geograf [v],332.11,False,False,su
+450,najvridnije,2458,2469,skoro,332.31,332.75,Geograf [v],332.31,False,False,najvridnije
+451,knjige,2470,2476,će,332.75,333.08,Geograf [v],332.75,False,False,knjige
+452,zlatni,2478,2484,priti,333.87,334.16,Geograf [v],333.87,False,False,zlatni
+453,su,2485,2487,nestanak,334.5,335.28,Geograf [v],334.5,False,True,su
+583,da,3168,3170,ča,335.29,335.34,Mići Princ [v],335.29,True,False,da
+584,ga,3171,3173,će,335.48,335.77,Mići Princ [v],335.48,False,False,ga
+585,je,3174,3176,moj,335.78,335.99,Mići Princ [v],335.78,False,False,je
+586,prezelo,3177,3184,šipak,336.0,336.41,Mići Princ [v],336.0,False,False,prezelo
+587,žalovanje,3185,3194,vaje,336.42,336.68,Mići Princ [v],336.42,False,False,žalovanje
+588,ma,3196,3198,nestat,336.69,337.36,Mići Princ [v],336.69,False,True,ma
+454,to,2488,2490,da,337.51,337.94,Geograf [v],337.51,True,False,to
+455,libri,2491,2496,svakako,338.2,339.11,Geograf [v],338.2,False,True,libri
+589,se,3199,3201,moj,339.33,339.49,Mići Princ [v],339.33,True,False,se
+590,j,3202,3203,šipak,339.5,339.97,Mići Princ [v],339.5,False,False,j
+591,sponova,3204,3211,će,339.98,340.09,Mići Princ [v],339.98,False,False,sponova
+592,okuraživ,3212,3220,vaje,340.1,340.41,Mići Princ [v],340.1,False,False,okuraživ
+593,ča,3224,3226,nestat,340.42,341.03,Mići Princ [v],340.42,False,False,Ča
+594,bite,3227,3231,on,341.62,341.88,Mići Princ [v],341.62,False,False,bite
+595,mi,3232,3234,ma,341.88,341.97,Mići Princ [v],341.88,False,False,mi
+596,svitovali,3235,3244,samo,341.98,342.3,Mići Princ [v],341.98,False,False,svitovali
+597,da,3245,3247,četiri,342.31,342.74,Mići Princ [v],342.31,False,False,da
+598,gren,3248,3252,trna,342.75,343.15,Mići Princ [v],342.75,False,False,gren
+599,videt,3253,3258,da,343.2,343.28,Mići Princ [v],343.2,False,False,videt
+600,zaželi,3262,3268,se,343.29,343.44,Mići Princ [v],343.29,False,False,Zaželi
+601,i,3269,3270,brani,343.44,343.82,Mići Princ [v],343.44,False,False,i
+602,obajdi,3271,3277,od,343.82,343.93,Mići Princ [v],343.82,False,False,obajdi
+603,planet,3278,3284,svita,343.94,344.46,Mići Princ [v],343.94,False,False,planet
+604,zemlju,3285,3291,a,344.47,344.61,Mići Princ [v],344.47,False,False,Zemlju
+605,ona,3293,3296,ja,344.62,344.75,Mići Princ [v],344.62,False,False,Ona
+606,je,3297,3299,san,344.75,344.93,Mići Princ [v],344.75,False,False,je
+607,sigurno,3300,3307,ga,344.94,345.07,Mići Princ [v],344.94,False,False,sigurno
+608,na,3308,3310,pustiv,345.07,345.5,Mići Princ [v],345.07,False,False,na
+609,dobromu,3311,3318,doma,345.5,345.81,Mići Princ [v],345.5,False,False,dobromu
+610,glasu,3319,3324,skrozi,345.81,346.3,Mići Princ [v],345.81,False,False,glasu
+611,i,3326,3327,samiga,346.31,346.99,Mići Princ [v],346.31,False,True,I
+81,praviga,431,438,to,347.38,347.53,Pisac [v],347.38,True,False,praviga
+82,zanimanja,439,448,je,347.54,347.62,Pisac [v],347.54,False,False,zanimanja
+83,i,450,451,bilo,347.62,347.89,Pisac [v],347.62,False,False,I
+84,obazre,452,458,prvi,347.89,348.18,Pisac [v],347.89,False,False,obazre
+85,se,459,461,put,348.19,348.4,Pisac [v],348.19,False,False,se
+86,malo,462,466,da,348.41,348.53,Pisac [v],348.41,False,False,malo
+87,okoli,467,472,ga,348.54,348.66,Pisac [v],348.54,False,False,okoli
+88,sebe,473,477,je,348.67,348.72,Pisac [v],348.67,False,False,sebe
+89,po,478,480,prezelo,348.73,349.24,Pisac [v],348.73,False,False,po
+90,geografovin,481,492,žalovanje,349.25,349.84,Pisac [v],349.25,False,False,geografovin
+91,planetu,493,500,ma,350.29,350.44,Pisac [v],350.29,False,False,planetu
+92,nigdar,502,508,se,350.44,350.61,Pisac [v],350.44,False,False,Nigdar
+93,ni,509,511,j,350.62,350.65,Pisac [v],350.62,False,False,ni
+94,još,512,515,sponova,350.66,351.25,Pisac [v],350.66,False,False,još
+95,videv,516,521,okuraživ,351.3,352.03,Pisac [v],351.3,False,True,videv
+612,mići,3328,3332,ča,352.36,352.51,Mići Princ [v],352.36,True,False,Mići
+613,princ,3333,3338,bite,352.51,352.78,Mići Princ [v],352.51,False,False,Princ
+614,pojde,3339,3344,mi,352.79,352.96,Mići Princ [v],352.79,False,False,pojde
+615,misleć,3345,3351,svitovali,352.97,353.61,Mići Princ [v],352.97,False,False,misleć
+616,na,3352,3354,da,353.62,353.75,Mići Princ [v],353.62,False,False,na
+617,svoj,3355,3359,gren,353.75,353.99,Mići Princ [v],353.75,False,False,svoj
+618,šipak,3360,3365,videt,354.0,354.6,Mići Princ [v],354.0,False,True,šipak
+456,oni,2498,2501,zaželi,354.81,355.84,Geograf [v],354.81,True,False,Oni
+457,nkad,2502,2506,i,356.03,356.27,Geograf [v],356.03,False,False,nkad
+458,ne,2507,2509,obajdi,356.28,356.86,Geograf [v],356.28,False,False,ne
+459,moru,2510,2514,planet,356.87,357.47,Geograf [v],356.87,False,False,moru
+460,poć,2515,2518,zemlju,357.89,358.49,Geograf [v],357.89,False,False,poć
+461,zvan,2519,2523,ona,359.01,359.43,Geograf [v],359.01,False,False,zvan
+462,mode,2524,2528,je,359.44,359.51,Geograf [v],359.44,False,False,mode
+463,jako,2530,2534,sigurno,359.51,360.23,Geograf [v],359.51,False,False,Jako
+464,se,2535,2537,na,360.58,360.77,Geograf [v],360.58,False,False,se
+465,retko,2538,2543,dobromu,360.78,361.63,Geograf [v],360.78,False,False,retko
+466,more,2544,2548,glasu,361.73,362.34,Geograf [v],361.73,False,True,more
+96,takov,522,527,i,362.85,362.93,Pisac [v],362.85,True,False,takov
+97,veličanstven,528,540,mići,362.94,363.23,Pisac [v],362.94,False,False,veličanstven
+98,planet,541,547,princ,363.24,363.56,Pisac [v],363.24,False,False,planet
+99,vaš,551,554,pojde,363.56,364.06,Pisac [v],363.56,False,False,Vaš
+100,je,555,557,misleć,364.12,364.66,Pisac [v],364.12,False,False,je
+101,planet,558,564,na,364.78,364.87,Pisac [v],364.78,False,False,planet
+102,jako,565,569,svoj,364.88,365.14,Pisac [v],364.88,False,False,jako
+103,lip,570,573,šipak,365.14,365.53,Pisac [v],365.14,False,True,lip

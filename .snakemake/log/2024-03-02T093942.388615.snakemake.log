@@ -1,0 +1,30 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+Check              1              1              1
+DoJSON             1              1              1
+GatherJsons        1              1              1
+total              3              1              1
+
+Select jobs to execute...
+
+[Sat Mar  2 09:39:42 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_22.exb, /home/nikola/transfer/mici_princ/MP_22.txt.txt, /home/nikola/transfer/mici_princ/MP_22.txt.json
+    output: inspected_exbs_fixed/MP_22.exb
+    jobid: 18
+    reason: Missing output files: inspected_exbs_fixed/MP_22.exb
+    wildcards: file=MP_22
+    resources: tmpdir=/tmp
+
+Waiting at most 5 seconds for missing files.
+MissingOutputException in rule Check in file /home/rupnik/mici_princ/snakefile, line 9:
+Job 18  completed successfully, but some output files are missing. Missing files after 5 seconds. This might be due to filesystem latency. If that is the case, consider to increase the wait time with --latency-wait:
+inspected_exbs_fixed/MP_22.exb
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-03-02T093942.388615.snakemake.log

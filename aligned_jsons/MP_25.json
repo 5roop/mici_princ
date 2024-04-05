@@ -1,0 +1,3502 @@
+[
+    {
+        "char_e": 140,
+        "char_s": 2,
+        "speaker": "Mići Princ",
+        "text": "Judi se narivaju va hitre vlake pa onput pozabe za čin su pošli, ča išću. Onput postanu nemirni i počnu se vrtit va krug.\n• To nima smisla!",
+        "time_e": 111.89,
+        "time_s": 102.0,
+        "words": [
+            {
+                "char_e": 6,
+                "char_s": 2,
+                "time_e": 102.19,
+                "time_s": 102.0
+            },
+            {
+                "char_e": 9,
+                "char_s": 7,
+                "time_e": 102.46,
+                "time_s": 102.19
+            },
+            {
+                "char_e": 18,
+                "char_s": 10,
+                "time_e": 102.93,
+                "time_s": 102.46
+            },
+            {
+                "char_e": 21,
+                "char_s": 19,
+                "time_e": 103.04666666666667,
+                "time_s": 102.94
+            },
+            {
+                "char_e": 27,
+                "char_s": 22,
+                "time_e": 103.42,
+                "time_s": 103.05
+            },
+            {
+                "char_e": 33,
+                "char_s": 28,
+                "time_e": 103.82,
+                "time_s": 103.42
+            },
+            {
+                "char_e": 36,
+                "char_s": 34,
+                "time_e": 103.95,
+                "time_s": 103.82
+            },
+            {
+                "char_e": 42,
+                "char_s": 37,
+                "time_e": 104.22,
+                "time_s": 103.95
+            },
+            {
+                "char_e": 49,
+                "char_s": 43,
+                "time_e": 104.66,
+                "time_s": 104.22
+            },
+            {
+                "char_e": 52,
+                "char_s": 50,
+                "time_e": 104.79,
+                "time_s": 104.66
+            },
+            {
+                "char_e": 56,
+                "char_s": 53,
+                "time_e": 105.01,
+                "time_s": 104.8
+            },
+            {
+                "char_e": 59,
+                "char_s": 57,
+                "time_e": 105.17,
+                "time_s": 105.02
+            },
+            {
+                "char_e": 65,
+                "char_s": 60,
+                "time_e": 105.61,
+                "time_s": 105.17
+            },
+            {
+                "char_e": 69,
+                "char_s": 67,
+                "time_e": 105.78,
+                "time_s": 105.61
+            },
+            {
+                "char_e": 74,
+                "char_s": 70,
+                "time_e": 106.36,
+                "time_s": 105.78
+            },
+            {
+                "char_e": 81,
+                "char_s": 76,
+                "time_e": 107.33,
+                "time_s": 106.96
+            },
+            {
+                "char_e": 89,
+                "char_s": 82,
+                "time_e": 107.77,
+                "time_s": 107.33
+            },
+            {
+                "char_e": 97,
+                "char_s": 90,
+                "time_e": 108.26,
+                "time_s": 107.77
+            },
+            {
+                "char_e": 99,
+                "char_s": 98,
+                "time_e": 108.32,
+                "time_s": 108.27
+            },
+            {
+                "char_e": 105,
+                "char_s": 100,
+                "time_e": 108.63,
+                "time_s": 108.32
+            },
+            {
+                "char_e": 108,
+                "char_s": 106,
+                "time_e": 108.8,
+                "time_s": 108.63
+            },
+            {
+                "char_e": 114,
+                "char_s": 109,
+                "time_e": 109.19,
+                "time_s": 108.8
+            },
+            {
+                "char_e": 117,
+                "char_s": 115,
+                "time_e": 109.28,
+                "time_s": 109.19
+            },
+            {
+                "char_e": 122,
+                "char_s": 118,
+                "time_e": 109.72,
+                "time_s": 109.28
+            },
+            {
+                "char_e": 128,
+                "char_s": 126,
+                "time_e": 110.97,
+                "time_s": 110.8
+            },
+            {
+                "char_e": 133,
+                "char_s": 129,
+                "time_e": 111.23,
+                "time_s": 110.97
+            },
+            {
+                "char_e": 140,
+                "char_s": 134,
+                "time_e": 111.89,
+                "time_s": 111.23
+            }
+        ]
+    },
+    {
+        "char_e": 502,
+        "char_s": 142,
+        "speaker": "Pisac",
+        "text": "Šterna do ke smo bili prišli ni sličila šternami va Sahari. Saharske šterne su jušto jene škuje proškujane va pisku. Ova je sličila na selsku šternu. Ma tu ni bilo nikakovo selo, i pomisliv san da mi se prisanjalo.\n• Zaspraven čudo, sȅ je spravno: parank, sić i konop...\nOn se nasmije, takne konop, zakrene parank, a on zacvili ko ča cvili stari peteh na krovu.",
+        "time_e": 141.09,
+        "time_s": 112.56,
+        "words": [
+            {
+                "char_e": 148,
+                "char_s": 142,
+                "time_e": 113.08,
+                "time_s": 112.56
+            },
+            {
+                "char_e": 151,
+                "char_s": 149,
+                "time_e": 113.23,
+                "time_s": 113.08
+            },
+            {
+                "char_e": 154,
+                "char_s": 152,
+                "time_e": 113.42,
+                "time_s": 113.23
+            },
+            {
+                "char_e": 158,
+                "char_s": 155,
+                "time_e": 113.62,
+                "time_s": 113.42
+            },
+            {
+                "char_e": 163,
+                "char_s": 159,
+                "time_e": 113.9,
+                "time_s": 113.62
+            },
+            {
+                "char_e": 170,
+                "char_s": 164,
+                "time_e": 114.42,
+                "time_s": 113.91
+            },
+            {
+                "char_e": 173,
+                "char_s": 171,
+                "time_e": 114.66,
+                "time_s": 114.47
+            },
+            {
+                "char_e": 181,
+                "char_s": 174,
+                "time_e": 115.22,
+                "time_s": 114.66
+            },
+            {
+                "char_e": 190,
+                "char_s": 182,
+                "time_e": 115.87,
+                "time_s": 115.22
+            },
+            {
+                "char_e": 193,
+                "char_s": 191,
+                "time_e": 116.0,
+                "time_s": 115.88
+            },
+            {
+                "char_e": 200,
+                "char_s": 194,
+                "time_e": 116.47,
+                "time_s": 116.0
+            },
+            {
+                "char_e": 210,
+                "char_s": 202,
+                "time_e": 117.52,
+                "time_s": 116.83
+            },
+            {
+                "char_e": 217,
+                "char_s": 211,
+                "time_e": 118.02,
+                "time_s": 117.52
+            },
+            {
+                "char_e": 220,
+                "char_s": 218,
+                "time_e": 118.22,
+                "time_s": 118.02
+            },
+            {
+                "char_e": 226,
+                "char_s": 221,
+                "time_e": 118.58,
+                "time_s": 118.22
+            },
+            {
+                "char_e": 231,
+                "char_s": 227,
+                "time_e": 118.86,
+                "time_s": 118.58
+            },
+            {
+                "char_e": 237,
+                "char_s": 232,
+                "time_e": 119.33,
+                "time_s": 118.86
+            },
+            {
+                "char_e": 248,
+                "char_s": 238,
+                "time_e": 120.39,
+                "time_s": 119.72
+            },
+            {
+                "char_e": 251,
+                "char_s": 249,
+                "time_e": 120.53,
+                "time_s": 120.39
+            },
+            {
+                "char_e": 257,
+                "char_s": 252,
+                "time_e": 121.06,
+                "time_s": 120.53
+            },
+            {
+                "char_e": 262,
+                "char_s": 259,
+                "time_e": 121.94,
+                "time_s": 121.62
+            },
+            {
+                "char_e": 265,
+                "char_s": 263,
+                "time_e": 122.1,
+                "time_s": 121.94
+            },
+            {
+                "char_e": 273,
+                "char_s": 266,
+                "time_e": 122.77,
+                "time_s": 122.1
+            },
+            {
+                "char_e": 276,
+                "char_s": 274,
+                "time_e": 123.0,
+                "time_s": 122.83
+            },
+            {
+                "char_e": 283,
+                "char_s": 277,
+                "time_e": 123.48,
+                "time_s": 123.0
+            },
+            {
+                "char_e": 290,
+                "char_s": 284,
+                "time_e": 123.96,
+                "time_s": 123.48
+            },
+            {
+                "char_e": 294,
+                "char_s": 292,
+                "time_e": 124.7,
+                "time_s": 124.48
+            },
+            {
+                "char_e": 297,
+                "char_s": 295,
+                "time_e": 124.93,
+                "time_s": 124.7
+            },
+            {
+                "char_e": 300,
+                "char_s": 298,
+                "time_e": 125.12,
+                "time_s": 124.94
+            },
+            {
+                "char_e": 305,
+                "char_s": 301,
+                "time_e": 125.43,
+                "time_s": 125.12
+            },
+            {
+                "char_e": 314,
+                "char_s": 306,
+                "time_e": 125.95,
+                "time_s": 125.44
+            },
+            {
+                "char_e": 319,
+                "char_s": 315,
+                "time_e": 126.37,
+                "time_s": 125.95
+            },
+            {
+                "char_e": 322,
+                "char_s": 321,
+                "time_e": 126.97,
+                "time_s": 126.81
+            },
+            {
+                "char_e": 331,
+                "char_s": 323,
+                "time_e": 127.54,
+                "time_s": 126.97
+            },
+            {
+                "char_e": 335,
+                "char_s": 332,
+                "time_e": 127.9,
+                "time_s": 127.54
+            },
+            {
+                "char_e": 338,
+                "char_s": 336,
+                "time_e": 128.24,
+                "time_s": 128.03
+            },
+            {
+                "char_e": 341,
+                "char_s": 339,
+                "time_e": 128.34,
+                "time_s": 128.25
+            },
+            {
+                "char_e": 344,
+                "char_s": 342,
+                "time_e": 128.53,
+                "time_s": 128.34
+            },
+            {
+                "char_e": 355,
+                "char_s": 345,
+                "time_e": 129.37,
+                "time_s": 128.53
+            },
+            {
+                "char_e": 368,
+                "char_s": 359,
+                "time_e": 130.15,
+                "time_s": 129.59
+            },
+            {
+                "char_e": 373,
+                "char_s": 369,
+                "time_e": 130.56,
+                "time_s": 130.16
+            },
+            {
+                "char_e": 377,
+                "char_s": 375,
+                "time_e": 130.99,
+                "time_s": 130.78
+            },
+            {
+                "char_e": 380,
+                "char_s": 378,
+                "time_e": 131.12,
+                "time_s": 131.0
+            },
+            {
+                "char_e": 388,
+                "char_s": 381,
+                "time_e": 131.66,
+                "time_s": 131.12
+            },
+            {
+                "char_e": 396,
+                "char_s": 390,
+                "time_e": 132.35,
+                "time_s": 131.85
+            },
+            {
+                "char_e": 401,
+                "char_s": 398,
+                "time_e": 133.1,
+                "time_s": 132.64
+            },
+            {
+                "char_e": 403,
+                "char_s": 402,
+                "time_e": 133.43,
+                "time_s": 133.32
+            },
+            {
+                "char_e": 409,
+                "char_s": 404,
+                "time_e": 133.89,
+                "time_s": 133.44
+            },
+            {
+                "char_e": 415,
+                "char_s": 413,
+                "time_e": 134.48,
+                "time_s": 134.28
+            },
+            {
+                "char_e": 418,
+                "char_s": 416,
+                "time_e": 134.67,
+                "time_s": 134.48
+            },
+            {
+                "char_e": 426,
+                "char_s": 419,
+                "time_e": 135.29,
+                "time_s": 134.68
+            },
+            {
+                "char_e": 433,
+                "char_s": 428,
+                "time_e": 135.83,
+                "time_s": 135.44
+            },
+            {
+                "char_e": 439,
+                "char_s": 434,
+                "time_e": 136.28,
+                "time_s": 135.83
+            },
+            {
+                "char_e": 448,
+                "char_s": 441,
+                "time_e": 137.04,
+                "time_s": 136.48
+            },
+            {
+                "char_e": 455,
+                "char_s": 449,
+                "time_e": 137.67,
+                "time_s": 137.04
+            },
+            {
+                "char_e": 458,
+                "char_s": 457,
+                "time_e": 138.11,
+                "time_s": 137.88
+            },
+            {
+                "char_e": 461,
+                "char_s": 459,
+                "time_e": 138.22,
+                "time_s": 138.12
+            },
+            {
+                "char_e": 469,
+                "char_s": 462,
+                "time_e": 138.81,
+                "time_s": 138.22
+            },
+            {
+                "char_e": 472,
+                "char_s": 470,
+                "time_e": 139.24,
+                "time_s": 139.08
+            },
+            {
+                "char_e": 475,
+                "char_s": 473,
+                "time_e": 139.39,
+                "time_s": 139.25
+            },
+            {
+                "char_e": 481,
+                "char_s": 476,
+                "time_e": 139.77,
+                "time_s": 139.39
+            },
+            {
+                "char_e": 487,
+                "char_s": 482,
+                "time_e": 140.11,
+                "time_s": 139.78
+            },
+            {
+                "char_e": 493,
+                "char_s": 488,
+                "time_e": 140.51,
+                "time_s": 140.12
+            },
+            {
+                "char_e": 496,
+                "char_s": 494,
+                "time_e": 140.67,
+                "time_s": 140.51
+            },
+            {
+                "char_e": 502,
+                "char_s": 497,
+                "time_e": 141.09,
+                "time_s": 140.68
+            }
+        ]
+    },
+    {
+        "char_e": 555,
+        "char_s": 506,
+        "speaker": "Mići Princ",
+        "text": "Čuješ, zbudili smo ovu šternu, a ona je zakantala...",
+        "time_e": 145.43,
+        "time_s": 141.43,
+        "words": [
+            {
+                "char_e": 511,
+                "char_s": 506,
+                "time_e": 141.94,
+                "time_s": 141.43
+            },
+            {
+                "char_e": 520,
+                "char_s": 513,
+                "time_e": 143.16,
+                "time_s": 142.69
+            },
+            {
+                "char_e": 524,
+                "char_s": 521,
+                "time_e": 143.32,
+                "time_s": 143.16
+            },
+            {
+                "char_e": 528,
+                "char_s": 525,
+                "time_e": 143.47,
+                "time_s": 143.32
+            },
+            {
+                "char_e": 535,
+                "char_s": 529,
+                "time_e": 144.16,
+                "time_s": 143.47
+            },
+            {
+                "char_e": 538,
+                "char_s": 537,
+                "time_e": 144.35,
+                "time_s": 144.23
+            },
+            {
+                "char_e": 542,
+                "char_s": 539,
+                "time_e": 144.53,
+                "time_s": 144.35
+            },
+            {
+                "char_e": 545,
+                "char_s": 543,
+                "time_e": 144.61,
+                "time_s": 144.53
+            },
+            {
+                "char_e": 555,
+                "char_s": 546,
+                "time_e": 145.43,
+                "time_s": 144.62
+            }
+        ]
+    },
+    {
+        "char_e": 796,
+        "char_s": 559,
+        "speaker": "Pisac",
+        "text": "Nisan tev da se napinje:\n• Pusti mene, to je preteško za te!\nPomalo san zdigav sić do ruba šterne ki je biv od kamika i položiv ga na njiga. Va ušesi mi je još zvonilo kantanje paranka, a va vodi ča se zibala videv san sunce kako treperi.",
+        "time_e": 163.88,
+        "time_s": 146.08,
+        "words": [
+            {
+                "char_e": 564,
+                "char_s": 559,
+                "time_e": 146.54,
+                "time_s": 146.08
+            },
+            {
+                "char_e": 568,
+                "char_s": 565,
+                "time_e": 146.78,
+                "time_s": 146.54
+            },
+            {
+                "char_e": 571,
+                "char_s": 569,
+                "time_e": 146.93,
+                "time_s": 146.78
+            },
+            {
+                "char_e": 574,
+                "char_s": 572,
+                "time_e": 147.09,
+                "time_s": 146.94
+            },
+            {
+                "char_e": 582,
+                "char_s": 575,
+                "time_e": 147.57,
+                "time_s": 147.09
+            },
+            {
+                "char_e": 591,
+                "char_s": 586,
+                "time_e": 148.71,
+                "time_s": 148.47
+            },
+            {
+                "char_e": 596,
+                "char_s": 592,
+                "time_e": 148.99,
+                "time_s": 148.72
+            },
+            {
+                "char_e": 600,
+                "char_s": 598,
+                "time_e": 149.41,
+                "time_s": 149.26
+            },
+            {
+                "char_e": 603,
+                "char_s": 601,
+                "time_e": 149.5,
+                "time_s": 149.41
+            },
+            {
+                "char_e": 612,
+                "char_s": 604,
+                "time_e": 150.05,
+                "time_s": 149.5
+            },
+            {
+                "char_e": 615,
+                "char_s": 613,
+                "time_e": 150.29,
+                "time_s": 150.06
+            },
+            {
+                "char_e": 618,
+                "char_s": 616,
+                "time_e": 150.55,
+                "time_s": 150.5
+            },
+            {
+                "char_e": 626,
+                "char_s": 620,
+                "time_e": 151.66,
+                "time_s": 151.25
+            },
+            {
+                "char_e": 630,
+                "char_s": 627,
+                "time_e": 151.9,
+                "time_s": 151.66
+            },
+            {
+                "char_e": 637,
+                "char_s": 631,
+                "time_e": 152.23,
+                "time_s": 151.91
+            },
+            {
+                "char_e": 641,
+                "char_s": 638,
+                "time_e": 152.64,
+                "time_s": 152.23
+            },
+            {
+                "char_e": 644,
+                "char_s": 642,
+                "time_e": 152.91,
+                "time_s": 152.76
+            },
+            {
+                "char_e": 649,
+                "char_s": 645,
+                "time_e": 153.22,
+                "time_s": 152.91
+            },
+            {
+                "char_e": 656,
+                "char_s": 650,
+                "time_e": 153.79,
+                "time_s": 153.22
+            },
+            {
+                "char_e": 659,
+                "char_s": 657,
+                "time_e": 154.15,
+                "time_s": 154.0
+            },
+            {
+                "char_e": 662,
+                "char_s": 660,
+                "time_e": 154.24,
+                "time_s": 154.16
+            },
+            {
+                "char_e": 666,
+                "char_s": 663,
+                "time_e": 154.49,
+                "time_s": 154.25
+            },
+            {
+                "char_e": 669,
+                "char_s": 667,
+                "time_e": 154.57,
+                "time_s": 154.5
+            },
+            {
+                "char_e": 676,
+                "char_s": 670,
+                "time_e": 155.15,
+                "time_s": 154.57
+            },
+            {
+                "char_e": 678,
+                "char_s": 677,
+                "time_e": 155.44,
+                "time_s": 155.33
+            },
+            {
+                "char_e": 686,
+                "char_s": 679,
+                "time_e": 155.94,
+                "time_s": 155.44
+            },
+            {
+                "char_e": 689,
+                "char_s": 687,
+                "time_e": 156.11,
+                "time_s": 155.94
+            },
+            {
+                "char_e": 692,
+                "char_s": 690,
+                "time_e": 156.24,
+                "time_s": 156.12
+            },
+            {
+                "char_e": 698,
+                "char_s": 693,
+                "time_e": 156.69,
+                "time_s": 156.25
+            },
+            {
+                "char_e": 702,
+                "char_s": 700,
+                "time_e": 157.12,
+                "time_s": 156.94
+            },
+            {
+                "char_e": 708,
+                "char_s": 703,
+                "time_e": 157.63,
+                "time_s": 157.12
+            },
+            {
+                "char_e": 711,
+                "char_s": 709,
+                "time_e": 157.79,
+                "time_s": 157.63
+            },
+            {
+                "char_e": 714,
+                "char_s": 712,
+                "time_e": 157.92,
+                "time_s": 157.79
+            },
+            {
+                "char_e": 718,
+                "char_s": 715,
+                "time_e": 158.13,
+                "time_s": 157.93
+            },
+            {
+                "char_e": 726,
+                "char_s": 719,
+                "time_e": 158.72,
+                "time_s": 158.13
+            },
+            {
+                "char_e": 735,
+                "char_s": 727,
+                "time_e": 159.25,
+                "time_s": 158.75
+            },
+            {
+                "char_e": 743,
+                "char_s": 736,
+                "time_e": 159.92,
+                "time_s": 159.25
+            },
+            {
+                "char_e": 746,
+                "char_s": 745,
+                "time_e": 160.25,
+                "time_s": 160.14
+            },
+            {
+                "char_e": 749,
+                "char_s": 747,
+                "time_e": 160.38,
+                "time_s": 160.25
+            },
+            {
+                "char_e": 754,
+                "char_s": 750,
+                "time_e": 160.74,
+                "time_s": 160.38
+            },
+            {
+                "char_e": 757,
+                "char_s": 755,
+                "time_e": 160.91,
+                "time_s": 160.75
+            },
+            {
+                "char_e": 760,
+                "char_s": 758,
+                "time_e": 161.11,
+                "time_s": 160.91
+            },
+            {
+                "char_e": 767,
+                "char_s": 761,
+                "time_e": 161.72,
+                "time_s": 161.12
+            },
+            {
+                "char_e": 773,
+                "char_s": 768,
+                "time_e": 162.31,
+                "time_s": 161.84
+            },
+            {
+                "char_e": 777,
+                "char_s": 774,
+                "time_e": 162.56,
+                "time_s": 162.31
+            },
+            {
+                "char_e": 783,
+                "char_s": 778,
+                "time_e": 162.92,
+                "time_s": 162.56
+            },
+            {
+                "char_e": 788,
+                "char_s": 784,
+                "time_e": 163.29,
+                "time_s": 162.93
+            },
+            {
+                "char_e": 796,
+                "char_s": 789,
+                "time_e": 163.88,
+                "time_s": 163.29
+            }
+        ]
+    },
+    {
+        "char_e": 829,
+        "char_s": 800,
+        "speaker": "Mići Princ",
+        "text": "Žejan san te vode, daj mi pit!",
+        "time_e": 166.92,
+        "time_s": 164.47,
+        "words": [
+            {
+                "char_e": 805,
+                "char_s": 800,
+                "time_e": 164.85,
+                "time_s": 164.47
+            },
+            {
+                "char_e": 809,
+                "char_s": 806,
+                "time_e": 165.12,
+                "time_s": 164.85
+            },
+            {
+                "char_e": 812,
+                "char_s": 810,
+                "time_e": 165.31,
+                "time_s": 165.12
+            },
+            {
+                "char_e": 817,
+                "char_s": 813,
+                "time_e": 165.52,
+                "time_s": 165.31
+            },
+            {
+                "char_e": 822,
+                "char_s": 819,
+                "time_e": 166.41,
+                "time_s": 166.22
+            },
+            {
+                "char_e": 825,
+                "char_s": 823,
+                "time_e": 166.56,
+                "time_s": 166.41
+            },
+            {
+                "char_e": 829,
+                "char_s": 826,
+                "time_e": 166.92,
+                "time_s": 166.56
+            }
+        ]
+    },
+    {
+        "char_e": 1251,
+        "char_s": 831,
+        "speaker": "Pisac",
+        "text": "I jast san znav ča je iskav!\nZdigniv san sić do njegovih usnic. Piv je zaprtimi oči. Bilo j to kot nikakov blagdan. Tȃ voda j zaspraven drugačja od sakidanje hrane. Bila je rojena va hodu pod zvizdami, va kantanju paranka i trudu mojih ruk. Godila je srcu kot dar.\nKad san biv mići, svitlost z maja, kanat z povnoćice, blagost nasmijanih obrazi, činili su da ono ča bin dobiv za dobru ruku za Božić bude još više blaženo.",
+        "time_e": 201.68,
+        "time_s": 167.57,
+        "words": [
+            {
+                "char_e": 832,
+                "char_s": 831,
+                "time_e": 167.69,
+                "time_s": 167.57
+            },
+            {
+                "char_e": 837,
+                "char_s": 833,
+                "time_e": 167.92,
+                "time_s": 167.69
+            },
+            {
+                "char_e": 841,
+                "char_s": 838,
+                "time_e": 168.01,
+                "time_s": 167.93
+            },
+            {
+                "char_e": 846,
+                "char_s": 842,
+                "time_e": 168.2,
+                "time_s": 168.01
+            },
+            {
+                "char_e": 849,
+                "char_s": 847,
+                "time_e": 168.36,
+                "time_s": 168.2
+            },
+            {
+                "char_e": 852,
+                "char_s": 850,
+                "time_e": 168.45,
+                "time_s": 168.37
+            },
+            {
+                "char_e": 858,
+                "char_s": 853,
+                "time_e": 168.88,
+                "time_s": 168.45
+            },
+            {
+                "char_e": 867,
+                "char_s": 860,
+                "time_e": 169.97,
+                "time_s": 169.46
+            },
+            {
+                "char_e": 871,
+                "char_s": 868,
+                "time_e": 170.23,
+                "time_s": 169.97
+            },
+            {
+                "char_e": 875,
+                "char_s": 872,
+                "time_e": 170.57,
+                "time_s": 170.24
+            },
+            {
+                "char_e": 878,
+                "char_s": 876,
+                "time_e": 170.86,
+                "time_s": 170.68
+            },
+            {
+                "char_e": 887,
+                "char_s": 879,
+                "time_e": 171.4,
+                "time_s": 170.87
+            },
+            {
+                "char_e": 893,
+                "char_s": 888,
+                "time_e": 171.93,
+                "time_s": 171.41
+            },
+            {
+                "char_e": 898,
+                "char_s": 895,
+                "time_e": 172.89,
+                "time_s": 172.66
+            },
+            {
+                "char_e": 901,
+                "char_s": 899,
+                "time_e": 173.0,
+                "time_s": 172.89
+            },
+            {
+                "char_e": 910,
+                "char_s": 902,
+                "time_e": 173.61,
+                "time_s": 173.0
+            },
+            {
+                "char_e": 914,
+                "char_s": 911,
+                "time_e": 174.01,
+                "time_s": 173.62
+            },
+            {
+                "char_e": 920,
+                "char_s": 916,
+                "time_e": 174.75,
+                "time_s": 174.41
+            },
+            {
+                "char_e": 922,
+                "char_s": 921,
+                "time_e": 174.82,
+                "time_s": 174.75
+            },
+            {
+                "char_e": 925,
+                "char_s": 923,
+                "time_e": 174.99,
+                "time_s": 174.82
+            },
+            {
+                "char_e": 929,
+                "char_s": 926,
+                "time_e": 175.32,
+                "time_s": 175.0
+            },
+            {
+                "char_e": 937,
+                "char_s": 930,
+                "time_e": 175.84,
+                "time_s": 175.37
+            },
+            {
+                "char_e": 945,
+                "char_s": 938,
+                "time_e": 176.29,
+                "time_s": 175.84
+            },
+            {
+                "char_e": 949,
+                "char_s": 947,
+                "time_e": 176.87,
+                "time_s": 176.71
+            },
+            {
+                "char_e": 954,
+                "char_s": 950,
+                "time_e": 177.26,
+                "time_s": 176.88
+            },
+            {
+                "char_e": 956,
+                "char_s": 955,
+                "time_e": 177.36,
+                "time_s": 177.26
+            },
+            {
+                "char_e": 966,
+                "char_s": 957,
+                "time_e": 178.17,
+                "time_s": 177.56
+            },
+            {
+                "char_e": 975,
+                "char_s": 967,
+                "time_e": 178.69,
+                "time_s": 178.18
+            },
+            {
+                "char_e": 978,
+                "char_s": 976,
+                "time_e": 178.76,
+                "time_s": 178.69
+            },
+            {
+                "char_e": 988,
+                "char_s": 979,
+                "time_e": 179.4,
+                "time_s": 178.76
+            },
+            {
+                "char_e": 994,
+                "char_s": 989,
+                "time_e": 179.81,
+                "time_s": 179.41
+            },
+            {
+                "char_e": 1000,
+                "char_s": 996,
+                "time_e": 180.69,
+                "time_s": 180.3
+            },
+            {
+                "char_e": 1003,
+                "char_s": 1001,
+                "time_e": 180.81,
+                "time_s": 180.69
+            },
+            {
+                "char_e": 1010,
+                "char_s": 1004,
+                "time_e": 181.27,
+                "time_s": 180.81
+            },
+            {
+                "char_e": 1013,
+                "char_s": 1011,
+                "time_e": 181.4,
+                "time_s": 181.27
+            },
+            {
+                "char_e": 1018,
+                "char_s": 1014,
+                "time_e": 181.79,
+                "time_s": 181.41
+            },
+            {
+                "char_e": 1022,
+                "char_s": 1019,
+                "time_e": 182.07,
+                "time_s": 181.8
+            },
+            {
+                "char_e": 1031,
+                "char_s": 1023,
+                "time_e": 182.69,
+                "time_s": 182.07
+            },
+            {
+                "char_e": 1035,
+                "char_s": 1033,
+                "time_e": 183.19,
+                "time_s": 182.99
+            },
+            {
+                "char_e": 1044,
+                "char_s": 1036,
+                "time_e": 183.73,
+                "time_s": 183.19
+            },
+            {
+                "char_e": 1052,
+                "char_s": 1045,
+                "time_e": 184.55,
+                "time_s": 183.74
+            },
+            {
+                "char_e": 1054,
+                "char_s": 1053,
+                "time_e": 184.85,
+                "time_s": 184.72
+            },
+            {
+                "char_e": 1060,
+                "char_s": 1055,
+                "time_e": 185.24,
+                "time_s": 184.85
+            },
+            {
+                "char_e": 1066,
+                "char_s": 1061,
+                "time_e": 185.55,
+                "time_s": 185.25
+            },
+            {
+                "char_e": 1070,
+                "char_s": 1067,
+                "time_e": 186.09,
+                "time_s": 185.62
+            },
+            {
+                "char_e": 1078,
+                "char_s": 1072,
+                "time_e": 186.82,
+                "time_s": 186.32
+            },
+            {
+                "char_e": 1081,
+                "char_s": 1079,
+                "time_e": 186.91,
+                "time_s": 186.82
+            },
+            {
+                "char_e": 1086,
+                "char_s": 1082,
+                "time_e": 187.34,
+                "time_s": 186.91
+            },
+            {
+                "char_e": 1090,
+                "char_s": 1087,
+                "time_e": 187.63,
+                "time_s": 187.34
+            },
+            {
+                "char_e": 1094,
+                "char_s": 1091,
+                "time_e": 188.09,
+                "time_s": 187.7
+            },
+            {
+                "char_e": 1099,
+                "char_s": 1096,
+                "time_e": 188.61,
+                "time_s": 188.47
+            },
+            {
+                "char_e": 1103,
+                "char_s": 1100,
+                "time_e": 188.81,
+                "time_s": 188.62
+            },
+            {
+                "char_e": 1107,
+                "char_s": 1104,
+                "time_e": 188.99,
+                "time_s": 188.81
+            },
+            {
+                "char_e": 1112,
+                "char_s": 1108,
+                "time_e": 189.5,
+                "time_s": 189.05
+            },
+            {
+                "char_e": 1122,
+                "char_s": 1114,
+                "time_e": 190.54,
+                "time_s": 189.82
+            },
+            {
+                "char_e": 1124,
+                "char_s": 1123,
+                "time_e": 190.75,
+                "time_s": 190.57
+            },
+            {
+                "char_e": 1129,
+                "char_s": 1125,
+                "time_e": 191.22,
+                "time_s": 190.75
+            },
+            {
+                "char_e": 1136,
+                "char_s": 1131,
+                "time_e": 191.95,
+                "time_s": 191.55
+            },
+            {
+                "char_e": 1138,
+                "char_s": 1137,
+                "time_e": 192.17,
+                "time_s": 191.99
+            },
+            {
+                "char_e": 1148,
+                "char_s": 1139,
+                "time_e": 192.98,
+                "time_s": 192.18
+            },
+            {
+                "char_e": 1157,
+                "char_s": 1150,
+                "time_e": 194.17,
+                "time_s": 193.55
+            },
+            {
+                "char_e": 1168,
+                "char_s": 1158,
+                "time_e": 194.93,
+                "time_s": 194.25
+            },
+            {
+                "char_e": 1175,
+                "char_s": 1169,
+                "time_e": 195.5,
+                "time_s": 194.94
+            },
+            {
+                "char_e": 1183,
+                "char_s": 1177,
+                "time_e": 196.24,
+                "time_s": 195.77
+            },
+            {
+                "char_e": 1186,
+                "char_s": 1184,
+                "time_e": 196.41,
+                "time_s": 196.25
+            },
+            {
+                "char_e": 1189,
+                "char_s": 1187,
+                "time_e": 196.59,
+                "time_s": 196.41
+            },
+            {
+                "char_e": 1193,
+                "char_s": 1190,
+                "time_e": 196.91,
+                "time_s": 196.59
+            },
+            {
+                "char_e": 1196,
+                "char_s": 1194,
+                "time_e": 197.12,
+                "time_s": 196.91
+            },
+            {
+                "char_e": 1200,
+                "char_s": 1197,
+                "time_e": 197.38,
+                "time_s": 197.12
+            },
+            {
+                "char_e": 1206,
+                "char_s": 1201,
+                "time_e": 197.86,
+                "time_s": 197.38
+            },
+            {
+                "char_e": 1209,
+                "char_s": 1207,
+                "time_e": 198.25,
+                "time_s": 198.07
+            },
+            {
+                "char_e": 1215,
+                "char_s": 1210,
+                "time_e": 198.64,
+                "time_s": 198.25
+            },
+            {
+                "char_e": 1220,
+                "char_s": 1216,
+                "time_e": 199.02,
+                "time_s": 198.68
+            },
+            {
+                "char_e": 1223,
+                "char_s": 1221,
+                "time_e": 199.18,
+                "time_s": 199.02
+            },
+            {
+                "char_e": 1229,
+                "char_s": 1224,
+                "time_e": 199.68,
+                "time_s": 199.19
+            },
+            {
+                "char_e": 1234,
+                "char_s": 1230,
+                "time_e": 200.41,
+                "time_s": 200.0
+            },
+            {
+                "char_e": 1238,
+                "char_s": 1235,
+                "time_e": 200.66,
+                "time_s": 200.41
+            },
+            {
+                "char_e": 1243,
+                "char_s": 1239,
+                "time_e": 200.97,
+                "time_s": 200.66
+            },
+            {
+                "char_e": 1251,
+                "char_s": 1244,
+                "time_e": 201.68,
+                "time_s": 200.97
+            }
+        ]
+    },
+    {
+        "char_e": 1347,
+        "char_s": 1255,
+        "speaker": "Mići Princ",
+        "text": "Judi s tvojiga planeta goje pet tisuć šipki va jenimu vrtu... i ne najdu va timu ono ča išću...",
+        "time_e": 209.36,
+        "time_s": 202.16,
+        "words": [
+            {
+                "char_e": 1259,
+                "char_s": 1255,
+                "time_e": 202.47,
+                "time_s": 202.16
+            },
+            {
+                "char_e": 1261,
+                "char_s": 1260,
+                "time_e": 202.55,
+                "time_s": 202.47
+            },
+            {
+                "char_e": 1269,
+                "char_s": 1262,
+                "time_e": 202.94,
+                "time_s": 202.56
+            },
+            {
+                "char_e": 1277,
+                "char_s": 1270,
+                "time_e": 203.81,
+                "time_s": 202.94
+            },
+            {
+                "char_e": 1282,
+                "char_s": 1278,
+                "time_e": 204.45,
+                "time_s": 204.01
+            },
+            {
+                "char_e": 1286,
+                "char_s": 1283,
+                "time_e": 204.72,
+                "time_s": 204.45
+            },
+            {
+                "char_e": 1292,
+                "char_s": 1287,
+                "time_e": 205.07,
+                "time_s": 204.72
+            },
+            {
+                "char_e": 1298,
+                "char_s": 1293,
+                "time_e": 205.51,
+                "time_s": 205.07
+            },
+            {
+                "char_e": 1301,
+                "char_s": 1299,
+                "time_e": 205.67,
+                "time_s": 205.51
+            },
+            {
+                "char_e": 1308,
+                "char_s": 1302,
+                "time_e": 206.01,
+                "time_s": 205.68
+            },
+            {
+                "char_e": 1313,
+                "char_s": 1309,
+                "time_e": 206.52,
+                "time_s": 206.05
+            },
+            {
+                "char_e": 1318,
+                "char_s": 1317,
+                "time_e": 207.47,
+                "time_s": 207.32
+            },
+            {
+                "char_e": 1321,
+                "char_s": 1319,
+                "time_e": 207.59,
+                "time_s": 207.47
+            },
+            {
+                "char_e": 1327,
+                "char_s": 1322,
+                "time_e": 207.94,
+                "time_s": 207.59
+            },
+            {
+                "char_e": 1330,
+                "char_s": 1328,
+                "time_e": 208.06,
+                "time_s": 207.94
+            },
+            {
+                "char_e": 1335,
+                "char_s": 1331,
+                "time_e": 208.37,
+                "time_s": 208.06
+            },
+            {
+                "char_e": 1339,
+                "char_s": 1336,
+                "time_e": 208.58,
+                "time_s": 208.38
+            },
+            {
+                "char_e": 1342,
+                "char_s": 1340,
+                "time_e": 208.72,
+                "time_s": 208.58
+            },
+            {
+                "char_e": 1347,
+                "char_s": 1343,
+                "time_e": 209.36,
+                "time_s": 208.93
+            }
+        ]
+    },
+    {
+        "char_e": 1361,
+        "char_s": 1353,
+        "speaker": "Pisac",
+        "text": "Ne najdu.",
+        "time_e": 210.39,
+        "time_s": 209.81,
+        "words": [
+            {
+                "char_e": 1355,
+                "char_s": 1353,
+                "time_e": 209.97,
+                "time_s": 209.81
+            },
+            {
+                "char_e": 1361,
+                "char_s": 1356,
+                "time_e": 210.39,
+                "time_s": 209.97
+            }
+        ]
+    },
+    {
+        "char_e": 1441,
+        "char_s": 1365,
+        "speaker": "Mići Princ",
+        "text": "A sejeno, ono ča išću, more se nać va jenimu jedinimu šipku ili va malo vode...",
+        "time_e": 216.78,
+        "time_s": 211.1,
+        "words": [
+            {
+                "char_e": 1366,
+                "char_s": 1365,
+                "time_e": 211.23,
+                "time_s": 211.1
+            },
+            {
+                "char_e": 1373,
+                "char_s": 1367,
+                "time_e": 211.86,
+                "time_s": 211.24
+            },
+            {
+                "char_e": 1378,
+                "char_s": 1375,
+                "time_e": 212.17,
+                "time_s": 211.89
+            },
+            {
+                "char_e": 1381,
+                "char_s": 1379,
+                "time_e": 212.35,
+                "time_s": 212.18
+            },
+            {
+                "char_e": 1386,
+                "char_s": 1382,
+                "time_e": 213.11,
+                "time_s": 212.35
+            },
+            {
+                "char_e": 1392,
+                "char_s": 1388,
+                "time_e": 213.54,
+                "time_s": 213.21
+            },
+            {
+                "char_e": 1395,
+                "char_s": 1393,
+                "time_e": 213.7,
+                "time_s": 213.55
+            },
+            {
+                "char_e": 1399,
+                "char_s": 1396,
+                "time_e": 213.96,
+                "time_s": 213.7
+            },
+            {
+                "char_e": 1402,
+                "char_s": 1400,
+                "time_e": 214.12,
+                "time_s": 213.96
+            },
+            {
+                "char_e": 1409,
+                "char_s": 1403,
+                "time_e": 214.51,
+                "time_s": 214.12
+            },
+            {
+                "char_e": 1418,
+                "char_s": 1410,
+                "time_e": 214.97,
+                "time_s": 214.51
+            },
+            {
+                "char_e": 1424,
+                "char_s": 1419,
+                "time_e": 215.57,
+                "time_s": 214.97
+            },
+            {
+                "char_e": 1428,
+                "char_s": 1425,
+                "time_e": 215.91,
+                "time_s": 215.6
+            },
+            {
+                "char_e": 1431,
+                "char_s": 1429,
+                "time_e": 216.13,
+                "time_s": 216.0
+            },
+            {
+                "char_e": 1436,
+                "char_s": 1432,
+                "time_e": 216.39,
+                "time_s": 216.13
+            },
+            {
+                "char_e": 1441,
+                "char_s": 1437,
+                "time_e": 216.78,
+                "time_s": 216.39
+            }
+        ]
+    },
+    {
+        "char_e": 1454,
+        "char_s": 1447,
+        "speaker": "Pisac",
+        "text": "Nigo ča!",
+        "time_e": 217.82,
+        "time_s": 217.37,
+        "words": [
+            {
+                "char_e": 1451,
+                "char_s": 1447,
+                "time_e": 217.64,
+                "time_s": 217.37
+            },
+            {
+                "char_e": 1454,
+                "char_s": 1452,
+                "time_e": 217.82,
+                "time_s": 217.64
+            }
+        ]
+    },
+    {
+        "char_e": 1492,
+        "char_s": 1458,
+        "speaker": "Mići Princ",
+        "text": "Ma oči su slipe! Srcen tribi iskat!",
+        "time_e": 222.13,
+        "time_s": 218.37,
+        "words": [
+            {
+                "char_e": 1460,
+                "char_s": 1458,
+                "time_e": 218.84,
+                "time_s": 218.37
+            },
+            {
+                "char_e": 1464,
+                "char_s": 1461,
+                "time_e": 219.32,
+                "time_s": 218.94
+            },
+            {
+                "char_e": 1467,
+                "char_s": 1465,
+                "time_e": 219.51,
+                "time_s": 219.32
+            },
+            {
+                "char_e": 1473,
+                "char_s": 1468,
+                "time_e": 220.11,
+                "time_s": 219.51
+            },
+            {
+                "char_e": 1480,
+                "char_s": 1475,
+                "time_e": 221.23,
+                "time_s": 220.75
+            },
+            {
+                "char_e": 1486,
+                "char_s": 1481,
+                "time_e": 221.56,
+                "time_s": 221.24
+            },
+            {
+                "char_e": 1492,
+                "char_s": 1487,
+                "time_e": 222.13,
+                "time_s": 221.56
+            }
+        ]
+    },
+    {
+        "char_e": 1642,
+        "char_s": 1494,
+        "speaker": "Pisac",
+        "text": "Napiv san se. Dihav san duboko. Pisak je, va zoru, biv kolura kot med. Biv san srićan i radi tiga kolura meda. Zač san onput morav oćutit da me boli?!",
+        "time_e": 234.2,
+        "time_s": 222.7,
+        "words": [
+            {
+                "char_e": 1499,
+                "char_s": 1494,
+                "time_e": 223.08,
+                "time_s": 222.7
+            },
+            {
+                "char_e": 1503,
+                "char_s": 1500,
+                "time_e": 223.29,
+                "time_s": 223.08
+            },
+            {
+                "char_e": 1506,
+                "char_s": 1504,
+                "time_e": 223.48,
+                "time_s": 223.3
+            },
+            {
+                "char_e": 1513,
+                "char_s": 1508,
+                "time_e": 224.14,
+                "time_s": 223.81
+            },
+            {
+                "char_e": 1517,
+                "char_s": 1514,
+                "time_e": 224.36,
+                "time_s": 224.14
+            },
+            {
+                "char_e": 1524,
+                "char_s": 1518,
+                "time_e": 224.86,
+                "time_s": 224.37
+            },
+            {
+                "char_e": 1531,
+                "char_s": 1526,
+                "time_e": 225.74,
+                "time_s": 225.31
+            },
+            {
+                "char_e": 1534,
+                "char_s": 1532,
+                "time_e": 225.86,
+                "time_s": 225.75
+            },
+            {
+                "char_e": 1538,
+                "char_s": 1536,
+                "time_e": 226.01,
+                "time_s": 225.87
+            },
+            {
+                "char_e": 1543,
+                "char_s": 1539,
+                "time_e": 226.48,
+                "time_s": 226.01
+            },
+            {
+                "char_e": 1548,
+                "char_s": 1545,
+                "time_e": 226.88,
+                "time_s": 226.66
+            },
+            {
+                "char_e": 1555,
+                "char_s": 1549,
+                "time_e": 227.36,
+                "time_s": 226.91
+            },
+            {
+                "char_e": 1559,
+                "char_s": 1556,
+                "time_e": 227.57,
+                "time_s": 227.37
+            },
+            {
+                "char_e": 1563,
+                "char_s": 1560,
+                "time_e": 227.97,
+                "time_s": 227.57
+            },
+            {
+                "char_e": 1568,
+                "char_s": 1565,
+                "time_e": 228.46,
+                "time_s": 228.22
+            },
+            {
+                "char_e": 1572,
+                "char_s": 1569,
+                "time_e": 228.67,
+                "time_s": 228.46
+            },
+            {
+                "char_e": 1579,
+                "char_s": 1573,
+                "time_e": 229.21,
+                "time_s": 228.68
+            },
+            {
+                "char_e": 1581,
+                "char_s": 1580,
+                "time_e": 229.33,
+                "time_s": 229.21
+            },
+            {
+                "char_e": 1586,
+                "char_s": 1582,
+                "time_e": 229.6,
+                "time_s": 229.33
+            },
+            {
+                "char_e": 1591,
+                "char_s": 1587,
+                "time_e": 230.01,
+                "time_s": 229.6
+            },
+            {
+                "char_e": 1598,
+                "char_s": 1592,
+                "time_e": 230.54,
+                "time_s": 230.01
+            },
+            {
+                "char_e": 1603,
+                "char_s": 1599,
+                "time_e": 230.98,
+                "time_s": 230.54
+            },
+            {
+                "char_e": 1608,
+                "char_s": 1605,
+                "time_e": 231.61,
+                "time_s": 231.25
+            },
+            {
+                "char_e": 1612,
+                "char_s": 1609,
+                "time_e": 231.88,
+                "time_s": 231.62
+            },
+            {
+                "char_e": 1618,
+                "char_s": 1613,
+                "time_e": 232.37,
+                "time_s": 231.91
+            },
+            {
+                "char_e": 1624,
+                "char_s": 1619,
+                "time_e": 232.84,
+                "time_s": 232.38
+            },
+            {
+                "char_e": 1631,
+                "char_s": 1625,
+                "time_e": 233.46,
+                "time_s": 232.88
+            },
+            {
+                "char_e": 1634,
+                "char_s": 1632,
+                "time_e": 233.66,
+                "time_s": 233.47
+            },
+            {
+                "char_e": 1637,
+                "char_s": 1635,
+                "time_e": 233.8,
+                "time_s": 233.66
+            },
+            {
+                "char_e": 1642,
+                "char_s": 1638,
+                "time_e": 234.2,
+                "time_s": 233.81
+            }
+        ]
+    },
+    {
+        "char_e": 1668,
+        "char_s": 1647,
+        "speaker": "Mići Princ",
+        "text": "Moraš održat obećanje!",
+        "time_e": 236.67,
+        "time_s": 234.69,
+        "words": [
+            {
+                "char_e": 1652,
+                "char_s": 1647,
+                "time_e": 235.13,
+                "time_s": 234.69
+            },
+            {
+                "char_e": 1659,
+                "char_s": 1653,
+                "time_e": 235.84,
+                "time_s": 235.31
+            },
+            {
+                "char_e": 1668,
+                "char_s": 1660,
+                "time_e": 236.67,
+                "time_s": 236.44
+            }
+        ]
+    },
+    {
+        "char_e": 1687,
+        "char_s": 1672,
+        "speaker": "Pisac",
+        "text": "Kakovo obećanje?",
+        "time_e": 238.25,
+        "time_s": 237.12,
+        "words": [
+            {
+                "char_e": 1678,
+                "char_s": 1672,
+                "time_e": 237.56,
+                "time_s": 237.12
+            },
+            {
+                "char_e": 1687,
+                "char_s": 1679,
+                "time_e": 238.25,
+                "time_s": 237.56
+            }
+        ]
+    },
+    {
+        "char_e": 1756,
+        "char_s": 1691,
+        "speaker": "Mići Princ",
+        "text": "Znaš... ona brnjica za moju ovcu... jast san odgovoran za tu rožu!",
+        "time_e": 244.1,
+        "time_s": 238.69,
+        "words": [
+            {
+                "char_e": 1695,
+                "char_s": 1691,
+                "time_e": 239.19,
+                "time_s": 238.69
+            },
+            {
+                "char_e": 1702,
+                "char_s": 1699,
+                "time_e": 239.68,
+                "time_s": 239.44
+            },
+            {
+                "char_e": 1710,
+                "char_s": 1703,
+                "time_e": 240.17,
+                "time_s": 239.69
+            },
+            {
+                "char_e": 1713,
+                "char_s": 1711,
+                "time_e": 240.3,
+                "time_s": 240.22
+            },
+            {
+                "char_e": 1718,
+                "char_s": 1714,
+                "time_e": 240.63,
+                "time_s": 240.31
+            },
+            {
+                "char_e": 1723,
+                "char_s": 1719,
+                "time_e": 241.11,
+                "time_s": 240.63
+            },
+            {
+                "char_e": 1731,
+                "char_s": 1727,
+                "time_e": 242.58,
+                "time_s": 242.31
+            },
+            {
+                "char_e": 1735,
+                "char_s": 1732,
+                "time_e": 242.74,
+                "time_s": 242.59
+            },
+            {
+                "char_e": 1745,
+                "char_s": 1736,
+                "time_e": 243.29,
+                "time_s": 242.75
+            },
+            {
+                "char_e": 1748,
+                "char_s": 1746,
+                "time_e": 243.41,
+                "time_s": 243.29
+            },
+            {
+                "char_e": 1751,
+                "char_s": 1749,
+                "time_e": 243.87,
+                "time_s": 243.41
+            },
+            {
+                "char_e": 1756,
+                "char_s": 1752,
+                "time_e": 244.1,
+                "time_s": 243.98
+            }
+        ]
+    },
+    {
+        "char_e": 1846,
+        "char_s": 1758,
+        "speaker": "Pisac",
+        "text": "Znev san z žepa nedofinjeno ča san risav. Mići Princ je to zagledav i rekav je smijuć se:",
+        "time_e": 251.04,
+        "time_s": 244.62,
+        "words": [
+            {
+                "char_e": 1762,
+                "char_s": 1758,
+                "time_e": 244.99,
+                "time_s": 244.62
+            },
+            {
+                "char_e": 1766,
+                "char_s": 1763,
+                "time_e": 245.2,
+                "time_s": 245.0
+            },
+            {
+                "char_e": 1768,
+                "char_s": 1767,
+                "time_e": 245.23,
+                "time_s": 245.2
+            },
+            {
+                "char_e": 1773,
+                "char_s": 1769,
+                "time_e": 245.57,
+                "time_s": 245.23
+            },
+            {
+                "char_e": 1785,
+                "char_s": 1774,
+                "time_e": 246.6,
+                "time_s": 245.75
+            },
+            {
+                "char_e": 1788,
+                "char_s": 1786,
+                "time_e": 246.78,
+                "time_s": 246.6
+            },
+            {
+                "char_e": 1792,
+                "char_s": 1789,
+                "time_e": 247.09,
+                "time_s": 246.78
+            },
+            {
+                "char_e": 1798,
+                "char_s": 1793,
+                "time_e": 247.63,
+                "time_s": 247.09
+            },
+            {
+                "char_e": 1804,
+                "char_s": 1800,
+                "time_e": 248.46,
+                "time_s": 248.12
+            },
+            {
+                "char_e": 1810,
+                "char_s": 1805,
+                "time_e": 248.81,
+                "time_s": 248.47
+            },
+            {
+                "char_e": 1813,
+                "char_s": 1811,
+                "time_e": 248.93,
+                "time_s": 248.81
+            },
+            {
+                "char_e": 1816,
+                "char_s": 1814,
+                "time_e": 249.14,
+                "time_s": 248.94
+            },
+            {
+                "char_e": 1825,
+                "char_s": 1817,
+                "time_e": 249.72,
+                "time_s": 249.14
+            },
+            {
+                "char_e": 1827,
+                "char_s": 1826,
+                "time_e": 249.87,
+                "time_s": 249.75
+            },
+            {
+                "char_e": 1833,
+                "char_s": 1828,
+                "time_e": 250.23,
+                "time_s": 249.88
+            },
+            {
+                "char_e": 1836,
+                "char_s": 1834,
+                "time_e": 250.37,
+                "time_s": 250.23
+            },
+            {
+                "char_e": 1843,
+                "char_s": 1837,
+                "time_e": 250.92,
+                "time_s": 250.38
+            },
+            {
+                "char_e": 1846,
+                "char_s": 1844,
+                "time_e": 251.04,
+                "time_s": 250.92
+            }
+        ]
+    },
+    {
+        "char_e": 1878,
+        "char_s": 1850,
+        "speaker": "Mići Princ",
+        "text": "Tvoji su baobabi kot broskve...",
+        "time_e": 253.5,
+        "time_s": 251.72,
+        "words": [
+            {
+                "char_e": 1855,
+                "char_s": 1850,
+                "time_e": 251.95,
+                "time_s": 251.72
+            },
+            {
+                "char_e": 1858,
+                "char_s": 1856,
+                "time_e": 252.12,
+                "time_s": 251.95
+            },
+            {
+                "char_e": 1866,
+                "char_s": 1859,
+                "time_e": 252.66,
+                "time_s": 252.12
+            },
+            {
+                "char_e": 1870,
+                "char_s": 1867,
+                "time_e": 252.88,
+                "time_s": 252.66
+            },
+            {
+                "char_e": 1878,
+                "char_s": 1871,
+                "time_e": 253.5,
+                "time_s": 252.88
+            }
+        ]
+    },
+    {
+        "char_e": 1930,
+        "char_s": 1884,
+        "speaker": "Pisac",
+        "text": "Joh!\nA jast san biv tako ponosit zarad baobabi!",
+        "time_e": 256.87,
+        "time_s": 253.84,
+        "words": [
+            {
+                "char_e": 1887,
+                "char_s": 1884,
+                "time_e": 254.16,
+                "time_s": 253.84
+            },
+            {
+                "char_e": 1890,
+                "char_s": 1889,
+                "time_e": 254.65,
+                "time_s": 254.5
+            },
+            {
+                "char_e": 1895,
+                "char_s": 1891,
+                "time_e": 254.82,
+                "time_s": 254.66
+            },
+            {
+                "char_e": 1899,
+                "char_s": 1896,
+                "time_e": 254.96,
+                "time_s": 254.82
+            },
+            {
+                "char_e": 1903,
+                "char_s": 1900,
+                "time_e": 255.18,
+                "time_s": 254.97
+            },
+            {
+                "char_e": 1908,
+                "char_s": 1904,
+                "time_e": 255.48,
+                "time_s": 255.19
+            },
+            {
+                "char_e": 1916,
+                "char_s": 1909,
+                "time_e": 255.95,
+                "time_s": 255.48
+            },
+            {
+                "char_e": 1922,
+                "char_s": 1917,
+                "time_e": 256.26,
+                "time_s": 255.95
+            },
+            {
+                "char_e": 1930,
+                "char_s": 1923,
+                "time_e": 256.87,
+                "time_s": 256.26
+            }
+        ]
+    },
+    {
+        "char_e": 1980,
+        "char_s": 1934,
+        "speaker": "Mići Princ",
+        "text": "A lisica... ušesa su ji kot rogi... preduga su!",
+        "time_e": 261.73,
+        "time_s": 257.5,
+        "words": [
+            {
+                "char_e": 1935,
+                "char_s": 1934,
+                "time_e": 257.61,
+                "time_s": 257.5
+            },
+            {
+                "char_e": 1942,
+                "char_s": 1936,
+                "time_e": 258.74,
+                "time_s": 257.62
+            },
+            {
+                "char_e": 1951,
+                "char_s": 1946,
+                "time_e": 259.48,
+                "time_s": 259.01
+            },
+            {
+                "char_e": 1954,
+                "char_s": 1952,
+                "time_e": 259.6,
+                "time_s": 259.49
+            },
+            {
+                "char_e": 1957,
+                "char_s": 1955,
+                "time_e": 259.71,
+                "time_s": 259.61
+            },
+            {
+                "char_e": 1961,
+                "char_s": 1958,
+                "time_e": 260.02,
+                "time_s": 259.75
+            },
+            {
+                "char_e": 1966,
+                "char_s": 1962,
+                "time_e": 260.44,
+                "time_s": 260.02
+            },
+            {
+                "char_e": 1977,
+                "char_s": 1970,
+                "time_e": 261.28,
+                "time_s": 260.81
+            },
+            {
+                "char_e": 1980,
+                "char_s": 1978,
+                "time_e": 261.73,
+                "time_s": 261.28
+            }
+        ]
+    },
+    {
+        "char_e": 2086,
+        "char_s": 1984,
+        "speaker": "Pisac",
+        "text": "Nepravedan si, mići moj, tr nisan nigdar niš znav narisat nigo kačjiga cara znutra i kačjiga cara zvan.",
+        "time_e": 269.32,
+        "time_s": 262.15,
+        "words": [
+            {
+                "char_e": 1994,
+                "char_s": 1984,
+                "time_e": 262.83,
+                "time_s": 262.15
+            },
+            {
+                "char_e": 1997,
+                "char_s": 1995,
+                "time_e": 262.99,
+                "time_s": 262.84
+            },
+            {
+                "char_e": 2003,
+                "char_s": 1999,
+                "time_e": 263.31,
+                "time_s": 263.0
+            },
+            {
+                "char_e": 2007,
+                "char_s": 2004,
+                "time_e": 263.64,
+                "time_s": 263.31
+            },
+            {
+                "char_e": 2011,
+                "char_s": 2009,
+                "time_e": 264.05,
+                "time_s": 263.87
+            },
+            {
+                "char_e": 2017,
+                "char_s": 2012,
+                "time_e": 264.45,
+                "time_s": 264.06
+            },
+            {
+                "char_e": 2024,
+                "char_s": 2018,
+                "time_e": 264.85,
+                "time_s": 264.45
+            },
+            {
+                "char_e": 2028,
+                "char_s": 2025,
+                "time_e": 265.11,
+                "time_s": 264.86
+            },
+            {
+                "char_e": 2033,
+                "char_s": 2029,
+                "time_e": 265.33,
+                "time_s": 265.12
+            },
+            {
+                "char_e": 2041,
+                "char_s": 2034,
+                "time_e": 266.05,
+                "time_s": 265.34
+            },
+            {
+                "char_e": 2046,
+                "char_s": 2042,
+                "time_e": 266.6,
+                "time_s": 266.36
+            },
+            {
+                "char_e": 2054,
+                "char_s": 2047,
+                "time_e": 267.06,
+                "time_s": 266.61
+            },
+            {
+                "char_e": 2059,
+                "char_s": 2055,
+                "time_e": 267.37,
+                "time_s": 267.06
+            },
+            {
+                "char_e": 2066,
+                "char_s": 2060,
+                "time_e": 267.93,
+                "time_s": 267.38
+            },
+            {
+                "char_e": 2068,
+                "char_s": 2067,
+                "time_e": 268.26,
+                "time_s": 268.14
+            },
+            {
+                "char_e": 2076,
+                "char_s": 2069,
+                "time_e": 268.69,
+                "time_s": 268.26
+            },
+            {
+                "char_e": 2081,
+                "char_s": 2077,
+                "time_e": 268.99,
+                "time_s": 268.69
+            },
+            {
+                "char_e": 2086,
+                "char_s": 2082,
+                "time_e": 269.32,
+                "time_s": 269.0
+            }
+        ]
+    },
+    {
+        "char_e": 2113,
+        "char_s": 2090,
+        "speaker": "Mići Princ",
+        "text": "Ne smeta, dica razumiju.",
+        "time_e": 271.85,
+        "time_s": 269.86,
+        "words": [
+            {
+                "char_e": 2092,
+                "char_s": 2090,
+                "time_e": 269.96,
+                "time_s": 269.86
+            },
+            {
+                "char_e": 2098,
+                "char_s": 2093,
+                "time_e": 270.57,
+                "time_s": 269.97
+            },
+            {
+                "char_e": 2104,
+                "char_s": 2100,
+                "time_e": 271.16,
+                "time_s": 270.9
+            },
+            {
+                "char_e": 2113,
+                "char_s": 2105,
+                "time_e": 271.85,
+                "time_s": 271.16
+            }
+        ]
+    },
+    {
+        "char_e": 2218,
+        "char_s": 2115,
+        "speaker": "Pisac",
+        "text": "Narisav san onput brnjicu i srce mi se stislo dok san mu je davav:\n• Ti maš nike namire ke jast ne znan...",
+        "time_e": 279.68,
+        "time_s": 272.25,
+        "words": [
+            {
+                "char_e": 2122,
+                "char_s": 2115,
+                "time_e": 272.8,
+                "time_s": 272.25
+            },
+            {
+                "char_e": 2126,
+                "char_s": 2123,
+                "time_e": 272.99,
+                "time_s": 272.81
+            },
+            {
+                "char_e": 2132,
+                "char_s": 2127,
+                "time_e": 273.46,
+                "time_s": 273.03
+            },
+            {
+                "char_e": 2140,
+                "char_s": 2133,
+                "time_e": 274.15,
+                "time_s": 273.47
+            },
+            {
+                "char_e": 2142,
+                "char_s": 2141,
+                "time_e": 274.79,
+                "time_s": 274.7
+            },
+            {
+                "char_e": 2147,
+                "char_s": 2143,
+                "time_e": 275.19,
+                "time_s": 274.79
+            },
+            {
+                "char_e": 2150,
+                "char_s": 2148,
+                "time_e": 275.32,
+                "time_s": 275.19
+            },
+            {
+                "char_e": 2153,
+                "char_s": 2151,
+                "time_e": 275.48,
+                "time_s": 275.32
+            },
+            {
+                "char_e": 2160,
+                "char_s": 2154,
+                "time_e": 276.0,
+                "time_s": 275.49
+            },
+            {
+                "char_e": 2164,
+                "char_s": 2161,
+                "time_e": 276.42,
+                "time_s": 276.17
+            },
+            {
+                "char_e": 2168,
+                "char_s": 2165,
+                "time_e": 276.57,
+                "time_s": 276.42
+            },
+            {
+                "char_e": 2171,
+                "char_s": 2169,
+                "time_e": 276.74,
+                "time_s": 276.57
+            },
+            {
+                "char_e": 2174,
+                "char_s": 2172,
+                "time_e": 276.85,
+                "time_s": 276.75
+            },
+            {
+                "char_e": 2180,
+                "char_s": 2175,
+                "time_e": 277.29,
+                "time_s": 276.86
+            },
+            {
+                "char_e": 2186,
+                "char_s": 2184,
+                "time_e": 277.75,
+                "time_s": 277.54
+            },
+            {
+                "char_e": 2190,
+                "char_s": 2187,
+                "time_e": 277.95,
+                "time_s": 277.75
+            },
+            {
+                "char_e": 2195,
+                "char_s": 2191,
+                "time_e": 278.25,
+                "time_s": 277.95
+            },
+            {
+                "char_e": 2202,
+                "char_s": 2196,
+                "time_e": 278.71,
+                "time_s": 278.25
+            },
+            {
+                "char_e": 2205,
+                "char_s": 2203,
+                "time_e": 278.91,
+                "time_s": 278.75
+            },
+            {
+                "char_e": 2210,
+                "char_s": 2206,
+                "time_e": 279.21,
+                "time_s": 278.91
+            },
+            {
+                "char_e": 2213,
+                "char_s": 2211,
+                "time_e": 279.32,
+                "time_s": 279.22
+            },
+            {
+                "char_e": 2218,
+                "char_s": 2214,
+                "time_e": 279.68,
+                "time_s": 279.32
+            }
+        ]
+    },
+    {
+        "char_e": 2306,
+        "char_s": 2224,
+        "speaker": "Mići Princ",
+        "text": "Znaš, to ča san ja pav na Zemju... jutro će bit lito dan...\n• Biv san pav tu blizu...",
+        "time_e": 287.78,
+        "time_s": 280.16,
+        "words": [
+            {
+                "char_e": 2228,
+                "char_s": 2224,
+                "time_e": 280.46,
+                "time_s": 280.16
+            },
+            {
+                "char_e": 2232,
+                "char_s": 2230,
+                "time_e": 281.04,
+                "time_s": 280.88
+            },
+            {
+                "char_e": 2235,
+                "char_s": 2233,
+                "time_e": 281.18,
+                "time_s": 281.04
+            },
+            {
+                "char_e": 2239,
+                "char_s": 2236,
+                "time_e": 281.44,
+                "time_s": 281.19
+            },
+            {
+                "char_e": 2242,
+                "char_s": 2240,
+                "time_e": 281.55,
+                "time_s": 281.44
+            },
+            {
+                "char_e": 2246,
+                "char_s": 2243,
+                "time_e": 281.78,
+                "time_s": 281.56
+            },
+            {
+                "char_e": 2249,
+                "char_s": 2247,
+                "time_e": 281.95,
+                "time_s": 281.78
+            },
+            {
+                "char_e": 2255,
+                "char_s": 2250,
+                "time_e": 282.51,
+                "time_s": 281.95
+            },
+            {
+                "char_e": 2264,
+                "char_s": 2259,
+                "time_e": 283.6,
+                "time_s": 283.28
+            },
+            {
+                "char_e": 2267,
+                "char_s": 2265,
+                "time_e": 283.75,
+                "time_s": 283.61
+            },
+            {
+                "char_e": 2271,
+                "char_s": 2268,
+                "time_e": 284.0,
+                "time_s": 283.75
+            },
+            {
+                "char_e": 2276,
+                "char_s": 2272,
+                "time_e": 284.29,
+                "time_s": 284.0
+            },
+            {
+                "char_e": 2280,
+                "char_s": 2277,
+                "time_e": 284.73,
+                "time_s": 284.29
+            },
+            {
+                "char_e": 2289,
+                "char_s": 2286,
+                "time_e": 286.57,
+                "time_s": 286.44
+            },
+            {
+                "char_e": 2293,
+                "char_s": 2290,
+                "time_e": 286.81,
+                "time_s": 286.61
+            },
+            {
+                "char_e": 2297,
+                "char_s": 2294,
+                "time_e": 287.02,
+                "time_s": 286.81
+            },
+            {
+                "char_e": 2300,
+                "char_s": 2298,
+                "time_e": 287.22,
+                "time_s": 287.02
+            },
+            {
+                "char_e": 2306,
+                "char_s": 2301,
+                "time_e": 287.78,
+                "time_s": 287.23
+            }
+        ]
+    },
+    {
+        "char_e": 2651,
+        "char_s": 2310,
+        "speaker": "Pisac",
+        "text": "Ne znan zač, ja sponovi oćutin onu čudnu bov.\n• Znači da se nisi slučajno šećav po sin siga sam, na tisuć milj dugo od judi, oniga jutra pred osan dan kad san te sriv? Vrnjav si se na misto kadi si pav?\nMići Princ još više počrvjeni. On nigdar ni odgovarav kad ga se j pitalo, ma kad čovik počrvjeni, to bi reć „ja“, ča ne?\n• A joh, bojin se...",
+        "time_e": 317.45,
+        "time_s": 288.72,
+        "words": [
+            {
+                "char_e": 2312,
+                "char_s": 2310,
+                "time_e": 288.87,
+                "time_s": 288.72
+            },
+            {
+                "char_e": 2317,
+                "char_s": 2313,
+                "time_e": 289.14,
+                "time_s": 288.88
+            },
+            {
+                "char_e": 2321,
+                "char_s": 2318,
+                "time_e": 289.55,
+                "time_s": 289.14
+            },
+            {
+                "char_e": 2325,
+                "char_s": 2323,
+                "time_e": 290.19,
+                "time_s": 290.01
+            },
+            {
+                "char_e": 2333,
+                "char_s": 2326,
+                "time_e": 290.68,
+                "time_s": 290.19
+            },
+            {
+                "char_e": 2340,
+                "char_s": 2334,
+                "time_e": 291.14,
+                "time_s": 290.69
+            },
+            {
+                "char_e": 2344,
+                "char_s": 2341,
+                "time_e": 291.69,
+                "time_s": 291.41
+            },
+            {
+                "char_e": 2350,
+                "char_s": 2345,
+                "time_e": 292.07,
+                "time_s": 291.69
+            },
+            {
+                "char_e": 2354,
+                "char_s": 2351,
+                "time_e": 292.4,
+                "time_s": 292.07
+            },
+            {
+                "char_e": 2363,
+                "char_s": 2358,
+                "time_e": 294.63,
+                "time_s": 293.97
+            },
+            {
+                "char_e": 2366,
+                "char_s": 2364,
+                "time_e": 294.9,
+                "time_s": 294.75
+            },
+            {
+                "char_e": 2369,
+                "char_s": 2367,
+                "time_e": 295.11,
+                "time_s": 294.9
+            },
+            {
+                "char_e": 2374,
+                "char_s": 2370,
+                "time_e": 295.55,
+                "time_s": 295.12
+            },
+            {
+                "char_e": 2383,
+                "char_s": 2375,
+                "time_e": 296.08,
+                "time_s": 295.56
+            },
+            {
+                "char_e": 2389,
+                "char_s": 2384,
+                "time_e": 296.59,
+                "time_s": 296.09
+            },
+            {
+                "char_e": 2392,
+                "char_s": 2390,
+                "time_e": 296.74,
+                "time_s": 296.6
+            },
+            {
+                "char_e": 2396,
+                "char_s": 2393,
+                "time_e": 296.98,
+                "time_s": 296.75
+            },
+            {
+                "char_e": 2401,
+                "char_s": 2397,
+                "time_e": 297.31,
+                "time_s": 296.99
+            },
+            {
+                "char_e": 2405,
+                "char_s": 2402,
+                "time_e": 297.73,
+                "time_s": 297.31
+            },
+            {
+                "char_e": 2409,
+                "char_s": 2407,
+                "time_e": 298.27,
+                "time_s": 298.12
+            },
+            {
+                "char_e": 2415,
+                "char_s": 2410,
+                "time_e": 298.75,
+                "time_s": 298.36
+            },
+            {
+                "char_e": 2420,
+                "char_s": 2416,
+                "time_e": 299.19,
+                "time_s": 298.85
+            },
+            {
+                "char_e": 2425,
+                "char_s": 2421,
+                "time_e": 299.66,
+                "time_s": 299.23
+            },
+            {
+                "char_e": 2428,
+                "char_s": 2426,
+                "time_e": 299.81,
+                "time_s": 299.66
+            },
+            {
+                "char_e": 2433,
+                "char_s": 2429,
+                "time_e": 300.18,
+                "time_s": 299.81
+            },
+            {
+                "char_e": 2440,
+                "char_s": 2435,
+                "time_e": 300.8,
+                "time_s": 300.44
+            },
+            {
+                "char_e": 2446,
+                "char_s": 2441,
+                "time_e": 301.2,
+                "time_s": 300.81
+            },
+            {
+                "char_e": 2451,
+                "char_s": 2447,
+                "time_e": 301.45,
+                "time_s": 301.2
+            },
+            {
+                "char_e": 2456,
+                "char_s": 2452,
+                "time_e": 301.73,
+                "time_s": 301.45
+            },
+            {
+                "char_e": 2460,
+                "char_s": 2457,
+                "time_e": 302.02,
+                "time_s": 301.74
+            },
+            {
+                "char_e": 2464,
+                "char_s": 2461,
+                "time_e": 302.17,
+                "time_s": 302.02
+            },
+            {
+                "char_e": 2468,
+                "char_s": 2465,
+                "time_e": 302.33,
+                "time_s": 302.17
+            },
+            {
+                "char_e": 2471,
+                "char_s": 2469,
+                "time_e": 302.46,
+                "time_s": 302.34
+            },
+            {
+                "char_e": 2476,
+                "char_s": 2472,
+                "time_e": 302.83,
+                "time_s": 302.47
+            },
+            {
+                "char_e": 2484,
+                "char_s": 2478,
+                "time_e": 303.76,
+                "time_s": 303.27
+            },
+            {
+                "char_e": 2487,
+                "char_s": 2485,
+                "time_e": 303.9,
+                "time_s": 303.76
+            },
+            {
+                "char_e": 2490,
+                "char_s": 2488,
+                "time_e": 304.07,
+                "time_s": 303.9
+            },
+            {
+                "char_e": 2493,
+                "char_s": 2491,
+                "time_e": 304.19,
+                "time_s": 304.07
+            },
+            {
+                "char_e": 2499,
+                "char_s": 2494,
+                "time_e": 304.55,
+                "time_s": 304.19
+            },
+            {
+                "char_e": 2504,
+                "char_s": 2500,
+                "time_e": 304.83,
+                "time_s": 304.56
+            },
+            {
+                "char_e": 2507,
+                "char_s": 2505,
+                "time_e": 304.99,
+                "time_s": 304.84
+            },
+            {
+                "char_e": 2511,
+                "char_s": 2508,
+                "time_e": 305.32,
+                "time_s": 305.0
+            },
+            {
+                "char_e": 2517,
+                "char_s": 2513,
+                "time_e": 306.06,
+                "time_s": 305.72
+            },
+            {
+                "char_e": 2523,
+                "char_s": 2518,
+                "time_e": 306.41,
+                "time_s": 306.06
+            },
+            {
+                "char_e": 2527,
+                "char_s": 2524,
+                "time_e": 306.62,
+                "time_s": 306.41
+            },
+            {
+                "char_e": 2532,
+                "char_s": 2528,
+                "time_e": 306.89,
+                "time_s": 306.62
+            },
+            {
+                "char_e": 2542,
+                "char_s": 2533,
+                "time_e": 307.46,
+                "time_s": 306.89
+            },
+            {
+                "char_e": 2546,
+                "char_s": 2544,
+                "time_e": 308.23,
+                "time_s": 307.95
+            },
+            {
+                "char_e": 2553,
+                "char_s": 2547,
+                "time_e": 308.63,
+                "time_s": 308.24
+            },
+            {
+                "char_e": 2556,
+                "char_s": 2554,
+                "time_e": 308.85,
+                "time_s": 308.63
+            },
+            {
+                "char_e": 2566,
+                "char_s": 2557,
+                "time_e": 309.59,
+                "time_s": 308.86
+            },
+            {
+                "char_e": 2570,
+                "char_s": 2567,
+                "time_e": 309.81,
+                "time_s": 309.62
+            },
+            {
+                "char_e": 2573,
+                "char_s": 2571,
+                "time_e": 309.97,
+                "time_s": 309.81
+            },
+            {
+                "char_e": 2576,
+                "char_s": 2574,
+                "time_e": 310.14,
+                "time_s": 309.98
+            },
+            {
+                "char_e": 2578,
+                "char_s": 2577,
+                "time_e": 310.2,
+                "time_s": 310.14
+            },
+            {
+                "char_e": 2585,
+                "char_s": 2579,
+                "time_e": 310.94,
+                "time_s": 310.2
+            },
+            {
+                "char_e": 2589,
+                "char_s": 2587,
+                "time_e": 311.31,
+                "time_s": 311.12
+            },
+            {
+                "char_e": 2593,
+                "char_s": 2590,
+                "time_e": 311.46,
+                "time_s": 311.31
+            },
+            {
+                "char_e": 2599,
+                "char_s": 2594,
+                "time_e": 311.82,
+                "time_s": 311.47
+            },
+            {
+                "char_e": 2609,
+                "char_s": 2600,
+                "time_e": 312.61,
+                "time_s": 311.82
+            },
+            {
+                "char_e": 2613,
+                "char_s": 2611,
+                "time_e": 313.08,
+                "time_s": 312.94
+            },
+            {
+                "char_e": 2616,
+                "char_s": 2614,
+                "time_e": 313.18,
+                "time_s": 313.09
+            },
+            {
+                "char_e": 2620,
+                "char_s": 2617,
+                "time_e": 313.46,
+                "time_s": 313.19
+            },
+            {
+                "char_e": 2624,
+                "char_s": 2622,
+                "time_e": 313.62,
+                "time_s": 313.47
+            },
+            {
+                "char_e": 2629,
+                "char_s": 2627,
+                "time_e": 314.15,
+                "time_s": 313.91
+            },
+            {
+                "char_e": 2632,
+                "char_s": 2630,
+                "time_e": 314.33,
+                "time_s": 314.15
+            },
+            {
+                "char_e": 2637,
+                "char_s": 2636,
+                "time_e": 315.9,
+                "time_s": 315.84
+            },
+            {
+                "char_e": 2641,
+                "char_s": 2638,
+                "time_e": 316.43,
+                "time_s": 316.24
+            },
+            {
+                "char_e": 2648,
+                "char_s": 2643,
+                "time_e": 317.14,
+                "time_s": 316.69
+            },
+            {
+                "char_e": 2651,
+                "char_s": 2649,
+                "time_e": 317.45,
+                "time_s": 317.14
+            }
+        ]
+    },
+    {
+        "char_e": 2755,
+        "char_s": 2657,
+        "speaker": "Mići Princ",
+        "text": "Ti sad moraš poć na dilo. Moraš se vrnit svojimu ajeroplanu. Čekat ću te ovdi. Vrni se jutro večer!",
+        "time_e": 326.5,
+        "time_s": 318.15,
+        "words": [
+            {
+                "char_e": 2659,
+                "char_s": 2657,
+                "time_e": 318.33,
+                "time_s": 318.15
+            },
+            {
+                "char_e": 2663,
+                "char_s": 2660,
+                "time_e": 318.61,
+                "time_s": 318.34
+            },
+            {
+                "char_e": 2669,
+                "char_s": 2664,
+                "time_e": 318.95,
+                "time_s": 318.64
+            },
+            {
+                "char_e": 2673,
+                "char_s": 2670,
+                "time_e": 319.28,
+                "time_s": 318.95
+            },
+            {
+                "char_e": 2676,
+                "char_s": 2674,
+                "time_e": 319.41,
+                "time_s": 319.28
+            },
+            {
+                "char_e": 2681,
+                "char_s": 2677,
+                "time_e": 319.82,
+                "time_s": 319.41
+            },
+            {
+                "char_e": 2688,
+                "char_s": 2683,
+                "time_e": 320.71,
+                "time_s": 320.38
+            },
+            {
+                "char_e": 2691,
+                "char_s": 2689,
+                "time_e": 320.87,
+                "time_s": 320.72
+            },
+            {
+                "char_e": 2697,
+                "char_s": 2692,
+                "time_e": 321.15,
+                "time_s": 320.88
+            },
+            {
+                "char_e": 2705,
+                "char_s": 2698,
+                "time_e": 321.5,
+                "time_s": 321.15
+            },
+            {
+                "char_e": 2716,
+                "char_s": 2706,
+                "time_e": 322.24,
+                "time_s": 321.5
+            },
+            {
+                "char_e": 2723,
+                "char_s": 2718,
+                "time_e": 323.35,
+                "time_s": 323.09
+            },
+            {
+                "char_e": 2726,
+                "char_s": 2724,
+                "time_e": 323.48,
+                "time_s": 323.36
+            },
+            {
+                "char_e": 2729,
+                "char_s": 2727,
+                "time_e": 323.62,
+                "time_s": 323.49
+            },
+            {
+                "char_e": 2734,
+                "char_s": 2730,
+                "time_e": 324.02,
+                "time_s": 323.62
+            },
+            {
+                "char_e": 2740,
+                "char_s": 2736,
+                "time_e": 325.13,
+                "time_s": 324.91
+            },
+            {
+                "char_e": 2743,
+                "char_s": 2741,
+                "time_e": 325.47,
+                "time_s": 325.13
+            },
+            {
+                "char_e": 2749,
+                "char_s": 2744,
+                "time_e": 325.94,
+                "time_s": 325.56
+            },
+            {
+                "char_e": 2755,
+                "char_s": 2750,
+                "time_e": 326.5,
+                "time_s": 326.31
+            }
+        ]
+    },
+    {
+        "char_e": 2859,
+        "char_s": 2757,
+        "speaker": "Pisac",
+        "text": "To me ni umirilo. Zmisliv san se lisice. Kad čovik pusti da ga pripitome, more se dogodit i da zaplače...",
+        "time_e": 334.86,
+        "time_s": 326.81,
+        "words": [
+            {
+                "char_e": 2759,
+                "char_s": 2757,
+                "time_e": 326.98,
+                "time_s": 326.81
+            },
+            {
+                "char_e": 2762,
+                "char_s": 2760,
+                "time_e": 327.14,
+                "time_s": 326.99
+            },
+            {
+                "char_e": 2765,
+                "char_s": 2763,
+                "time_e": 327.31,
+                "time_s": 327.14
+            },
+            {
+                "char_e": 2773,
+                "char_s": 2766,
+                "time_e": 327.86,
+                "time_s": 327.31
+            },
+            {
+                "char_e": 2782,
+                "char_s": 2775,
+                "time_e": 328.71,
+                "time_s": 328.15
+            },
+            {
+                "char_e": 2786,
+                "char_s": 2783,
+                "time_e": 328.92,
+                "time_s": 328.72
+            },
+            {
+                "char_e": 2789,
+                "char_s": 2787,
+                "time_e": 329.1,
+                "time_s": 328.92
+            },
+            {
+                "char_e": 2796,
+                "char_s": 2790,
+                "time_e": 329.65,
+                "time_s": 329.11
+            },
+            {
+                "char_e": 2801,
+                "char_s": 2798,
+                "time_e": 330.36,
+                "time_s": 330.07
+            },
+            {
+                "char_e": 2807,
+                "char_s": 2802,
+                "time_e": 330.81,
+                "time_s": 330.37
+            },
+            {
+                "char_e": 2813,
+                "char_s": 2808,
+                "time_e": 331.25,
+                "time_s": 330.81
+            },
+            {
+                "char_e": 2816,
+                "char_s": 2814,
+                "time_e": 331.41,
+                "time_s": 331.25
+            },
+            {
+                "char_e": 2819,
+                "char_s": 2817,
+                "time_e": 331.55,
+                "time_s": 331.41
+            },
+            {
+                "char_e": 2829,
+                "char_s": 2820,
+                "time_e": 332.26,
+                "time_s": 331.56
+            },
+            {
+                "char_e": 2835,
+                "char_s": 2831,
+                "time_e": 333.1,
+                "time_s": 332.78
+            },
+            {
+                "char_e": 2838,
+                "char_s": 2836,
+                "time_e": 333.25,
+                "time_s": 333.11
+            },
+            {
+                "char_e": 2846,
+                "char_s": 2839,
+                "time_e": 333.81,
+                "time_s": 333.25
+            },
+            {
+                "char_e": 2848,
+                "char_s": 2847,
+                "time_e": 334.02,
+                "time_s": 333.86
+            },
+            {
+                "char_e": 2851,
+                "char_s": 2849,
+                "time_e": 334.18,
+                "time_s": 334.02
+            },
+            {
+                "char_e": 2859,
+                "char_s": 2852,
+                "time_e": 334.86,
+                "time_s": 334.19
+            }
+        ]
+    }
+]

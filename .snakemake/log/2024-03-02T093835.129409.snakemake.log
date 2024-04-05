@@ -1,0 +1,71 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 11
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+Check              1              1              1
+DoJSON             4              1              1
+GatherJsons        1              1              1
+total              6              1              1
+
+Select jobs to execute...
+
+[Sat Mar  2 09:38:35 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_28.exb, /home/nikola/transfer/mici_princ/MP_28.txt.txt, /home/nikola/transfer/mici_princ/MP_28.txt, /home/nikola/transfer/mici_princ/MP_28.txt.json
+    output: aligned_jsons/MP_28.json
+    jobid: 29
+    reason: Missing output files: aligned_jsons/MP_28.json
+    wildcards: file=MP_28
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 09:38:35 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_23.exb, /home/nikola/transfer/mici_princ/MP_23.txt.txt, /home/nikola/transfer/mici_princ/MP_23.txt, /home/nikola/transfer/mici_princ/MP_23.txt.json
+    output: aligned_jsons/MP_23.json
+    jobid: 23
+    reason: Missing output files: aligned_jsons/MP_23.json
+    wildcards: file=MP_23
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 09:38:35 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_12.exb, /home/nikola/transfer/mici_princ/MP_12.txt.txt, /home/nikola/transfer/mici_princ/MP_12.txt, /home/nikola/transfer/mici_princ/MP_12.txt.json
+    output: aligned_jsons/MP_12.json
+    jobid: 3
+    reason: Updated input files: inspected_exbs_fixed/MP_12.exb
+    wildcards: file=MP_12
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 09:38:35 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_22.exb, /home/nikola/transfer/mici_princ/MP_22.txt.txt, /home/nikola/transfer/mici_princ/MP_22.txt.json
+    output: inspected_exbs_fixed/MP_22.exb
+    jobid: 18
+    reason: Missing output files: inspected_exbs_fixed/MP_22.exb
+    wildcards: file=MP_22
+    resources: tmpdir=/tmp
+
+Waiting at most 5 seconds for missing files.
+Terminating processes on user request, this might take some time.
+[Sat Mar  2 09:38:35 2024]
+Error in rule DoJSON:
+    jobid: 3
+    input: inspected_exbs_fixed/MP_12.exb, /home/nikola/transfer/mici_princ/MP_12.txt.txt, /home/nikola/transfer/mici_princ/MP_12.txt, /home/nikola/transfer/mici_princ/MP_12.txt.json
+    output: aligned_jsons/MP_12.json
+
+[Sat Mar  2 09:38:35 2024]
+Error in rule DoJSON:
+    jobid: 23
+    input: inspected_exbs_fixed/MP_23.exb, /home/nikola/transfer/mici_princ/MP_23.txt.txt, /home/nikola/transfer/mici_princ/MP_23.txt, /home/nikola/transfer/mici_princ/MP_23.txt.json
+    output: aligned_jsons/MP_23.json
+
+[Sat Mar  2 09:38:35 2024]
+Error in rule DoJSON:
+    jobid: 29
+    input: inspected_exbs_fixed/MP_28.exb, /home/nikola/transfer/mici_princ/MP_28.txt.txt, /home/nikola/transfer/mici_princ/MP_28.txt, /home/nikola/transfer/mici_princ/MP_28.txt.json
+    output: aligned_jsons/MP_28.json
+
+Complete log: .snakemake/log/2024-03-02T093835.129409.snakemake.log

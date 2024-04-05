@@ -1,0 +1,795 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 10
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+Check             28              1              1
+DoJSON            29              1              1
+GatherJsons        1              1              1
+total             58              1              1
+
+Select jobs to execute...
+
+[Sat Mar  2 10:29:19 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_10.exb, /home/nikola/transfer/mici_princ/MP_10.txt.txt, /home/nikola/transfer/mici_princ/MP_10.txt.json
+    output: inspected_exbs_fixed/MP_10.exb
+    jobid: 38
+    reason: Code has changed since last execution
+    wildcards: file=MP_10
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_14.exb, /home/nikola/transfer/mici_princ/MP_14.txt.txt, /home/nikola/transfer/mici_princ/MP_14.txt.json
+    output: inspected_exbs_fixed/MP_14.exb
+    jobid: 40
+    reason: Code has changed since last execution
+    wildcards: file=MP_14
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_04.exb, /home/nikola/transfer/mici_princ/MP_04.txt.txt, /home/nikola/transfer/mici_princ/MP_04.txt.json
+    output: inspected_exbs_fixed/MP_04.exb
+    jobid: 42
+    reason: Code has changed since last execution
+    wildcards: file=MP_04
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_13.exb, /home/nikola/transfer/mici_princ/MP_13.txt.txt, /home/nikola/transfer/mici_princ/MP_13.txt.json
+    output: inspected_exbs_fixed/MP_13.exb
+    jobid: 12
+    reason: Code has changed since last execution
+    wildcards: file=MP_13
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_21.exb, /home/nikola/transfer/mici_princ/MP_21.txt.txt, /home/nikola/transfer/mici_princ/MP_21.txt.json
+    output: inspected_exbs_fixed/MP_21.exb
+    jobid: 46
+    reason: Code has changed since last execution
+    wildcards: file=MP_21
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_05.exb, /home/nikola/transfer/mici_princ/MP_05.txt.txt, /home/nikola/transfer/mici_princ/MP_05.txt.json
+    output: inspected_exbs_fixed/MP_05.exb
+    jobid: 16
+    reason: Code has changed since last execution
+    wildcards: file=MP_05
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_07.exb, /home/nikola/transfer/mici_princ/MP_07.txt.txt, /home/nikola/transfer/mici_princ/MP_07.txt.json
+    output: inspected_exbs_fixed/MP_07.exb
+    jobid: 50
+    reason: Code has changed since last execution
+    wildcards: file=MP_07
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_26.exb, /home/nikola/transfer/mici_princ/MP_26.txt.txt, /home/nikola/transfer/mici_princ/MP_26.txt.json
+    output: inspected_exbs_fixed/MP_26.exb
+    jobid: 56
+    reason: Code has changed since last execution
+    wildcards: file=MP_26
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_25.exb, /home/nikola/transfer/mici_princ/MP_25.txt.txt, /home/nikola/transfer/mici_princ/MP_25.txt, /home/nikola/transfer/mici_princ/MP_25.txt.json
+    output: aligned_jsons/MP_25.json
+    jobid: 43
+    reason: Updated input files: inspected_exbs_fixed/MP_25.exb
+    wildcards: file=MP_25
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_15.exb, /home/nikola/transfer/mici_princ/MP_15.txt.txt, /home/nikola/transfer/mici_princ/MP_15.txt.json
+    output: inspected_exbs_fixed/MP_15.exb
+    jobid: 6
+    reason: Code has changed since last execution
+    wildcards: file=MP_15
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+Finished job 6.
+1 of 58 steps (2%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_15.exb, /home/nikola/transfer/mici_princ/MP_15.txt.txt, /home/nikola/transfer/mici_princ/MP_15.txt, /home/nikola/transfer/mici_princ/MP_15.txt.json
+    output: aligned_jsons/MP_15.json
+    jobid: 5
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_15.exb
+    wildcards: file=MP_15
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+Finished job 42.
+2 of 58 steps (3%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_04.exb, /home/nikola/transfer/mici_princ/MP_04.txt.txt, /home/nikola/transfer/mici_princ/MP_04.txt, /home/nikola/transfer/mici_princ/MP_04.txt.json
+    output: aligned_jsons/MP_04.json
+    jobid: 41
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_04.exb
+    wildcards: file=MP_04
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+Finished job 38.
+3 of 58 steps (5%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_10.exb, /home/nikola/transfer/mici_princ/MP_10.txt.txt, /home/nikola/transfer/mici_princ/MP_10.txt, /home/nikola/transfer/mici_princ/MP_10.txt.json
+    output: aligned_jsons/MP_10.json
+    jobid: 37
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_10.exb
+    wildcards: file=MP_10
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+Finished job 40.
+4 of 58 steps (7%) done
+[Sat Mar  2 10:29:19 2024]
+Finished job 12.
+5 of 58 steps (9%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_14.exb, /home/nikola/transfer/mici_princ/MP_14.txt.txt, /home/nikola/transfer/mici_princ/MP_14.txt, /home/nikola/transfer/mici_princ/MP_14.txt.json
+    output: aligned_jsons/MP_14.json
+    jobid: 39
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_14.exb
+    wildcards: file=MP_14
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_13.exb, /home/nikola/transfer/mici_princ/MP_13.txt.txt, /home/nikola/transfer/mici_princ/MP_13.txt, /home/nikola/transfer/mici_princ/MP_13.txt.json
+    output: aligned_jsons/MP_13.json
+    jobid: 11
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_13.exb
+    wildcards: file=MP_13
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+Finished job 16.
+6 of 58 steps (10%) done
+[Sat Mar  2 10:29:19 2024]
+Finished job 46.
+7 of 58 steps (12%) done
+[Sat Mar  2 10:29:19 2024]
+Finished job 50.
+8 of 58 steps (14%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_21.exb, /home/nikola/transfer/mici_princ/MP_21.txt.txt, /home/nikola/transfer/mici_princ/MP_21.txt, /home/nikola/transfer/mici_princ/MP_21.txt.json
+    output: aligned_jsons/MP_21.json
+    jobid: 45
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_21.exb
+    wildcards: file=MP_21
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_05.exb, /home/nikola/transfer/mici_princ/MP_05.txt.txt, /home/nikola/transfer/mici_princ/MP_05.txt, /home/nikola/transfer/mici_princ/MP_05.txt.json
+    output: aligned_jsons/MP_05.json
+    jobid: 15
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_05.exb
+    wildcards: file=MP_05
+    resources: tmpdir=/tmp
+
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_07.exb, /home/nikola/transfer/mici_princ/MP_07.txt.txt, /home/nikola/transfer/mici_princ/MP_07.txt, /home/nikola/transfer/mici_princ/MP_07.txt.json
+    output: aligned_jsons/MP_07.json
+    jobid: 49
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_07.exb
+    wildcards: file=MP_07
+    resources: tmpdir=/tmp
+
+Select jobs to execute...
+[Sat Mar  2 10:29:19 2024]
+Finished job 56.
+9 of 58 steps (16%) done
+
+[Sat Mar  2 10:29:19 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_26.exb, /home/nikola/transfer/mici_princ/MP_26.txt.txt, /home/nikola/transfer/mici_princ/MP_26.txt, /home/nikola/transfer/mici_princ/MP_26.txt.json
+    output: aligned_jsons/MP_26.json
+    jobid: 55
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_26.exb
+    wildcards: file=MP_26
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 43.
+10 of 58 steps (17%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_08.exb, /home/nikola/transfer/mici_princ/MP_08.txt.txt, /home/nikola/transfer/mici_princ/MP_08.txt.json
+    output: inspected_exbs_fixed/MP_08.exb
+    jobid: 8
+    reason: Code has changed since last execution
+    wildcards: file=MP_08
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 8.
+11 of 58 steps (19%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_08.exb, /home/nikola/transfer/mici_princ/MP_08.txt.txt, /home/nikola/transfer/mici_princ/MP_08.txt, /home/nikola/transfer/mici_princ/MP_08.txt.json
+    output: aligned_jsons/MP_08.json
+    jobid: 7
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_08.exb
+    wildcards: file=MP_08
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 41.
+12 of 58 steps (21%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_24.exb, /home/nikola/transfer/mici_princ/MP_24.txt.txt, /home/nikola/transfer/mici_princ/MP_24.txt.json
+    output: inspected_exbs_fixed/MP_24.exb
+    jobid: 28
+    reason: Code has changed since last execution
+    wildcards: file=MP_24
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 5.
+13 of 58 steps (22%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_02.exb, /home/nikola/transfer/mici_princ/MP_02.txt.txt, /home/nikola/transfer/mici_princ/MP_02.txt.json
+    output: inspected_exbs_fixed/MP_02.exb
+    jobid: 58
+    reason: Code has changed since last execution
+    wildcards: file=MP_02
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 39.
+14 of 58 steps (24%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_17.exb, /home/nikola/transfer/mici_princ/MP_17.txt.txt, /home/nikola/transfer/mici_princ/MP_17.txt.json
+    output: inspected_exbs_fixed/MP_17.exb
+    jobid: 10
+    reason: Code has changed since last execution
+    wildcards: file=MP_17
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 37.
+15 of 58 steps (26%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_01.exb, /home/nikola/transfer/mici_princ/MP_01.txt.txt, /home/nikola/transfer/mici_princ/MP_01.txt.json
+    output: inspected_exbs_fixed/MP_01.exb
+    jobid: 48
+    reason: Code has changed since last execution
+    wildcards: file=MP_01
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 11.
+16 of 58 steps (28%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_09.exb, /home/nikola/transfer/mici_princ/MP_09.txt.txt, /home/nikola/transfer/mici_princ/MP_09.txt.json
+    output: inspected_exbs_fixed/MP_09.exb
+    jobid: 52
+    reason: Code has changed since last execution
+    wildcards: file=MP_09
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 15.
+17 of 58 steps (29%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_03.exb, /home/nikola/transfer/mici_princ/MP_03.txt.txt, /home/nikola/transfer/mici_princ/MP_03.txt.json
+    output: inspected_exbs_fixed/MP_03.exb
+    jobid: 2
+    reason: Code has changed since last execution
+    wildcards: file=MP_03
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 49.
+18 of 58 steps (31%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_16.exb, /home/nikola/transfer/mici_princ/MP_16.txt.txt, /home/nikola/transfer/mici_princ/MP_16.txt.json
+    output: inspected_exbs_fixed/MP_16.exb
+    jobid: 32
+    reason: Code has changed since last execution
+    wildcards: file=MP_16
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 45.
+19 of 58 steps (33%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_27.exb, /home/nikola/transfer/mici_princ/MP_27.txt.txt, /home/nikola/transfer/mici_princ/MP_27.txt.json
+    output: inspected_exbs_fixed/MP_27.exb
+    jobid: 34
+    reason: Code has changed since last execution
+    wildcards: file=MP_27
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 55.
+20 of 58 steps (34%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_20.exb, /home/nikola/transfer/mici_princ/MP_20.txt.txt, /home/nikola/transfer/mici_princ/MP_20.txt.json
+    output: inspected_exbs_fixed/MP_20.exb
+    jobid: 36
+    reason: Code has changed since last execution
+    wildcards: file=MP_20
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 28.
+21 of 58 steps (36%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_24.exb, /home/nikola/transfer/mici_princ/MP_24.txt.txt, /home/nikola/transfer/mici_princ/MP_24.txt, /home/nikola/transfer/mici_princ/MP_24.txt.json
+    output: aligned_jsons/MP_24.json
+    jobid: 27
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_24.exb
+    wildcards: file=MP_24
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 48.
+22 of 58 steps (38%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_01.exb, /home/nikola/transfer/mici_princ/MP_01.txt.txt, /home/nikola/transfer/mici_princ/MP_01.txt, /home/nikola/transfer/mici_princ/MP_01.txt.json
+    output: aligned_jsons/MP_01.json
+    jobid: 47
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_01.exb
+    wildcards: file=MP_01
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 58.
+23 of 58 steps (40%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_02.exb, /home/nikola/transfer/mici_princ/MP_02.txt.txt, /home/nikola/transfer/mici_princ/MP_02.txt, /home/nikola/transfer/mici_princ/MP_02.txt.json
+    output: aligned_jsons/MP_02.json
+    jobid: 57
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_02.exb
+    wildcards: file=MP_02
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 2.
+24 of 58 steps (41%) done
+[Sat Mar  2 10:29:20 2024]
+Finished job 10.
+25 of 58 steps (43%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_03.exb, /home/nikola/transfer/mici_princ/MP_03.txt.txt, /home/nikola/transfer/mici_princ/MP_03.txt, /home/nikola/transfer/mici_princ/MP_03.txt.json
+    output: aligned_jsons/MP_03.json
+    jobid: 1
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_03.exb
+    wildcards: file=MP_03
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_17.exb, /home/nikola/transfer/mici_princ/MP_17.txt.txt, /home/nikola/transfer/mici_princ/MP_17.txt, /home/nikola/transfer/mici_princ/MP_17.txt.json
+    output: aligned_jsons/MP_17.json
+    jobid: 9
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_17.exb
+    wildcards: file=MP_17
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 52.
+26 of 58 steps (45%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_09.exb, /home/nikola/transfer/mici_princ/MP_09.txt.txt, /home/nikola/transfer/mici_princ/MP_09.txt, /home/nikola/transfer/mici_princ/MP_09.txt.json
+    output: aligned_jsons/MP_09.json
+    jobid: 51
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_09.exb
+    wildcards: file=MP_09
+    resources: tmpdir=/tmp
+
+Select jobs to execute...
+[Sat Mar  2 10:29:20 2024]
+Finished job 34.
+27 of 58 steps (47%) done
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_27.exb, /home/nikola/transfer/mici_princ/MP_27.txt.txt, /home/nikola/transfer/mici_princ/MP_27.txt, /home/nikola/transfer/mici_princ/MP_27.txt.json
+    output: aligned_jsons/MP_27.json
+    jobid: 33
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_27.exb
+    wildcards: file=MP_27
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 32.
+28 of 58 steps (48%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_16.exb, /home/nikola/transfer/mici_princ/MP_16.txt.txt, /home/nikola/transfer/mici_princ/MP_16.txt, /home/nikola/transfer/mici_princ/MP_16.txt.json
+    output: aligned_jsons/MP_16.json
+    jobid: 31
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_16.exb
+    wildcards: file=MP_16
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:20 2024]
+Finished job 36.
+29 of 58 steps (50%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:20 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_20.exb, /home/nikola/transfer/mici_princ/MP_20.txt.txt, /home/nikola/transfer/mici_princ/MP_20.txt, /home/nikola/transfer/mici_princ/MP_20.txt.json
+    output: aligned_jsons/MP_20.json
+    jobid: 35
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_20.exb
+    wildcards: file=MP_20
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 7.
+30 of 58 steps (52%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_11.exb, /home/nikola/transfer/mici_princ/MP_11.txt.txt, /home/nikola/transfer/mici_princ/MP_11.txt.json
+    output: inspected_exbs_fixed/MP_11.exb
+    jobid: 54
+    reason: Code has changed since last execution
+    wildcards: file=MP_11
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 54.
+31 of 58 steps (53%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_11.exb, /home/nikola/transfer/mici_princ/MP_11.txt.txt, /home/nikola/transfer/mici_princ/MP_11.txt, /home/nikola/transfer/mici_princ/MP_11.txt.json
+    output: aligned_jsons/MP_11.json
+    jobid: 53
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_11.exb
+    wildcards: file=MP_11
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 47.
+32 of 58 steps (55%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_00.exb, /home/nikola/transfer/mici_princ/MP_00.txt.txt, /home/nikola/transfer/mici_princ/MP_00.txt.json
+    output: inspected_exbs_fixed/MP_00.exb
+    jobid: 26
+    reason: Code has changed since last execution
+    wildcards: file=MP_00
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 27.
+33 of 58 steps (57%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_06.exb, /home/nikola/transfer/mici_princ/MP_06.txt.txt, /home/nikola/transfer/mici_princ/MP_06.txt.json
+    output: inspected_exbs_fixed/MP_06.exb
+    jobid: 14
+    reason: Code has changed since last execution
+    wildcards: file=MP_06
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 1.
+34 of 58 steps (59%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_22.exb, /home/nikola/transfer/mici_princ/MP_22.txt.txt, /home/nikola/transfer/mici_princ/MP_22.txt.json
+    output: inspected_exbs_fixed/MP_22.exb
+    jobid: 18
+    reason: Code has changed since last execution
+    wildcards: file=MP_22
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 51.
+35 of 58 steps (60%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_19.exb, /home/nikola/transfer/mici_princ/MP_19.txt.txt, /home/nikola/transfer/mici_princ/MP_19.txt.json
+    output: inspected_exbs_fixed/MP_19.exb
+    jobid: 22
+    reason: Code has changed since last execution
+    wildcards: file=MP_19
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 9.
+36 of 58 steps (62%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_23.exb, /home/nikola/transfer/mici_princ/MP_23.txt.txt, /home/nikola/transfer/mici_princ/MP_23.txt.json
+    output: inspected_exbs_fixed/MP_23.exb
+    jobid: 24
+    reason: Code has changed since last execution
+    wildcards: file=MP_23
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 31.
+37 of 58 steps (64%) done
+[Sat Mar  2 10:29:21 2024]
+Finished job 57.
+38 of 58 steps (66%) done
+[Sat Mar  2 10:29:21 2024]
+Finished job 33.
+39 of 58 steps (67%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_18.exb, /home/nikola/transfer/mici_princ/MP_18.txt.txt, /home/nikola/transfer/mici_princ/MP_18.txt.json
+    output: inspected_exbs_fixed/MP_18.exb
+    jobid: 20
+    reason: Code has changed since last execution
+    wildcards: file=MP_18
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_28.exb, /home/nikola/transfer/mici_princ/MP_28.txt.txt, /home/nikola/transfer/mici_princ/MP_28.txt.json
+    output: inspected_exbs_fixed/MP_28.exb
+    jobid: 30
+    reason: Code has changed since last execution
+    wildcards: file=MP_28
+    resources: tmpdir=/tmp
+
+
+[Sat Mar  2 10:29:21 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_12.exb, /home/nikola/transfer/mici_princ/MP_12.txt.txt, /home/nikola/transfer/mici_princ/MP_12.txt.json
+    output: inspected_exbs_fixed/MP_12.exb
+    jobid: 4
+    reason: Code has changed since last execution
+    wildcards: file=MP_12
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 35.
+40 of 58 steps (69%) done
+[Sat Mar  2 10:29:21 2024]
+Finished job 26.
+41 of 58 steps (71%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_00.exb, /home/nikola/transfer/mici_princ/MP_00.txt.txt, /home/nikola/transfer/mici_princ/MP_00.txt, /home/nikola/transfer/mici_princ/MP_00.txt.json
+    output: aligned_jsons/MP_00.json
+    jobid: 25
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_00.exb
+    wildcards: file=MP_00
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 14.
+42 of 58 steps (72%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_06.exb, /home/nikola/transfer/mici_princ/MP_06.txt.txt, /home/nikola/transfer/mici_princ/MP_06.txt, /home/nikola/transfer/mici_princ/MP_06.txt.json
+    output: aligned_jsons/MP_06.json
+    jobid: 13
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_06.exb
+    wildcards: file=MP_06
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 24.
+43 of 58 steps (74%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_23.exb, /home/nikola/transfer/mici_princ/MP_23.txt.txt, /home/nikola/transfer/mici_princ/MP_23.txt, /home/nikola/transfer/mici_princ/MP_23.txt.json
+    output: aligned_jsons/MP_23.json
+    jobid: 23
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_23.exb
+    wildcards: file=MP_23
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 22.
+44 of 58 steps (76%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_19.exb, /home/nikola/transfer/mici_princ/MP_19.txt.txt, /home/nikola/transfer/mici_princ/MP_19.txt, /home/nikola/transfer/mici_princ/MP_19.txt.json
+    output: aligned_jsons/MP_19.json
+    jobid: 21
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_19.exb
+    wildcards: file=MP_19
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 20.
+45 of 58 steps (78%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_18.exb, /home/nikola/transfer/mici_princ/MP_18.txt.txt, /home/nikola/transfer/mici_princ/MP_18.txt, /home/nikola/transfer/mici_princ/MP_18.txt.json
+    output: aligned_jsons/MP_18.json
+    jobid: 19
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_18.exb
+    wildcards: file=MP_18
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 18.
+46 of 58 steps (79%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_22.exb, /home/nikola/transfer/mici_princ/MP_22.txt.txt, /home/nikola/transfer/mici_princ/MP_22.txt, /home/nikola/transfer/mici_princ/MP_22.txt.json
+    output: aligned_jsons/MP_22.json
+    jobid: 17
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_22.exb
+    wildcards: file=MP_22
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 4.
+47 of 58 steps (81%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_12.exb, /home/nikola/transfer/mici_princ/MP_12.txt.txt, /home/nikola/transfer/mici_princ/MP_12.txt, /home/nikola/transfer/mici_princ/MP_12.txt.json
+    output: aligned_jsons/MP_12.json
+    jobid: 3
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_12.exb
+    wildcards: file=MP_12
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 30.
+48 of 58 steps (83%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:21 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_28.exb, /home/nikola/transfer/mici_princ/MP_28.txt.txt, /home/nikola/transfer/mici_princ/MP_28.txt, /home/nikola/transfer/mici_princ/MP_28.txt.json
+    output: aligned_jsons/MP_28.json
+    jobid: 29
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_28.exb
+    wildcards: file=MP_28
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:21 2024]
+Finished job 53.
+49 of 58 steps (84%) done
+[Sat Mar  2 10:29:22 2024]
+Finished job 23.
+50 of 58 steps (86%) done
+[Sat Mar  2 10:29:22 2024]
+Finished job 19.
+51 of 58 steps (88%) done
+[Sat Mar  2 10:29:22 2024]
+Finished job 25.
+52 of 58 steps (90%) done
+[Sat Mar  2 10:29:22 2024]
+Finished job 13.
+53 of 58 steps (91%) done
+[Sat Mar  2 10:29:22 2024]
+Finished job 29.
+54 of 58 steps (93%) done
+[Sat Mar  2 10:29:22 2024]
+Finished job 3.
+55 of 58 steps (95%) done
+[Sat Mar  2 10:29:22 2024]
+Finished job 17.
+56 of 58 steps (97%) done
+[Sat Mar  2 10:29:22 2024]
+Finished job 21.
+57 of 58 steps (98%) done
+Select jobs to execute...
+
+[Sat Mar  2 10:29:22 2024]
+rule GatherJsons:
+    input: aligned_jsons/MP_03.json, aligned_jsons/MP_12.json, aligned_jsons/MP_15.json, aligned_jsons/MP_08.json, aligned_jsons/MP_17.json, aligned_jsons/MP_13.json, aligned_jsons/MP_06.json, aligned_jsons/MP_05.json, aligned_jsons/MP_22.json, aligned_jsons/MP_18.json, aligned_jsons/MP_19.json, aligned_jsons/MP_23.json, aligned_jsons/MP_00.json, aligned_jsons/MP_24.json, aligned_jsons/MP_28.json, aligned_jsons/MP_16.json, aligned_jsons/MP_27.json, aligned_jsons/MP_20.json, aligned_jsons/MP_10.json, aligned_jsons/MP_14.json, aligned_jsons/MP_04.json, aligned_jsons/MP_25.json, aligned_jsons/MP_21.json, aligned_jsons/MP_01.json, aligned_jsons/MP_07.json, aligned_jsons/MP_09.json, aligned_jsons/MP_11.json, aligned_jsons/MP_26.json, aligned_jsons/MP_02.json
+    jobid: 0
+    reason: Input files updated by another job: aligned_jsons/MP_10.json, aligned_jsons/MP_22.json, aligned_jsons/MP_08.json, aligned_jsons/MP_17.json, aligned_jsons/MP_12.json, aligned_jsons/MP_15.json, aligned_jsons/MP_20.json, aligned_jsons/MP_03.json, aligned_jsons/MP_04.json, aligned_jsons/MP_11.json, aligned_jsons/MP_02.json, aligned_jsons/MP_19.json, aligned_jsons/MP_14.json, aligned_jsons/MP_27.json, aligned_jsons/MP_18.json, aligned_jsons/MP_25.json, aligned_jsons/MP_26.json, aligned_jsons/MP_24.json, aligned_jsons/MP_00.json, aligned_jsons/MP_09.json, aligned_jsons/MP_21.json, aligned_jsons/MP_06.json, aligned_jsons/MP_05.json, aligned_jsons/MP_16.json, aligned_jsons/MP_28.json, aligned_jsons/MP_07.json, aligned_jsons/MP_13.json, aligned_jsons/MP_23.json, aligned_jsons/MP_01.json
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 10:29:22 2024]
+Finished job 0.
+58 of 58 steps (100%) done
+Complete log: .snakemake/log/2024-03-02T102919.357958.snakemake.log

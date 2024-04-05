@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basic-transcription>
+	<head>
+		<meta-information>
+			<project-name/>
+			<transcription-name/>
+			<referenced-file url="MP_19.wav"/>
+			<ud-meta-information/>
+			<comment/>
+			<transcription-convention/>
+		</meta-information>
+		<speakertable>
+			<speaker id="SPEAKER_00">
+				<abbreviation>Pisac</abbreviation>
+				<sex value="m"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+</ud-speaker-information>
+				<comment/>
+			</speaker>
+			<speaker id="SPEAKER_01">
+				<abbreviation>Mići Princ</abbreviation>
+				<sex value="m"/>
+				<languages-used/>
+				<l1/>
+				<l2/>
+				<ud-speaker-information>
+</ud-speaker-information>
+				<comment/>
+			</speaker>
+		</speakertable>
+	</head>
+	<basic-body>
+		<common-timeline>
+			<tli id="T0" time="59.79"/>
+			<tli id="T1" time="60.05"/>
+			<tli id="T2" time="60.06"/>
+			<tli id="T3" time="60.41"/>
+			<tli id="T4" time="60.42"/>
+			<tli id="T5" time="60.51"/>
+			<tli id="T6" time="60.52"/>
+			<tli id="T7" time="60.82"/>
+			<tli id="T8" time="60.83"/>
+			<tli id="T9" time="61.36"/>
+			<tli id="T10" time="61.5"/>
+			<tli id="T11" time="61.66"/>
+			<tli id="T12" time="61.67"/>
+			<tli id="T13" time="61.92"/>
+			<tli id="T14" time="61.93"/>
+			<tli id="T15" time="62.4"/>
+			<tli id="T16" time="62.41"/>
+			<tli id="T17" time="63.01"/>
+			<tli id="T18" time="63.23"/>
+			<tli id="T19" time="63.66"/>
+			<tli id="T20" time="63.67"/>
+			<tli id="T21" time="64.13"/>
+			<tli id="T22" time="64.14"/>
+			<tli id="T23" time="64.29"/>
+			<tli id="T24" time="64.3"/>
+			<tli id="T25" time="64.42"/>
+			<tli id="T26" time="64.43"/>
+			<tli id="T27" time="64.89"/>
+			<tli id="T28" time="64.93"/>
+			<tli id="T29" time="65.28"/>
+			<tli id="T30" time="65.29"/>
+			<tli id="T31" time="65.44"/>
+			<tli id="T32" time="65.45"/>
+			<tli id="T33" time="65.76"/>
+			<tli id="T34" time="65.77"/>
+			<tli id="T35" time="66.12"/>
+			<tli id="T36" time="66.13"/>
+			<tli id="T37" time="66.42"/>
+			<tli id="T38" time="66.43"/>
+			<tli id="T39" time="66.68"/>
+			<tli id="T40" time="66.69"/>
+			<tli id="T41" time="67.48"/>
+			<tli id="T42" time="67.59"/>
+			<tli id="T43" time="67.75"/>
+			<tli id="T44" time="67.76"/>
+			<tli id="T45" time="67.95"/>
+			<tli id="T46" time="67.96"/>
+			<tli id="T47" time="68.07"/>
+			<tli id="T48" time="68.08"/>
+			<tli id="T49" time="68.7"/>
+			<tli id="T50" time="68.71"/>
+			<tli id="T51" time="68.85"/>
+			<tli id="T52" time="68.86"/>
+			<tli id="T53" time="69.43"/>
+			<tli id="T54" time="69.61"/>
+			<tli id="T55" time="70.3"/>
+			<tli id="T56" time="70.31"/>
+			<tli id="T57" time="70.76"/>
+			<tli id="T58" time="70.77"/>
+			<tli id="T59" time="70.99"/>
+			<tli id="T60" time="71.0"/>
+			<tli id="T61" time="71.09"/>
+			<tli id="T62" time="71.1"/>
+			<tli id="T63" time="71.39"/>
+			<tli id="T64" time="71.43"/>
+			<tli id="T65" time="71.62"/>
+			<tli id="T66" time="71.63"/>
+			<tli id="T67" time="72.12"/>
+			<tli id="T68" time="72.57"/>
+			<tli id="T69" time="72.59"/>
+			<tli id="T70" time="72.6"/>
+			<tli id="T71" time="72.92"/>
+			<tli id="T72" time="72.96"/>
+			<tli id="T73" time="73.44"/>
+			<tli id="T74" time="73.45"/>
+			<tli id="T75" time="74.16"/>
+			<tli id="T76" time="74.82"/>
+			<tli id="T77" time="74.84"/>
+			<tli id="T78" time="74.85"/>
+			<tli id="T79" time="75.2"/>
+			<tli id="T80" time="75.21"/>
+			<tli id="T81" time="75.35"/>
+			<tli id="T82" time="75.36"/>
+			<tli id="T83" time="75.95"/>
+			<tli id="T84" time="75.96"/>
+			<tli id="T85" time="76.38"/>
+			<tli id="T86" time="76.39"/>
+			<tli id="T87" time="76.56"/>
+			<tli id="T88" time="76.6"/>
+			<tli id="T89" time="76.88"/>
+			<tli id="T90" time="77.17"/>
+			<tli id="T91" time="77.31"/>
+			<tli id="T92" time="77.32"/>
+			<tli id="T93" time="77.58"/>
+			<tli id="T94" time="77.59"/>
+			<tli id="T95" time="77.83"/>
+			<tli id="T96" time="79.11"/>
+			<tli id="T97" time="79.38"/>
+			<tli id="T98" time="79.39"/>
+			<tli id="T99" time="79.45"/>
+			<tli id="T100" time="79.46"/>
+			<tli id="T101" time="79.8"/>
+			<tli id="T102" time="79.81"/>
+			<tli id="T103" time="80.23"/>
+			<tli id="T104" time="80.24"/>
+			<tli id="T105" time="80.7"/>
+			<tli id="T106" time="80.74"/>
+			<tli id="T107" time="81.15"/>
+			<tli id="T108" time="81.16"/>
+			<tli id="T109" time="81.27"/>
+			<tli id="T110" time="81.28"/>
+			<tli id="T111" time="81.74"/>
+			<tli id="T112" time="82.49"/>
+			<tli id="T113" time="82.79"/>
+			<tli id="T114" time="82.92"/>
+			<tli id="T115" time="83.19"/>
+			<tli id="T116" time="85.24"/>
+			<tli id="T117" time="85.45"/>
+			<tli id="T118" time="85.46"/>
+			<tli id="T119" time="85.7"/>
+			<tli id="T120" time="85.71"/>
+			<tli id="T121" time="86.05"/>
+			<tli id="T122" time="87.88"/>
+			<tli id="T123" time="88.28"/>
+			<tli id="T124" time="88.29"/>
+			<tli id="T125" time="88.44"/>
+			<tli id="T126" time="88.45"/>
+			<tli id="T127" time="89.34"/>
+			<tli id="T128" time="89.41"/>
+			<tli id="T129" time="89.61"/>
+			<tli id="T130" time="89.62"/>
+			<tli id="T131" time="89.86"/>
+			<tli id="T132" time="89.87"/>
+			<tli id="T133" time="90.43"/>
+			<tli id="T134" time="94.5"/>
+			<tli id="T135" time="94.82"/>
+			<tli id="T136" time="94.83"/>
+			<tli id="T137" time="95.37"/>
+			<tli id="T138" time="95.38"/>
+			<tli id="T139" time="96.08"/>
+			<tli id="T140" time="96.72"/>
+			<tli id="T141" time="96.94"/>
+			<tli id="T142" time="97.01"/>
+			<tli id="T143" time="97.1"/>
+			<tli id="T144" time="97.11"/>
+			<tli id="T145" time="97.53"/>
+			<tli id="T146" time="98.1"/>
+			<tli id="T147" time="98.5"/>
+			<tli id="T148" time="98.51"/>
+			<tli id="T149" time="99.07"/>
+			<tli id="T150" time="99.23"/>
+			<tli id="T151" time="99.43"/>
+			<tli id="T152" time="99.44"/>
+			<tli id="T153" time="99.69"/>
+			<tli id="T154" time="99.7"/>
+			<tli id="T155" time="100.33"/>
+			<tli id="T156" time="100.88"/>
+			<tli id="T157" time="101.24"/>
+			<tli id="T158" time="101.25"/>
+			<tli id="T159" time="101.7"/>
+			<tli id="T160" time="101.71"/>
+			<tli id="T161" time="102.29"/>
+			<tli id="T162" time="102.93"/>
+			<tli id="T163" time="103.68"/>
+			<tli id="T164" time="103.69"/>
+			<tli id="T165" time="103.92"/>
+			<tli id="T166" time="103.93"/>
+			<tli id="T167" time="104.07"/>
+			<tli id="T168" time="104.08"/>
+			<tli id="T169" time="104.24"/>
+			<tli id="T170" time="104.25"/>
+			<tli id="T171" time="104.42"/>
+			<tli id="T172" time="104.43"/>
+			<tli id="T173" time="104.91"/>
+			<tli id="T174" time="105.93"/>
+			<tli id="T175" time="106.17"/>
+			<tli id="T176" time="106.18"/>
+			<tli id="T177" time="106.41"/>
+			<tli id="T178" time="106.42"/>
+			<tli id="T179" time="106.66"/>
+			<tli id="T180" time="106.67"/>
+			<tli id="T181" time="106.94"/>
+			<tli id="T182" time="106.95"/>
+			<tli id="T183" time="107.72"/>
+			<tli id="T184" time="107.95"/>
+			<tli id="T185" time="108.34"/>
+			<tli id="T186" time="108.35"/>
+			<tli id="T187" time="108.43"/>
+			<tli id="T188" time="108.44"/>
+			<tli id="T189" time="108.86"/>
+			<tli id="T190" time="108.87"/>
+			<tli id="T191" time="109.5"/>
+			<tli id="T192" time="109.813"/>
+		</common-timeline>
+		<tier id="SPEAKER_00" speaker="SPEAKER_00" category="v" type="t" display-name="Pisac">
+			<event start="T0" end="T1">mići</event>
+			<event start="T2" end="T3">princ</event>
+			<event start="T4" end="T5">je</event>
+			<event start="T6" end="T7">šav</event>
+			<event start="T8" end="T9">zgoru</event>
+			<event start="T10" end="T11">na</event>
+			<event start="T12" end="T13">niku</event>
+			<event start="T14" end="T15">visoku</event>
+			<event start="T16" end="T17">planinu</event>
+			<event start="T18" end="T19">jedine</event>
+			<event start="T20" end="T21">planine</event>
+			<event start="T22" end="T23">ča</event>
+			<event start="T24" end="T25">je</event>
+			<event start="T26" end="T27">znav</event>
+			<event start="T28" end="T29">bile</event>
+			<event start="T30" end="T31">su</event>
+			<event start="T32" end="T33">puli</event>
+			<event start="T34" end="T35">njiga</event>
+			<event start="T36" end="T37">ona</event>
+			<event start="T38" end="T39">tri</event>
+			<event start="T40" end="T41">vulkana</event>
+			<event start="T42" end="T43">ča</event>
+			<event start="T44" end="T45">su</event>
+			<event start="T46" end="T47">mu</event>
+			<event start="T48" end="T49">dosegala</event>
+			<event start="T50" end="T51">do</event>
+			<event start="T52" end="T53">kolina</event>
+			<event start="T54" end="T55">zagašen</event>
+			<event start="T56" end="T57">vulkan</event>
+			<event start="T58" end="T59">mu</event>
+			<event start="T60" end="T61">je</event>
+			<event start="T62" end="T63">biv</event>
+			<event start="T64" end="T65">kot</event>
+			<event start="T66" end="T67">stolić</event>
+			<event start="T96" end="T97">ma</event>
+			<event start="T98" end="T99">je</event>
+			<event start="T100" end="T101">videv</event>
+			<event start="T102" end="T103">samo</event>
+			<event start="T104" end="T105">oštre</event>
+			<event start="T106" end="T107">vrhe</event>
+			<event start="T108" end="T109">od</event>
+			<event start="T110" end="T111">škriv</event>
+		</tier>
+		<tier id="SPEAKER_01" speaker="SPEAKER_01" category="v" type="t" display-name="Mići Princ">
+			<event start="T68" end="T69">z</event>
+			<event start="T70" end="T71">vako</event>
+			<event start="T72" end="T73">visoke</event>
+			<event start="T74" end="T75">planine</event>
+			<event start="T76" end="T77">z</event>
+			<event start="T78" end="T79">jednin</event>
+			<event start="T80" end="T81">ću</event>
+			<event start="T82" end="T83">pogledon</event>
+			<event start="T84" end="T85">zajet</event>
+			<event start="T86" end="T87">civ</event>
+			<event start="T88" end="T89">planet</event>
+			<event start="T90" end="T91">i</event>
+			<event start="T92" end="T93">se</event>
+			<event start="T94" end="T95">jude</event>
+			<event start="T112" end="T113">dobar</event>
+			<event start="T114" end="T115">dan</event>
+			<event start="T116" end="T117">ki</event>
+			<event start="T118" end="T119">ste</event>
+			<event start="T120" end="T121">vi</event>
+			<event start="T122" end="T123">budite</event>
+			<event start="T124" end="T125">mi</event>
+			<event start="T126" end="T127">prijateji</event>
+			<event start="T128" end="T129">ja</event>
+			<event start="T130" end="T131">san</event>
+			<event start="T132" end="T133">sam</event>
+			<event start="T134" end="T135">kako</event>
+			<event start="T136" end="T137">čudan</event>
+			<event start="T138" end="T139">planet</event>
+			<event start="T140" end="T141">vas</event>
+			<event start="T142" end="T143">je</event>
+			<event start="T144" end="T145">suh</event>
+			<event start="T146" end="T147">vas</event>
+			<event start="T148" end="T149">špičast</event>
+			<event start="T150" end="T151">i</event>
+			<event start="T152" end="T153">vas</event>
+			<event start="T154" end="T155">slan</event>
+			<event start="T156" end="T157">judi</event>
+			<event start="T158" end="T159">nimaju</event>
+			<event start="T160" end="T161">mašte</event>
+			<event start="T162" end="T163">ponavjaju</event>
+			<event start="T164" end="T165">ono</event>
+			<event start="T166" end="T167">ča</event>
+			<event start="T168" end="T169">jin</event>
+			<event start="T170" end="T171">se</event>
+			<event start="T172" end="T173">reče</event>
+			<event start="T174" end="T175">doma</event>
+			<event start="T176" end="T177">san</event>
+			<event start="T178" end="T179">imev</event>
+			<event start="T180" end="T181">jedan</event>
+			<event start="T182" end="T183">šipak</event>
+			<event start="T184" end="T185">vavik</event>
+			<event start="T186" end="T187">je</event>
+			<event start="T188" end="T189">prvi</event>
+			<event start="T190" end="T191">govoriv</event>
+		</tier>
+	</basic-body>
+</basic-transcription>

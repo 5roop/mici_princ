@@ -1,0 +1,46 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+Check             16              1              1
+DoJSON            16              1              1
+GatherJsons        1              1              1
+total             33              1              1
+
+Select jobs to execute...
+
+[Fri Mar  1 13:47:40 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_10.exb, /home/nikola/transfer/mici_princ/MP_10.txt.txt, /home/nikola/transfer/mici_princ/MP_10.txt.json
+    output: inspected_exbs_fixed/MP_10.exb
+    jobid: 18
+    reason: Forced execution
+    wildcards: file=MP_10
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 13:47:41 2024]
+Finished job 18.
+1 of 33 steps (3%) done
+Select jobs to execute...
+
+[Fri Mar  1 13:47:41 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_10.exb, /home/nikola/transfer/mici_princ/MP_10.txt.txt, /home/nikola/transfer/mici_princ/MP_10.txt, /home/nikola/transfer/mici_princ/MP_10.txt.json
+    output: aligned_jsons/MP_10.json
+    jobid: 17
+    reason: Missing output files: aligned_jsons/MP_10.json; Input files updated by another job: inspected_exbs_fixed/MP_10.exb
+    wildcards: file=MP_10
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 13:47:41 2024]
+Error in rule DoJSON:
+    jobid: 17
+    input: inspected_exbs_fixed/MP_10.exb, /home/nikola/transfer/mici_princ/MP_10.txt.txt, /home/nikola/transfer/mici_princ/MP_10.txt, /home/nikola/transfer/mici_princ/MP_10.txt.json
+    output: aligned_jsons/MP_10.json
+
+Shutting down, this might take some time.
+Exiting because a job execution failed. Look above for error message
+Complete log: .snakemake/log/2024-03-01T134740.768960.snakemake.log

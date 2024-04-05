@@ -1,0 +1,53 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+Check              1              1              1
+DoJSON             1              1              1
+GatherJsons        1              1              1
+total              3              1              1
+
+Select jobs to execute...
+
+[Sat Mar  2 09:58:14 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_22.exb, /home/nikola/transfer/mici_princ/MP_22.txt.txt, /home/nikola/transfer/mici_princ/MP_22.txt.json
+    output: inspected_exbs_fixed/MP_22.exb
+    jobid: 18
+    reason: Missing output files: inspected_exbs_fixed/MP_22.exb
+    wildcards: file=MP_22
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 09:58:14 2024]
+Finished job 18.
+1 of 3 steps (33%) done
+Select jobs to execute...
+
+[Sat Mar  2 09:58:14 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_22.exb, /home/nikola/transfer/mici_princ/MP_22.txt.txt, /home/nikola/transfer/mici_princ/MP_22.txt, /home/nikola/transfer/mici_princ/MP_22.txt.json
+    output: aligned_jsons/MP_22.json
+    jobid: 17
+    reason: Missing output files: aligned_jsons/MP_22.json; Input files updated by another job: inspected_exbs_fixed/MP_22.exb
+    wildcards: file=MP_22
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 09:58:15 2024]
+Finished job 17.
+2 of 3 steps (67%) done
+Select jobs to execute...
+
+[Sat Mar  2 09:58:15 2024]
+rule GatherJsons:
+    input: aligned_jsons/MP_03.json, aligned_jsons/MP_12.json, aligned_jsons/MP_15.json, aligned_jsons/MP_08.json, aligned_jsons/MP_17.json, aligned_jsons/MP_13.json, aligned_jsons/MP_06.json, aligned_jsons/MP_05.json, aligned_jsons/MP_22.json, aligned_jsons/MP_18.json, aligned_jsons/MP_19.json, aligned_jsons/MP_23.json, aligned_jsons/MP_00.json, aligned_jsons/MP_24.json, aligned_jsons/MP_28.json, aligned_jsons/MP_16.json, aligned_jsons/MP_27.json, aligned_jsons/MP_20.json, aligned_jsons/MP_10.json, aligned_jsons/MP_14.json, aligned_jsons/MP_04.json, aligned_jsons/MP_25.json, aligned_jsons/MP_21.json, aligned_jsons/MP_01.json, aligned_jsons/MP_07.json, aligned_jsons/MP_09.json, aligned_jsons/MP_11.json, aligned_jsons/MP_26.json, aligned_jsons/MP_02.json
+    jobid: 0
+    reason: Rules with a run or shell declaration but no output are always executed.
+    resources: tmpdir=/tmp
+
+[Sat Mar  2 09:58:15 2024]
+Finished job 0.
+3 of 3 steps (100%) done
+Complete log: .snakemake/log/2024-03-02T095813.977801.snakemake.log

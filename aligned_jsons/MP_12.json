@@ -1,0 +1,466 @@
+[
+    {
+        "char_e": 109,
+        "char_s": 0,
+        "speaker": "Pisac",
+        "text": "Na tretin planetu je bivav niki pijanac. Ta vižita bila je jako kratka, ali je jako ražalostila Mićiga Princa.",
+        "time_e": 53.4,
+        "time_s": 45.44,
+        "words": [
+            {
+                "char_e": 2,
+                "char_s": 0,
+                "time_e": 45.54,
+                "time_s": 45.44
+            },
+            {
+                "char_e": 9,
+                "char_s": 3,
+                "time_e": 45.91,
+                "time_s": 45.54
+            },
+            {
+                "char_e": 17,
+                "char_s": 10,
+                "time_e": 46.41,
+                "time_s": 45.91
+            },
+            {
+                "char_e": 20,
+                "char_s": 18,
+                "time_e": 46.54,
+                "time_s": 46.41
+            },
+            {
+                "char_e": 26,
+                "char_s": 21,
+                "time_e": 46.97,
+                "time_s": 46.54
+            },
+            {
+                "char_e": 31,
+                "char_s": 27,
+                "time_e": 47.29,
+                "time_s": 46.97
+            },
+            {
+                "char_e": 39,
+                "char_s": 32,
+                "time_e": 48.27,
+                "time_s": 47.29
+            },
+            {
+                "char_e": 43,
+                "char_s": 41,
+                "time_e": 48.75,
+                "time_s": 48.57
+            },
+            {
+                "char_e": 50,
+                "char_s": 44,
+                "time_e": 49.24,
+                "time_s": 48.75
+            },
+            {
+                "char_e": 55,
+                "char_s": 51,
+                "time_e": 49.59,
+                "time_s": 49.24
+            },
+            {
+                "char_e": 58,
+                "char_s": 56,
+                "time_e": 49.65,
+                "time_s": 49.59
+            },
+            {
+                "char_e": 63,
+                "char_s": 59,
+                "time_e": 49.94,
+                "time_s": 49.65
+            },
+            {
+                "char_e": 70,
+                "char_s": 64,
+                "time_e": 50.6,
+                "time_s": 49.94
+            },
+            {
+                "char_e": 75,
+                "char_s": 72,
+                "time_e": 51.01,
+                "time_s": 50.77
+            },
+            {
+                "char_e": 78,
+                "char_s": 76,
+                "time_e": 51.18,
+                "time_s": 51.01
+            },
+            {
+                "char_e": 83,
+                "char_s": 79,
+                "time_e": 51.54,
+                "time_s": 51.18
+            },
+            {
+                "char_e": 95,
+                "char_s": 84,
+                "time_e": 52.31,
+                "time_s": 51.54
+            },
+            {
+                "char_e": 102,
+                "char_s": 96,
+                "time_e": 52.8,
+                "time_s": 52.31
+            },
+            {
+                "char_e": 109,
+                "char_s": 103,
+                "time_e": 53.4,
+                "time_s": 52.8
+            }
+        ]
+    },
+    {
+        "char_e": 127,
+        "char_s": 113,
+        "speaker": "Mići Princ",
+        "text": "Ča ti tu dilaš?",
+        "time_e": 55.29,
+        "time_s": 53.46,
+        "words": [
+            {
+                "char_e": 115,
+                "char_s": 113,
+                "time_e": 53.9,
+                "time_s": 53.46
+            },
+            {
+                "char_e": 118,
+                "char_s": 116,
+                "time_e": 54.42,
+                "time_s": 54.27
+            },
+            {
+                "char_e": 121,
+                "char_s": 119,
+                "time_e": 54.61,
+                "time_s": 54.42
+            },
+            {
+                "char_e": 127,
+                "char_s": 122,
+                "time_e": 55.29,
+                "time_s": 54.61
+            }
+        ]
+    },
+    {
+        "char_e": 136,
+        "char_s": 131,
+        "speaker": "Pijanac",
+        "text": "Pijen.",
+        "time_e": 56.41,
+        "time_s": 55.84,
+        "words": [
+            {
+                "char_e": 136,
+                "char_s": 131,
+                "time_e": 56.41,
+                "time_s": 55.84
+            }
+        ]
+    },
+    {
+        "char_e": 149,
+        "char_s": 140,
+        "speaker": "Mići Princ",
+        "text": "Zač piješ?",
+        "time_e": 58.17,
+        "time_s": 57.5,
+        "words": [
+            {
+                "char_e": 143,
+                "char_s": 140,
+                "time_e": 57.72,
+                "time_s": 57.5
+            },
+            {
+                "char_e": 149,
+                "char_s": 144,
+                "time_e": 58.17,
+                "time_s": 57.72
+            }
+        ]
+    },
+    {
+        "char_e": 163,
+        "char_s": 153,
+        "speaker": "Pijanac",
+        "text": "Da pozabin.",
+        "time_e": 59.79,
+        "time_s": 58.65,
+        "words": [
+            {
+                "char_e": 155,
+                "char_s": 153,
+                "time_e": 58.87,
+                "time_s": 58.65
+            },
+            {
+                "char_e": 163,
+                "char_s": 156,
+                "time_e": 59.79,
+                "time_s": 59.36
+            }
+        ]
+    },
+    {
+        "char_e": 180,
+        "char_s": 167,
+        "speaker": "Mići Princ",
+        "text": "Ča da pozabiš?",
+        "time_e": 61.54,
+        "time_s": 60.58,
+        "words": [
+            {
+                "char_e": 169,
+                "char_s": 167,
+                "time_e": 60.74,
+                "time_s": 60.58
+            },
+            {
+                "char_e": 172,
+                "char_s": 170,
+                "time_e": 60.87,
+                "time_s": 60.74
+            },
+            {
+                "char_e": 180,
+                "char_s": 173,
+                "time_e": 61.54,
+                "time_s": 60.87
+            }
+        ]
+    },
+    {
+        "char_e": 207,
+        "char_s": 184,
+        "speaker": "Pijanac",
+        "text": "Da pozabin da me j sran.",
+        "time_e": 63.14,
+        "time_s": 61.63,
+        "words": [
+            {
+                "char_e": 186,
+                "char_s": 184,
+                "time_e": 61.78,
+                "time_s": 61.63
+            },
+            {
+                "char_e": 194,
+                "char_s": 187,
+                "time_e": 62.41,
+                "time_s": 61.78
+            },
+            {
+                "char_e": 197,
+                "char_s": 195,
+                "time_e": 62.52,
+                "time_s": 62.41
+            },
+            {
+                "char_e": 200,
+                "char_s": 198,
+                "time_e": 62.66,
+                "time_s": 62.52
+            },
+            {
+                "char_e": 202,
+                "char_s": 201,
+                "time_e": 62.72,
+                "time_s": 62.66
+            },
+            {
+                "char_e": 207,
+                "char_s": 203,
+                "time_e": 63.14,
+                "time_s": 62.72
+            }
+        ]
+    },
+    {
+        "char_e": 225,
+        "char_s": 211,
+        "speaker": "Mići Princ",
+        "text": "Čiga te j sran?",
+        "time_e": 64.84,
+        "time_s": 63.85,
+        "words": [
+            {
+                "char_e": 215,
+                "char_s": 211,
+                "time_e": 64.13,
+                "time_s": 63.85
+            },
+            {
+                "char_e": 218,
+                "char_s": 216,
+                "time_e": 64.33,
+                "time_s": 64.13
+            },
+            {
+                "char_e": 220,
+                "char_s": 219,
+                "time_e": 64.37,
+                "time_s": 64.33
+            },
+            {
+                "char_e": 225,
+                "char_s": 221,
+                "time_e": 64.84,
+                "time_s": 64.37
+            }
+        ]
+    },
+    {
+        "char_e": 248,
+        "char_s": 229,
+        "speaker": "Pijanac",
+        "text": "Sran me je ča pijen!",
+        "time_e": 66.2,
+        "time_s": 64.98,
+        "words": [
+            {
+                "char_e": 233,
+                "char_s": 229,
+                "time_e": 65.36,
+                "time_s": 64.98
+            },
+            {
+                "char_e": 236,
+                "char_s": 234,
+                "time_e": 65.5,
+                "time_s": 65.36
+            },
+            {
+                "char_e": 239,
+                "char_s": 237,
+                "time_e": 65.59,
+                "time_s": 65.5
+            },
+            {
+                "char_e": 242,
+                "char_s": 240,
+                "time_e": 65.78,
+                "time_s": 65.59
+            },
+            {
+                "char_e": 248,
+                "char_s": 243,
+                "time_e": 66.2,
+                "time_s": 65.78
+            }
+        ]
+    },
+    {
+        "char_e": 284,
+        "char_s": 250,
+        "speaker": "Pisac",
+        "text": "I Mići Princ pobigne ća vas smućen.",
+        "time_e": 69.69,
+        "time_s": 66.76,
+        "words": [
+            {
+                "char_e": 251,
+                "char_s": 250,
+                "time_e": 66.92,
+                "time_s": 66.76
+            },
+            {
+                "char_e": 256,
+                "char_s": 252,
+                "time_e": 67.21,
+                "time_s": 66.92
+            },
+            {
+                "char_e": 262,
+                "char_s": 257,
+                "time_e": 67.59,
+                "time_s": 67.21
+            },
+            {
+                "char_e": 270,
+                "char_s": 263,
+                "time_e": 68.15,
+                "time_s": 67.59
+            },
+            {
+                "char_e": 273,
+                "char_s": 271,
+                "time_e": 68.77,
+                "time_s": 68.28
+            },
+            {
+                "char_e": 277,
+                "char_s": 274,
+                "time_e": 69.14,
+                "time_s": 68.83
+            },
+            {
+                "char_e": 284,
+                "char_s": 278,
+                "time_e": 69.69,
+                "time_s": 69.17
+            }
+        ]
+    },
+    {
+        "char_e": 321,
+        "char_s": 287,
+        "speaker": "Mići Princ",
+        "text": "Veli su zaspraven jako, jako čudni!“",
+        "time_e": 72.76,
+        "time_s": 70.21,
+        "words": [
+            {
+                "char_e": 291,
+                "char_s": 287,
+                "time_e": 70.57,
+                "time_s": 70.21
+            },
+            {
+                "char_e": 294,
+                "char_s": 292,
+                "time_e": 70.75,
+                "time_s": 70.57
+            },
+            {
+                "char_e": 304,
+                "char_s": 295,
+                "time_e": 71.49,
+                "time_s": 70.75
+            },
+            {
+                "char_e": 309,
+                "char_s": 305,
+                "time_e": 71.96,
+                "time_s": 71.58
+            },
+            {
+                "char_e": 315,
+                "char_s": 311,
+                "time_e": 72.31,
+                "time_s": 71.96
+            },
+            {
+                "char_e": 321,
+                "char_s": 316,
+                "time_e": 72.76,
+                "time_s": 72.31
+            }
+        ]
+    }
+]

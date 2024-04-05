@@ -1,0 +1,1192 @@
+[
+    {
+        "char_e": 41,
+        "char_s": 0,
+        "speaker": "Pisac",
+        "text": "Na drugimu planetu je živiv niki štimanac:",
+        "time_e": 78.71,
+        "time_s": 75.88357724388379,
+        "words": [
+            {
+                "char_e": 2,
+                "char_s": 0,
+                "time_e": 76.03690433486238,
+                "time_s": 75.88357724388379
+            },
+            {
+                "char_e": 10,
+                "char_s": 3,
+                "time_e": 76.52355118883793,
+                "time_s": 76.03690433486238
+            },
+            {
+                "char_e": 18,
+                "char_s": 11,
+                "time_e": 76.91020211391438,
+                "time_s": 76.52355118883793
+            },
+            {
+                "char_e": 21,
+                "char_s": 19,
+                "time_e": 77.14352594801224,
+                "time_s": 76.91020211391438
+            },
+            {
+                "char_e": 27,
+                "char_s": 22,
+                "time_e": 77.61,
+                "time_s": 77.14352594801224
+            },
+            {
+                "char_e": 32,
+                "char_s": 28,
+                "time_e": 77.93,
+                "time_s": 77.61
+            },
+            {
+                "char_e": 41,
+                "char_s": 33,
+                "time_e": 78.71,
+                "time_s": 77.93
+            }
+        ]
+    },
+    {
+        "char_e": 92,
+        "char_s": 45,
+        "speaker": "Štimanac",
+        "text": "Aj! Aj! Evo mi eniga kimu ću bit na prvin mistu!",
+        "time_e": 84.83,
+        "time_s": 79.87,
+        "words": [
+            {
+                "char_e": 47,
+                "char_s": 45,
+                "time_e": 79.98,
+                "time_s": 79.87
+            },
+            {
+                "char_e": 51,
+                "char_s": 49,
+                "time_e": 80.71,
+                "time_s": 80.61
+            },
+            {
+                "char_e": 56,
+                "char_s": 53,
+                "time_e": 81.51,
+                "time_s": 81.2
+            },
+            {
+                "char_e": 59,
+                "char_s": 57,
+                "time_e": 81.71,
+                "time_s": 81.51
+            },
+            {
+                "char_e": 65,
+                "char_s": 60,
+                "time_e": 82.1,
+                "time_s": 81.83
+            },
+            {
+                "char_e": 70,
+                "char_s": 66,
+                "time_e": 82.52,
+                "time_s": 82.1
+            },
+            {
+                "char_e": 73,
+                "char_s": 71,
+                "time_e": 82.69,
+                "time_s": 82.52
+            },
+            {
+                "char_e": 77,
+                "char_s": 74,
+                "time_e": 83.04,
+                "time_s": 82.69
+            },
+            {
+                "char_e": 80,
+                "char_s": 78,
+                "time_e": 83.32,
+                "time_s": 83.08
+            },
+            {
+                "char_e": 86,
+                "char_s": 81,
+                "time_e": 84.19,
+                "time_s": 83.74
+            },
+            {
+                "char_e": 92,
+                "char_s": 87,
+                "time_e": 84.83,
+                "time_s": 84.19
+            }
+        ]
+    },
+    {
+        "char_e": 138,
+        "char_s": 94,
+        "speaker": "Pisac",
+        "text": "Aš, za štimance su sȉ drugi judi obožavateji.",
+        "time_e": 88.87,
+        "time_s": 85.43,
+        "words": [
+            {
+                "char_e": 96,
+                "char_s": 94,
+                "time_e": 85.78,
+                "time_s": 85.43
+            },
+            {
+                "char_e": 100,
+                "char_s": 98,
+                "time_e": 86.0,
+                "time_s": 85.81
+            },
+            {
+                "char_e": 109,
+                "char_s": 101,
+                "time_e": 86.72,
+                "time_s": 86.0
+            },
+            {
+                "char_e": 112,
+                "char_s": 110,
+                "time_e": 86.92,
+                "time_s": 86.72
+            },
+            {
+                "char_e": 115,
+                "char_s": 113,
+                "time_e": 87.12,
+                "time_s": 86.92
+            },
+            {
+                "char_e": 121,
+                "char_s": 116,
+                "time_e": 87.49,
+                "time_s": 87.12
+            },
+            {
+                "char_e": 126,
+                "char_s": 122,
+                "time_e": 87.85,
+                "time_s": 87.49
+            },
+            {
+                "char_e": 138,
+                "char_s": 127,
+                "time_e": 88.87,
+                "time_s": 87.94
+            }
+        ]
+    },
+    {
+        "char_e": 171,
+        "char_s": 142,
+        "speaker": "Mići Princ",
+        "text": "Dobar dan! Mate smišan klobuk.",
+        "time_e": 91.71,
+        "time_s": 89.4,
+        "words": [
+            {
+                "char_e": 147,
+                "char_s": 142,
+                "time_e": 89.72,
+                "time_s": 89.4
+            },
+            {
+                "char_e": 151,
+                "char_s": 148,
+                "time_e": 90.24,
+                "time_s": 89.76
+            },
+            {
+                "char_e": 157,
+                "char_s": 153,
+                "time_e": 90.62,
+                "time_s": 90.32
+            },
+            {
+                "char_e": 164,
+                "char_s": 158,
+                "time_e": 91.01,
+                "time_s": 90.62
+            },
+            {
+                "char_e": 171,
+                "char_s": 165,
+                "time_e": 91.71,
+                "time_s": 91.01
+            }
+        ]
+    },
+    {
+        "char_e": 341,
+        "char_s": 175,
+        "speaker": "Štimanac",
+        "text": "Da bin mogav odzdravljat. Da bin mogav ozdravljat kad me pozdravljaju oni ki su van sebe od sreće samo zato aš me vide. Ma, na žalost, ovudar nigdar nijedan ne pasiva.",
+        "time_e": 106.91,
+        "time_s": 91.77,
+        "words": [
+            {
+                "char_e": 177,
+                "char_s": 175,
+                "time_e": 92.11,
+                "time_s": 91.77
+            },
+            {
+                "char_e": 181,
+                "char_s": 178,
+                "time_e": 92.38,
+                "time_s": 92.11
+            },
+            {
+                "char_e": 187,
+                "char_s": 182,
+                "time_e": 92.84,
+                "time_s": 92.38
+            },
+            {
+                "char_e": 199,
+                "char_s": 188,
+                "time_e": 93.69,
+                "time_s": 92.87
+            },
+            {
+                "char_e": 203,
+                "char_s": 201,
+                "time_e": 94.01,
+                "time_s": 93.76
+            },
+            {
+                "char_e": 207,
+                "char_s": 204,
+                "time_e": 94.16,
+                "time_s": 94.01
+            },
+            {
+                "char_e": 213,
+                "char_s": 208,
+                "time_e": 94.57,
+                "time_s": 94.19
+            },
+            {
+                "char_e": 224,
+                "char_s": 214,
+                "time_e": 95.42,
+                "time_s": 94.57
+            },
+            {
+                "char_e": 228,
+                "char_s": 225,
+                "time_e": 95.63,
+                "time_s": 95.45
+            },
+            {
+                "char_e": 231,
+                "char_s": 229,
+                "time_e": 95.77,
+                "time_s": 95.63
+            },
+            {
+                "char_e": 244,
+                "char_s": 232,
+                "time_e": 96.76,
+                "time_s": 95.77
+            },
+            {
+                "char_e": 248,
+                "char_s": 245,
+                "time_e": 97.13,
+                "time_s": 96.79
+            },
+            {
+                "char_e": 251,
+                "char_s": 249,
+                "time_e": 97.32,
+                "time_s": 97.13
+            },
+            {
+                "char_e": 254,
+                "char_s": 252,
+                "time_e": 97.57,
+                "time_s": 97.32
+            },
+            {
+                "char_e": 258,
+                "char_s": 255,
+                "time_e": 97.98,
+                "time_s": 97.64
+            },
+            {
+                "char_e": 263,
+                "char_s": 259,
+                "time_e": 98.57,
+                "time_s": 98.11
+            },
+            {
+                "char_e": 266,
+                "char_s": 264,
+                "time_e": 98.83,
+                "time_s": 98.62
+            },
+            {
+                "char_e": 272,
+                "char_s": 267,
+                "time_e": 99.4,
+                "time_s": 98.86
+            },
+            {
+                "char_e": 277,
+                "char_s": 273,
+                "time_e": 100.06,
+                "time_s": 99.5
+            },
+            {
+                "char_e": 282,
+                "char_s": 278,
+                "time_e": 100.55,
+                "time_s": 100.06
+            },
+            {
+                "char_e": 285,
+                "char_s": 283,
+                "time_e": 100.87,
+                "time_s": 100.58
+            },
+            {
+                "char_e": 288,
+                "char_s": 286,
+                "time_e": 101.13,
+                "time_s": 100.87
+            },
+            {
+                "char_e": 293,
+                "char_s": 289,
+                "time_e": 101.89,
+                "time_s": 101.13
+            },
+            {
+                "char_e": 297,
+                "char_s": 295,
+                "time_e": 102.92,
+                "time_s": 102.4
+            },
+            {
+                "char_e": 301,
+                "char_s": 299,
+                "time_e": 103.42,
+                "time_s": 103.2
+            },
+            {
+                "char_e": 308,
+                "char_s": 302,
+                "time_e": 104.1,
+                "time_s": 103.42
+            },
+            {
+                "char_e": 316,
+                "char_s": 310,
+                "time_e": 104.83,
+                "time_s": 104.27
+            },
+            {
+                "char_e": 323,
+                "char_s": 317,
+                "time_e": 105.48,
+                "time_s": 104.83
+            },
+            {
+                "char_e": 331,
+                "char_s": 324,
+                "time_e": 106.02,
+                "time_s": 105.48
+            },
+            {
+                "char_e": 334,
+                "char_s": 332,
+                "time_e": 106.13,
+                "time_s": 106.02
+            },
+            {
+                "char_e": 341,
+                "char_s": 335,
+                "time_e": 106.91,
+                "time_s": 106.13
+            }
+        ]
+    },
+    {
+        "char_e": 354,
+        "char_s": 345,
+        "speaker": "Mići Princ",
+        "text": "Ča bi reć?",
+        "time_e": 108.22,
+        "time_s": 107.51,
+        "words": [
+            {
+                "char_e": 347,
+                "char_s": 345,
+                "time_e": 107.73,
+                "time_s": 107.51
+            },
+            {
+                "char_e": 350,
+                "char_s": 348,
+                "time_e": 107.9,
+                "time_s": 107.73
+            },
+            {
+                "char_e": 354,
+                "char_s": 351,
+                "time_e": 108.22,
+                "time_s": 107.9
+            }
+        ]
+    },
+    {
+        "char_e": 376,
+        "char_s": 358,
+        "speaker": "Štimanac",
+        "text": "Zaplješći z rukami!",
+        "time_e": 110.1,
+        "time_s": 108.6,
+        "words": [
+            {
+                "char_e": 367,
+                "char_s": 358,
+                "time_e": 109.33,
+                "time_s": 108.6
+            },
+            {
+                "char_e": 369,
+                "char_s": 368,
+                "time_e": 109.48,
+                "time_s": 109.36
+            },
+            {
+                "char_e": 376,
+                "char_s": 370,
+                "time_e": 110.1,
+                "time_s": 109.48
+            }
+        ]
+    },
+    {
+        "char_e": 438,
+        "char_s": 378,
+        "speaker": "Pisac",
+        "text": "Mići Princ zapješće. Štimanac skromno odzdravi zdižuć klobuk.",
+        "time_e": 115.87,
+        "time_s": 110.97,
+        "words": [
+            {
+                "char_e": 382,
+                "char_s": 378,
+                "time_e": 111.3,
+                "time_s": 110.97
+            },
+            {
+                "char_e": 388,
+                "char_s": 383,
+                "time_e": 111.63,
+                "time_s": 111.3
+            },
+            {
+                "char_e": 397,
+                "char_s": 389,
+                "time_e": 112.33,
+                "time_s": 111.63
+            },
+            {
+                "char_e": 407,
+                "char_s": 399,
+                "time_e": 113.29,
+                "time_s": 112.57
+            },
+            {
+                "char_e": 415,
+                "char_s": 408,
+                "time_e": 113.92,
+                "time_s": 113.29
+            },
+            {
+                "char_e": 424,
+                "char_s": 416,
+                "time_e": 114.51,
+                "time_s": 113.95
+            },
+            {
+                "char_e": 431,
+                "char_s": 425,
+                "time_e": 115.15,
+                "time_s": 114.6
+            },
+            {
+                "char_e": 438,
+                "char_s": 432,
+                "time_e": 115.87,
+                "time_s": 115.15
+            }
+        ]
+    },
+    {
+        "char_e": 496,
+        "char_s": 442,
+        "speaker": "Mići Princ",
+        "text": "Ovo je fanjski zabavno! Boje nigo vižita k onimu kraju",
+        "time_e": 120.10999281440385,
+        "time_s": 116.64,
+        "words": [
+            {
+                "char_e": 445,
+                "char_s": 442,
+                "time_e": 116.87,
+                "time_s": 116.64
+            },
+            {
+                "char_e": 448,
+                "char_s": 446,
+                "time_e": 116.94,
+                "time_s": 116.87
+            },
+            {
+                "char_e": 456,
+                "char_s": 449,
+                "time_e": 117.36,
+                "time_s": 116.94
+            },
+            {
+                "char_e": 464,
+                "char_s": 457,
+                "time_e": 117.95,
+                "time_s": 117.36
+            },
+            {
+                "char_e": 470,
+                "char_s": 466,
+                "time_e": 118.52,
+                "time_s": 118.31
+            },
+            {
+                "char_e": 475,
+                "char_s": 471,
+                "time_e": 118.73,
+                "time_s": 118.52
+            },
+            {
+                "char_e": 482,
+                "char_s": 476,
+                "time_e": 119.11,
+                "time_s": 118.73
+            },
+            {
+                "char_e": 484,
+                "char_s": 483,
+                "time_e": 119.21,
+                "time_s": 119.11
+            },
+            {
+                "char_e": 490,
+                "char_s": 485,
+                "time_e": 119.52,
+                "time_s": 119.21
+            },
+            {
+                "char_e": 496,
+                "char_s": 491,
+                "time_e": 120.10999281440385,
+                "time_s": 119.52
+            }
+        ]
+    },
+    {
+        "char_e": 565,
+        "char_s": 497,
+        "speaker": "Pisac",
+        "text": "Pokle pet minuti takove gimnastike, Mićiga Princa je zmorila ta igra.",
+        "time_e": 127.28,
+        "time_s": 122.18999927762746,
+        "words": [
+            {
+                "char_e": 502,
+                "char_s": 497,
+                "time_e": 122.36,
+                "time_s": 122.18999927762746
+            },
+            {
+                "char_e": 506,
+                "char_s": 503,
+                "time_e": 122.6,
+                "time_s": 122.36
+            },
+            {
+                "char_e": 513,
+                "char_s": 507,
+                "time_e": 123.03,
+                "time_s": 122.6
+            },
+            {
+                "char_e": 520,
+                "char_s": 514,
+                "time_e": 123.52,
+                "time_s": 123.03
+            },
+            {
+                "char_e": 531,
+                "char_s": 521,
+                "time_e": 124.28,
+                "time_s": 123.52
+            },
+            {
+                "char_e": 539,
+                "char_s": 533,
+                "time_e": 125.19,
+                "time_s": 124.71
+            },
+            {
+                "char_e": 546,
+                "char_s": 540,
+                "time_e": 125.64,
+                "time_s": 125.19
+            },
+            {
+                "char_e": 549,
+                "char_s": 547,
+                "time_e": 125.7,
+                "time_s": 125.64
+            },
+            {
+                "char_e": 557,
+                "char_s": 550,
+                "time_e": 126.39,
+                "time_s": 125.81
+            },
+            {
+                "char_e": 560,
+                "char_s": 558,
+                "time_e": 126.64,
+                "time_s": 126.39
+            },
+            {
+                "char_e": 565,
+                "char_s": 561,
+                "time_e": 127.28,
+                "time_s": 126.64
+            }
+        ]
+    },
+    {
+        "char_e": 603,
+        "char_s": 569,
+        "speaker": "Mići Princ",
+        "text": "A ča bi rabi storit da klobuk pade?",
+        "time_e": 129.6,
+        "time_s": 127.54,
+        "words": [
+            {
+                "char_e": 570,
+                "char_s": 569,
+                "time_e": 127.57,
+                "time_s": 127.54
+            },
+            {
+                "char_e": 573,
+                "char_s": 571,
+                "time_e": 127.88,
+                "time_s": 127.74
+            },
+            {
+                "char_e": 576,
+                "char_s": 574,
+                "time_e": 128.01,
+                "time_s": 127.88
+            },
+            {
+                "char_e": 581,
+                "char_s": 577,
+                "time_e": 128.28,
+                "time_s": 128.01
+            },
+            {
+                "char_e": 588,
+                "char_s": 582,
+                "time_e": 128.68,
+                "time_s": 128.28
+            },
+            {
+                "char_e": 591,
+                "char_s": 589,
+                "time_e": 128.82,
+                "time_s": 128.68
+            },
+            {
+                "char_e": 598,
+                "char_s": 592,
+                "time_e": 129.19,
+                "time_s": 128.82
+            },
+            {
+                "char_e": 603,
+                "char_s": 599,
+                "time_e": 129.6,
+                "time_s": 129.22
+            }
+        ]
+    },
+    {
+        "char_e": 643,
+        "char_s": 607,
+        "speaker": "Štimanac",
+        "text": "Ti zasprave gledaš va me kot va Boga?",
+        "time_e": 135.05,
+        "time_s": 130.92,
+        "words": [
+            {
+                "char_e": 609,
+                "char_s": 607,
+                "time_e": 131.13,
+                "time_s": 130.92
+            },
+            {
+                "char_e": 618,
+                "char_s": 610,
+                "time_e": 132.07,
+                "time_s": 131.13
+            },
+            {
+                "char_e": 625,
+                "char_s": 619,
+                "time_e": 132.71,
+                "time_s": 132.07
+            },
+            {
+                "char_e": 628,
+                "char_s": 626,
+                "time_e": 133.04,
+                "time_s": 132.74
+            },
+            {
+                "char_e": 631,
+                "char_s": 629,
+                "time_e": 133.32,
+                "time_s": 133.04
+            },
+            {
+                "char_e": 635,
+                "char_s": 632,
+                "time_e": 133.95,
+                "time_s": 133.53
+            },
+            {
+                "char_e": 638,
+                "char_s": 636,
+                "time_e": 134.37,
+                "time_s": 134.17
+            },
+            {
+                "char_e": 643,
+                "char_s": 639,
+                "time_e": 135.05,
+                "time_s": 134.37
+            }
+        ]
+    },
+    {
+        "char_e": 658,
+        "char_s": 647,
+        "speaker": "Mići Princ",
+        "text": "Ča to znači?",
+        "time_e": 136.38,
+        "time_s": 135.5,
+        "words": [
+            {
+                "char_e": 649,
+                "char_s": 647,
+                "time_e": 135.66,
+                "time_s": 135.5
+            },
+            {
+                "char_e": 652,
+                "char_s": 650,
+                "time_e": 135.79,
+                "time_s": 135.66
+            },
+            {
+                "char_e": 658,
+                "char_s": 653,
+                "time_e": 136.38,
+                "time_s": 136.07
+            }
+        ]
+    },
+    {
+        "char_e": 763,
+        "char_s": 662,
+        "speaker": "Štimanac",
+        "text": "To znači priznat da san ja najlipji, najbolje obličen, najbogatiji i najpametniji čovik na ovin svitu.",
+        "time_e": 147.77,
+        "time_s": 136.86,
+        "words": [
+            {
+                "char_e": 664,
+                "char_s": 662,
+                "time_e": 137.05,
+                "time_s": 136.86
+            },
+            {
+                "char_e": 670,
+                "char_s": 665,
+                "time_e": 137.68,
+                "time_s": 137.05
+            },
+            {
+                "char_e": 678,
+                "char_s": 671,
+                "time_e": 138.6,
+                "time_s": 137.78
+            },
+            {
+                "char_e": 681,
+                "char_s": 679,
+                "time_e": 138.96,
+                "time_s": 138.72
+            },
+            {
+                "char_e": 685,
+                "char_s": 682,
+                "time_e": 139.24,
+                "time_s": 138.96
+            },
+            {
+                "char_e": 688,
+                "char_s": 686,
+                "time_e": 139.36,
+                "time_s": 139.24
+            },
+            {
+                "char_e": 697,
+                "char_s": 689,
+                "time_e": 140.64,
+                "time_s": 139.36
+            },
+            {
+                "char_e": 707,
+                "char_s": 699,
+                "time_e": 141.85,
+                "time_s": 141.17
+            },
+            {
+                "char_e": 715,
+                "char_s": 708,
+                "time_e": 142.49,
+                "time_s": 141.85
+            },
+            {
+                "char_e": 728,
+                "char_s": 717,
+                "time_e": 144.14,
+                "time_s": 142.71
+            },
+            {
+                "char_e": 730,
+                "char_s": 729,
+                "time_e": 144.63,
+                "time_s": 144.36
+            },
+            {
+                "char_e": 743,
+                "char_s": 731,
+                "time_e": 145.59,
+                "time_s": 144.63
+            },
+            {
+                "char_e": 749,
+                "char_s": 744,
+                "time_e": 146.08,
+                "time_s": 145.59
+            },
+            {
+                "char_e": 752,
+                "char_s": 750,
+                "time_e": 146.34,
+                "time_s": 146.11
+            },
+            {
+                "char_e": 757,
+                "char_s": 753,
+                "time_e": 146.82,
+                "time_s": 146.38
+            },
+            {
+                "char_e": 763,
+                "char_s": 758,
+                "time_e": 147.77,
+                "time_s": 146.82
+            }
+        ]
+    },
+    {
+        "char_e": 794,
+        "char_s": 767,
+        "speaker": "Mići Princ",
+        "text": "Ali ti si sam na ovin svitu!",
+        "time_e": 150.09,
+        "time_s": 148.28,
+        "words": [
+            {
+                "char_e": 770,
+                "char_s": 767,
+                "time_e": 148.54,
+                "time_s": 148.28
+            },
+            {
+                "char_e": 773,
+                "char_s": 771,
+                "time_e": 148.7,
+                "time_s": 148.54
+            },
+            {
+                "char_e": 776,
+                "char_s": 774,
+                "time_e": 148.84,
+                "time_s": 148.7
+            },
+            {
+                "char_e": 780,
+                "char_s": 777,
+                "time_e": 149.15,
+                "time_s": 148.84
+            },
+            {
+                "char_e": 783,
+                "char_s": 781,
+                "time_e": 149.3,
+                "time_s": 149.15
+            },
+            {
+                "char_e": 788,
+                "char_s": 784,
+                "time_e": 149.51,
+                "time_s": 149.3
+            },
+            {
+                "char_e": 794,
+                "char_s": 789,
+                "time_e": 150.09,
+                "time_s": 149.51
+            }
+        ]
+    },
+    {
+        "char_e": 864,
+        "char_s": 798,
+        "speaker": "Štimanac",
+        "text": "Stori to da mi rit bude na mistu! Ala, daj, glej va me kot va Boga!",
+        "time_e": 156.6,
+        "time_s": 150.49,
+        "words": [
+            {
+                "char_e": 803,
+                "char_s": 798,
+                "time_e": 151.1,
+                "time_s": 150.49
+            },
+            {
+                "char_e": 806,
+                "char_s": 804,
+                "time_e": 151.48,
+                "time_s": 151.1
+            },
+            {
+                "char_e": 809,
+                "char_s": 807,
+                "time_e": 151.68,
+                "time_s": 151.48
+            },
+            {
+                "char_e": 812,
+                "char_s": 810,
+                "time_e": 151.92,
+                "time_s": 151.68
+            },
+            {
+                "char_e": 816,
+                "char_s": 813,
+                "time_e": 152.2,
+                "time_s": 151.92
+            },
+            {
+                "char_e": 821,
+                "char_s": 817,
+                "time_e": 152.58,
+                "time_s": 152.23
+            },
+            {
+                "char_e": 824,
+                "char_s": 822,
+                "time_e": 152.71,
+                "time_s": 152.58
+            },
+            {
+                "char_e": 830,
+                "char_s": 825,
+                "time_e": 153.27,
+                "time_s": 152.71
+            },
+            {
+                "char_e": 835,
+                "char_s": 832,
+                "time_e": 153.81,
+                "time_s": 153.54
+            },
+            {
+                "char_e": 840,
+                "char_s": 837,
+                "time_e": 154.28,
+                "time_s": 153.81
+            },
+            {
+                "char_e": 846,
+                "char_s": 842,
+                "time_e": 154.87,
+                "time_s": 154.45
+            },
+            {
+                "char_e": 849,
+                "char_s": 847,
+                "time_e": 155.15,
+                "time_s": 154.87
+            },
+            {
+                "char_e": 852,
+                "char_s": 850,
+                "time_e": 155.4,
+                "time_s": 155.18
+            },
+            {
+                "char_e": 856,
+                "char_s": 853,
+                "time_e": 155.82,
+                "time_s": 155.45
+            },
+            {
+                "char_e": 859,
+                "char_s": 857,
+                "time_e": 156.0,
+                "time_s": 155.82
+            },
+            {
+                "char_e": 864,
+                "char_s": 860,
+                "time_e": 156.6,
+                "time_s": 156.0
+            }
+        ]
+    },
+    {
+        "char_e": 946,
+        "char_s": 868,
+        "speaker": "Mići Princ",
+        "text": "Evo, dan! – Ali zač ti je do tiga tuliko stalo?\n„ Veli su zaspraven jako čudni!“",
+        "time_e": 163.22,
+        "time_s": 157.5,
+        "words": [
+            {
+                "char_e": 871,
+                "char_s": 868,
+                "time_e": 157.78,
+                "time_s": 157.5
+            },
+            {
+                "char_e": 876,
+                "char_s": 873,
+                "time_e": 158.18,
+                "time_s": 157.78
+            },
+            {
+                "char_e": 883,
+                "char_s": 880,
+                "time_e": 159.15,
+                "time_s": 158.85
+            },
+            {
+                "char_e": 887,
+                "char_s": 884,
+                "time_e": 159.35,
+                "time_s": 159.15
+            },
+            {
+                "char_e": 890,
+                "char_s": 888,
+                "time_e": 159.5,
+                "time_s": 159.35
+            },
+            {
+                "char_e": 893,
+                "char_s": 891,
+                "time_e": 159.57,
+                "time_s": 159.5
+            },
+            {
+                "char_e": 896,
+                "char_s": 894,
+                "time_e": 159.69,
+                "time_s": 159.57
+            },
+            {
+                "char_e": 901,
+                "char_s": 897,
+                "time_e": 159.95,
+                "time_s": 159.69
+            },
+            {
+                "char_e": 908,
+                "char_s": 902,
+                "time_e": 160.32,
+                "time_s": 159.95
+            },
+            {
+                "char_e": 914,
+                "char_s": 909,
+                "time_e": 160.77,
+                "time_s": 160.32
+            },
+            {
+                "char_e": 922,
+                "char_s": 918,
+                "time_e": 161.72,
+                "time_s": 161.45
+            },
+            {
+                "char_e": 925,
+                "char_s": 923,
+                "time_e": 161.91,
+                "time_s": 161.72
+            },
+            {
+                "char_e": 935,
+                "char_s": 926,
+                "time_e": 162.5,
+                "time_s": 161.91
+            },
+            {
+                "char_e": 940,
+                "char_s": 936,
+                "time_e": 162.76,
+                "time_s": 162.5
+            },
+            {
+                "char_e": 946,
+                "char_s": 941,
+                "time_e": 163.22,
+                "time_s": 162.76
+            }
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+GatherJsons        1              1              1
+total              1              1              1
+
+Select jobs to execute...
+
+[Fri Mar  1 10:15:28 2024]
+rule GatherJsons:
+    input: aligned_jsons/MP_03.json, aligned_jsons/MP_12.json, aligned_jsons/MP_15.json, aligned_jsons/MP_08.json, aligned_jsons/MP_13.json, aligned_jsons/MP_06.json, aligned_jsons/MP_05.json, aligned_jsons/MP_00.json, aligned_jsons/MP_10.json, aligned_jsons/MP_14.json, aligned_jsons/MP_04.json, aligned_jsons/MP_25.json, aligned_jsons/MP_01.json, aligned_jsons/MP_07.json, aligned_jsons/MP_09.json, aligned_jsons/MP_11.json, aligned_jsons/MP_02.json
+    jobid: 0
+    reason: Rules with a run or shell declaration but no output are always executed.
+    resources: tmpdir=/tmp
+
+[Fri Mar  1 10:15:28 2024]
+Finished job 0.
+1 of 1 steps (100%) done
+Complete log: .snakemake/log/2024-03-01T101528.112261.snakemake.log

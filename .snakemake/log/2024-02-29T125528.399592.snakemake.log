@@ -1,0 +1,38 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job       count    min threads    max threads
+------  -------  -------------  -------------
+Check         1              1              1
+Gather        1              1              1
+total         2              1              1
+
+Select jobs to execute...
+
+[Thu Feb 29 12:55:28 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_09.exb, /home/nikola/transfer/mici_princ/MP_09.txt.txt, /home/nikola/transfer/mici_princ/MP_09.txt.json
+    output: inspected_exbs_fixed/MP_09.exb
+    jobid: 15
+    reason: Missing output files: inspected_exbs_fixed/MP_09.exb
+    wildcards: file=MP_09
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 12:55:28 2024]
+Finished job 15.
+1 of 2 steps (50%) done
+Select jobs to execute...
+
+[Thu Feb 29 12:55:28 2024]
+localrule Gather:
+    input: inspected_exbs_fixed/MP_03.exb, inspected_exbs_fixed/MP_12.exb, inspected_exbs_fixed/MP_15.exb, inspected_exbs_fixed/MP_08.exb, inspected_exbs_fixed/MP_13.exb, inspected_exbs_fixed/MP_06.exb, inspected_exbs_fixed/MP_05.exb, inspected_exbs_fixed/MP_00.exb, inspected_exbs_fixed/MP_10.exb, inspected_exbs_fixed/MP_14.exb, inspected_exbs_fixed/MP_04.exb, inspected_exbs_fixed/MP_25.exb, inspected_exbs_fixed/MP_01.exb, inspected_exbs_fixed/MP_07.exb, inspected_exbs_fixed/MP_09.exb, inspected_exbs_fixed/MP_11.exb, inspected_exbs_fixed/MP_02.exb
+    jobid: 0
+    reason: Input files updated by another job: inspected_exbs_fixed/MP_09.exb
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 12:55:28 2024]
+Finished job 0.
+2 of 2 steps (100%) done
+Complete log: .snakemake/log/2024-02-29T125528.399592.snakemake.log

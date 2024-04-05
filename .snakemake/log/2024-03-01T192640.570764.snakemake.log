@@ -1,0 +1,22 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 10
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+Check             16              1              1
+DoJSON            16              1              1
+GatherJsons        1              1              1
+total             33              1              1
+
+Select jobs to execute...
+
+[Fri Mar  1 19:26:41 2024]
+rule Check:
+    input: /home/nikola/transfer/mici_princ/MP_08.exb, /home/nikola/transfer/mici_princ/MP_08.txt.txt, /home/nikola/transfer/mici_princ/MP_08.txt.json
+    output: inspected_exbs_fixed/MP_08.exb
+    jobid: 8
+    reason: Forced execution
+    wildcards: file=MP_08
+    resources: tmpdir=/tmp

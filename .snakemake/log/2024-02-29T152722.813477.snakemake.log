@@ -1,0 +1,262 @@
+Building DAG of jobs...
+Using shell: /usr/bin/bash
+Provided cores: 1 (use --cores to define parallelism)
+Rules claiming more threads will be scaled down.
+Job stats:
+job            count    min threads    max threads
+-----------  -------  -------------  -------------
+DoJSON            17              1              1
+GatherJsons        1              1              1
+total             18              1              1
+
+Select jobs to execute...
+
+[Thu Feb 29 15:27:22 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_04.exb, /home/nikola/transfer/mici_princ/MP_04.txt.txt, /home/nikola/transfer/mici_princ/MP_04.txt, /home/nikola/transfer/mici_princ/MP_04.txt.json
+    output: aligned_jsons/MP_04.json
+    jobid: 21
+    reason: Missing output files: aligned_jsons/MP_04.json
+    wildcards: file=MP_04
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:23 2024]
+Finished job 21.
+1 of 18 steps (6%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:23 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_25.exb, /home/nikola/transfer/mici_princ/MP_25.txt.txt, /home/nikola/transfer/mici_princ/MP_25.txt, /home/nikola/transfer/mici_princ/MP_25.txt.json
+    output: aligned_jsons/MP_25.json
+    jobid: 23
+    reason: Missing output files: aligned_jsons/MP_25.json
+    wildcards: file=MP_25
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:23 2024]
+Finished job 23.
+2 of 18 steps (11%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:23 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_01.exb, /home/nikola/transfer/mici_princ/MP_01.txt.txt, /home/nikola/transfer/mici_princ/MP_01.txt, /home/nikola/transfer/mici_princ/MP_01.txt.json
+    output: aligned_jsons/MP_01.json
+    jobid: 25
+    reason: Missing output files: aligned_jsons/MP_01.json
+    wildcards: file=MP_01
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:23 2024]
+Finished job 25.
+3 of 18 steps (17%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:23 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_07.exb, /home/nikola/transfer/mici_princ/MP_07.txt.txt, /home/nikola/transfer/mici_princ/MP_07.txt, /home/nikola/transfer/mici_princ/MP_07.txt.json
+    output: aligned_jsons/MP_07.json
+    jobid: 27
+    reason: Missing output files: aligned_jsons/MP_07.json
+    wildcards: file=MP_07
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:23 2024]
+Finished job 27.
+4 of 18 steps (22%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:23 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_09.exb, /home/nikola/transfer/mici_princ/MP_09.txt.txt, /home/nikola/transfer/mici_princ/MP_09.txt, /home/nikola/transfer/mici_princ/MP_09.txt.json
+    output: aligned_jsons/MP_09.json
+    jobid: 29
+    reason: Code has changed since last execution
+    wildcards: file=MP_09
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:23 2024]
+Finished job 29.
+5 of 18 steps (28%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:23 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_03.exb, /home/nikola/transfer/mici_princ/MP_03.txt.txt, /home/nikola/transfer/mici_princ/MP_03.txt, /home/nikola/transfer/mici_princ/MP_03.txt.json
+    output: aligned_jsons/MP_03.json
+    jobid: 1
+    reason: Missing output files: aligned_jsons/MP_03.json
+    wildcards: file=MP_03
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:23 2024]
+Finished job 1.
+6 of 18 steps (33%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:23 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_12.exb, /home/nikola/transfer/mici_princ/MP_12.txt.txt, /home/nikola/transfer/mici_princ/MP_12.txt, /home/nikola/transfer/mici_princ/MP_12.txt.json
+    output: aligned_jsons/MP_12.json
+    jobid: 3
+    reason: Missing output files: aligned_jsons/MP_12.json
+    wildcards: file=MP_12
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:23 2024]
+Finished job 3.
+7 of 18 steps (39%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:23 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_11.exb, /home/nikola/transfer/mici_princ/MP_11.txt.txt, /home/nikola/transfer/mici_princ/MP_11.txt, /home/nikola/transfer/mici_princ/MP_11.txt.json
+    output: aligned_jsons/MP_11.json
+    jobid: 31
+    reason: Missing output files: aligned_jsons/MP_11.json
+    wildcards: file=MP_11
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:23 2024]
+Finished job 31.
+8 of 18 steps (44%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:23 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_15.exb, /home/nikola/transfer/mici_princ/MP_15.txt.txt, /home/nikola/transfer/mici_princ/MP_15.txt, /home/nikola/transfer/mici_princ/MP_15.txt.json
+    output: aligned_jsons/MP_15.json
+    jobid: 5
+    reason: Missing output files: aligned_jsons/MP_15.json
+    wildcards: file=MP_15
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:23 2024]
+Finished job 5.
+9 of 18 steps (50%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:23 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_02.exb, /home/nikola/transfer/mici_princ/MP_02.txt.txt, /home/nikola/transfer/mici_princ/MP_02.txt, /home/nikola/transfer/mici_princ/MP_02.txt.json
+    output: aligned_jsons/MP_02.json
+    jobid: 33
+    reason: Missing output files: aligned_jsons/MP_02.json
+    wildcards: file=MP_02
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:24 2024]
+Finished job 33.
+10 of 18 steps (56%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:24 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_08.exb, /home/nikola/transfer/mici_princ/MP_08.txt.txt, /home/nikola/transfer/mici_princ/MP_08.txt, /home/nikola/transfer/mici_princ/MP_08.txt.json
+    output: aligned_jsons/MP_08.json
+    jobid: 7
+    reason: Missing output files: aligned_jsons/MP_08.json
+    wildcards: file=MP_08
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:24 2024]
+Finished job 7.
+11 of 18 steps (61%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:24 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_13.exb, /home/nikola/transfer/mici_princ/MP_13.txt.txt, /home/nikola/transfer/mici_princ/MP_13.txt, /home/nikola/transfer/mici_princ/MP_13.txt.json
+    output: aligned_jsons/MP_13.json
+    jobid: 9
+    reason: Missing output files: aligned_jsons/MP_13.json
+    wildcards: file=MP_13
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:24 2024]
+Finished job 9.
+12 of 18 steps (67%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:24 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_06.exb, /home/nikola/transfer/mici_princ/MP_06.txt.txt, /home/nikola/transfer/mici_princ/MP_06.txt, /home/nikola/transfer/mici_princ/MP_06.txt.json
+    output: aligned_jsons/MP_06.json
+    jobid: 11
+    reason: Missing output files: aligned_jsons/MP_06.json
+    wildcards: file=MP_06
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:24 2024]
+Finished job 11.
+13 of 18 steps (72%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:24 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_05.exb, /home/nikola/transfer/mici_princ/MP_05.txt.txt, /home/nikola/transfer/mici_princ/MP_05.txt, /home/nikola/transfer/mici_princ/MP_05.txt.json
+    output: aligned_jsons/MP_05.json
+    jobid: 13
+    reason: Missing output files: aligned_jsons/MP_05.json
+    wildcards: file=MP_05
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:24 2024]
+Finished job 13.
+14 of 18 steps (78%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:24 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_00.exb, /home/nikola/transfer/mici_princ/MP_00.txt.txt, /home/nikola/transfer/mici_princ/MP_00.txt, /home/nikola/transfer/mici_princ/MP_00.txt.json
+    output: aligned_jsons/MP_00.json
+    jobid: 15
+    reason: Missing output files: aligned_jsons/MP_00.json
+    wildcards: file=MP_00
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:24 2024]
+Finished job 15.
+15 of 18 steps (83%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:24 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_10.exb, /home/nikola/transfer/mici_princ/MP_10.txt.txt, /home/nikola/transfer/mici_princ/MP_10.txt, /home/nikola/transfer/mici_princ/MP_10.txt.json
+    output: aligned_jsons/MP_10.json
+    jobid: 17
+    reason: Missing output files: aligned_jsons/MP_10.json
+    wildcards: file=MP_10
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:24 2024]
+Finished job 17.
+16 of 18 steps (89%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:24 2024]
+rule DoJSON:
+    input: inspected_exbs_fixed/MP_14.exb, /home/nikola/transfer/mici_princ/MP_14.txt.txt, /home/nikola/transfer/mici_princ/MP_14.txt, /home/nikola/transfer/mici_princ/MP_14.txt.json
+    output: aligned_jsons/MP_14.json
+    jobid: 19
+    reason: Missing output files: aligned_jsons/MP_14.json
+    wildcards: file=MP_14
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:24 2024]
+Finished job 19.
+17 of 18 steps (94%) done
+Select jobs to execute...
+
+[Thu Feb 29 15:27:24 2024]
+localrule GatherJsons:
+    input: aligned_jsons/MP_03.json, aligned_jsons/MP_12.json, aligned_jsons/MP_15.json, aligned_jsons/MP_08.json, aligned_jsons/MP_13.json, aligned_jsons/MP_06.json, aligned_jsons/MP_05.json, aligned_jsons/MP_00.json, aligned_jsons/MP_10.json, aligned_jsons/MP_14.json, aligned_jsons/MP_04.json, aligned_jsons/MP_25.json, aligned_jsons/MP_01.json, aligned_jsons/MP_07.json, aligned_jsons/MP_09.json, aligned_jsons/MP_11.json, aligned_jsons/MP_02.json
+    jobid: 0
+    reason: Input files updated by another job: aligned_jsons/MP_05.json, aligned_jsons/MP_01.json, aligned_jsons/MP_09.json, aligned_jsons/MP_03.json, aligned_jsons/MP_06.json, aligned_jsons/MP_25.json, aligned_jsons/MP_00.json, aligned_jsons/MP_15.json, aligned_jsons/MP_07.json, aligned_jsons/MP_11.json, aligned_jsons/MP_12.json, aligned_jsons/MP_08.json, aligned_jsons/MP_13.json, aligned_jsons/MP_14.json, aligned_jsons/MP_04.json, aligned_jsons/MP_02.json, aligned_jsons/MP_10.json
+    resources: tmpdir=/tmp
+
+[Thu Feb 29 15:27:24 2024]
+Finished job 0.
+18 of 18 steps (100%) done
+Complete log: .snakemake/log/2024-02-29T152722.813477.snakemake.log
